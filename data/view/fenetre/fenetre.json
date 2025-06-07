@@ -1,0 +1,22 @@
+{
+    "id": 1,
+    "name": "Fenêtre",
+    "description": "je suis une super fenêtre",
+    "descImage": "http://fleuriste.com/img.png",
+    "links": [
+      {
+        "id": 2,
+        "name": "Étoile",
+        "tags": ["forme", "taille"],
+        "relevance" : 1
+      },
+      {
+        "id": 3,
+        "name": "Aluminium",
+        "tags": ["materiau"],
+        "relevance": 2
+      }
+    ],
+    "audio": null
+  }
+  
