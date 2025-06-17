@@ -1,3 +1,4 @@
+import { BREAKDOWN_COLOR, HYBRID_COLOR, HYPER_COLOR } from "../lib/variables";
 import { View } from "../types/view";
 import { Edge, Node } from "@xyflow/react";
 
@@ -34,11 +35,11 @@ export function fromView(view: View): GraphInfo {
 
     var strokeColor = "#ffffff";
     if (viewEdge.linkType == "hyper") {
-      strokeColor = "#006769";
+      strokeColor = HYPER_COLOR;
     } else if (viewEdge.linkType == "breakDown") {
-      strokeColor = "#810C69";
+      strokeColor = BREAKDOWN_COLOR;
     } else {
-      strokeColor = "#283573";
+      strokeColor = HYBRID_COLOR;
     }
 
     const graphEdge: Edge = {

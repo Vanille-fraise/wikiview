@@ -6,14 +6,13 @@ import {
   useReactFlow,
   ReactFlow,
   ReactFlowProvider,
-  Edge,
-  Node,
 } from "@xyflow/react";
 import "@xyflow/react/dist/style.css";
 import { fromView } from "@/code/types/graphInfo";
 import { loadingView } from "@/code/types/view";
 import { getLayoutedElements } from "@/code/lib/layout";
 import CenterNode from "@/code/types/CenterNode";
+import { shuffle } from "../lib/utils";
 
 const nodeTypes = {
   centerNode: CenterNode,
@@ -22,9 +21,11 @@ const nodeTypes = {
 function Flow({
   page,
   setPage,
+  setStartLoading,
 }: {
   page: string;
   setPage: React.Dispatch<React.SetStateAction<string>>;
+  setStartLoading: React.Dispatch<React.SetStateAction<boolean>>;
 }) {
   const loadingGraph = fromView(loadingView);
   const [nodes, setNodes, onNodesChange] = useNodesState(loadingGraph.nodes);
@@ -42,10 +43,16 @@ function Flow({
 
   useEffect(() => {
     const setGraphInfoView = async (displayView: string) => {
+      setStartLoading(true);
+
       const viewResponse = await fetch(`/api/tools/viewManager/${displayView}`);
       if (viewResponse.ok) {
         const view = await viewResponse.json();
         var graphInfo = fromView(view);
+
+        // shuffle for prettier display
+        graphInfo.edges = shuffle(graphInfo.edges);
+
         const layoutedNodes = await getLayoutedElements(
           graphInfo.nodes,
           graphInfo.edges
@@ -90,13 +97,15 @@ function Flow({
 export default function FlowProvider({
   page,
   setPage,
+  setStartLoading,
 }: {
   page: string;
   setPage: React.Dispatch<React.SetStateAction<string>>;
+  setStartLoading: React.Dispatch<React.SetStateAction<boolean>>;
 }) {
   return (
     <ReactFlowProvider>
-      <Flow page={page} setPage={setPage} />
+      <Flow page={page} setPage={setPage} setStartLoading={setStartLoading} />
     </ReactFlowProvider>
   );
 }
