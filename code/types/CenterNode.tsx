@@ -1,7 +1,7 @@
 import React from "react";
 import { Handle, Position } from "@xyflow/react";
 
-const MAX_DESC_WORDS = 46;
+const MAX_DESC_WORDS = 36;
 
 export default function CenterNode({
   data,

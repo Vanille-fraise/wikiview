@@ -13,6 +13,7 @@ import { loadingView } from "@/code/types/view";
 import { getLayoutedElements } from "@/code/lib/layout";
 import CenterNode from "@/code/types/CenterNode";
 import { shuffle } from "../lib/utils";
+import { LoadingStatus } from "@/pages/search/[searchParam]";
 
 const nodeTypes = {
   centerNode: CenterNode,
@@ -21,10 +22,12 @@ const nodeTypes = {
 function Flow({
   page,
   setPage,
+  setLoadingStatus,
   setStartLoading,
 }: {
   page: string;
   setPage: React.Dispatch<React.SetStateAction<string>>;
+  setLoadingStatus: React.Dispatch<React.SetStateAction<LoadingStatus>>;
   setStartLoading: React.Dispatch<React.SetStateAction<boolean>>;
 }) {
   const loadingGraph = fromView(loadingView);
@@ -43,6 +46,7 @@ function Flow({
 
   useEffect(() => {
     const setGraphInfoView = async (displayView: string) => {
+      setLoadingStatus(LoadingStatus.Start);
       setStartLoading(true);
 
       const viewResponse = await fetch(`/api/tools/viewManager/${displayView}`);
@@ -57,9 +61,12 @@ function Flow({
           graphInfo.nodes,
           graphInfo.edges
         );
+        setLoadingStatus(LoadingStatus.Done);
         setNodes(layoutedNodes);
         setEdges(graphInfo.edges);
         reactFlow.fitView();
+      } else {
+        setLoadingStatus(LoadingStatus.Error);
       }
     };
     page && setGraphInfoView(page);
@@ -97,15 +104,22 @@ function Flow({
 export default function FlowProvider({
   page,
   setPage,
+  setLoadingStatus,
   setStartLoading,
 }: {
   page: string;
   setPage: React.Dispatch<React.SetStateAction<string>>;
+  setLoadingStatus: React.Dispatch<React.SetStateAction<LoadingStatus>>;
   setStartLoading: React.Dispatch<React.SetStateAction<boolean>>;
 }) {
   return (
     <ReactFlowProvider>
-      <Flow page={page} setPage={setPage} setStartLoading={setStartLoading} />
+      <Flow
+        page={page}
+        setPage={setPage}
+        setLoadingStatus={setLoadingStatus}
+        setStartLoading={setStartLoading}
+      />
     </ReactFlowProvider>
   );
 }

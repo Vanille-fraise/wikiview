@@ -2,7 +2,7 @@ import { interpolateColor } from "@/code/lib/utils";
 import { BREAKDOWN_COLOR, HYPER_COLOR } from "@/code/lib/variables";
 import FlowProvider from "@/code/types/Flow";
 import { useRouter } from "next/router";
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 
 interface LoadingState {
   progress: number;
@@ -22,18 +22,32 @@ const LOADING_STEPS: LoadingState[] = [
   { progress: 1, duration: 0.2 },
 ];
 
+export enum LoadingStatus {
+  Start,
+  Error,
+  Done,
+}
+
 export function ViewPage({ pageName }: { pageName: string }) {
   const [page, setPage] = useState<string>(pageName);
   const [loadingProgress, setloadingProgress] = useState(0);
   const [loadingColor, setLoadingColor] = useState("transparent");
   const [loadingDuration, setLoadingDuration] = useState(0);
   const [startLoading, setStartLoading] = useState(false);
+  const [loadingStatus, setLoadingStatus] = useState<LoadingStatus>(
+    LoadingStatus.Done
+  );
+
+  const loadingStatusRef = useRef(loadingStatus);
+  useEffect(() => {
+    loadingStatusRef.current = loadingStatus;
+  }, [loadingStatus]);
 
   useEffect(() => {
+    if (!startLoading) {
+      return;
+    }
     const startLoadingFunc = async () => {
-      if (!startLoading) {
-        return;
-      }
       for (const step of LOADING_STEPS) {
         setLoadingDuration(step.duration);
         setloadingProgress(step.progress);
@@ -50,11 +64,27 @@ export function ViewPage({ pageName }: { pageName: string }) {
           );
         }
       }
-      setLoadingColor("transparent");
+      if (loadingStatusRef.current == LoadingStatus.Done) {
+        setLoadingColor("transparent");
+      } else if (loadingStatusRef.current == LoadingStatus.Start) {
+        for (var i = 0; i < 40; i++) {
+          if (loadingStatusRef.current != LoadingStatus.Start) break;
+          await new Promise((resolve) => setTimeout(resolve, 500));
+        }
+        setLoadingColor("transparent");
+      }
+      if (loadingStatusRef.current == LoadingStatus.Error) {
+        setLoadingColor("red");
+        await new Promise((resolve) => setTimeout(resolve, 3000));
+        setloadingProgress(0);
+        await new Promise((resolve) => setTimeout(resolve, 200));
+        setLoadingColor("transparent");
+      }
       await new Promise((resolve) => setTimeout(resolve, 200));
       setLoadingDuration(0);
       setloadingProgress(0);
       await new Promise((resolve) => setTimeout(resolve, 100));
+      setLoadingStatus(LoadingStatus.Done);
       setStartLoading(false);
     };
     startLoadingFunc();
@@ -89,6 +119,7 @@ export function ViewPage({ pageName }: { pageName: string }) {
         <FlowProvider
           page={page}
           setPage={setPage}
+          setLoadingStatus={setLoadingStatus}
           setStartLoading={setStartLoading}
         ></FlowProvider>
       </div>
