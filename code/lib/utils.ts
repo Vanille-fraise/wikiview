@@ -20,3 +20,11 @@ export function interpolateColor(
 
   return mixedColor.rgb().string();
 }
+
+export function sanitized(input: string): string {
+  const alphanumericAndUnderscoreOnly = input
+    .replace(/ /g, "_")
+    .replace(/[^a-zA-Z0-9_]/g, "");
+  const lowercased = alphanumericAndUnderscoreOnly.toLowerCase();
+  return lowercased;
+}

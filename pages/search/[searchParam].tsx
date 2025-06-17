@@ -1,6 +1,8 @@
 import { interpolateColor } from "@/code/lib/utils";
 import { BREAKDOWN_COLOR, HYPER_COLOR } from "@/code/lib/variables";
+import { FilterPanel } from "@/code/types/FilterPanel";
 import FlowProvider from "@/code/types/Flow";
+import { ShowFilterButton } from "@/code/types/ShowFilterButton";
 import { useRouter } from "next/router";
 import { useEffect, useRef, useState } from "react";
 
@@ -17,7 +19,7 @@ const LOADING_END_COLOR = BREAKDOWN_COLOR;
 const LOADING_STEPS: LoadingState[] = [
   { progress: 0, duration: 0 },
   { progress: 0.1, duration: 1 },
-  { progress: 0.94, duration: 1.2 },
+  { progress: 0.94, duration: 1 },
   { progress: 1, duration: 0.2 },
   { progress: 1, duration: 0.2 },
 ];
@@ -94,6 +96,10 @@ export function ViewPage({ pageName }: { pageName: string }) {
     setPage(pageName);
   }, [pageName]);
 
+  const [isPanelVisible, setIsPanelVisible] = useState(false);
+  const [filterList, setFilterList] = useState<string[]>([]);
+  const [activeFilters, setActiveFilters] = useState<string[]>([]);
+
   return (
     <>
       <div
@@ -115,12 +121,27 @@ export function ViewPage({ pageName }: { pageName: string }) {
           }}
         ></div>
       </div>
+      {isPanelVisible ? (
+        <FilterPanel
+          filterList={filterList}
+          activeFilters={activeFilters}
+          onHide={() => setIsPanelVisible(false)}
+          onApply={(newFilters) => {
+            setActiveFilters(newFilters);
+          }}
+        />
+      ) : (
+        <ShowFilterButton onClick={() => setIsPanelVisible(true)} />
+      )}
       <div style={{ width: "100vw", height: "100vh" }}>
         <FlowProvider
           page={page}
           setPage={setPage}
           setLoadingStatus={setLoadingStatus}
           setStartLoading={setStartLoading}
+          setFilterList={setFilterList}
+          activeFilters={activeFilters}
+          setActiveFilters={setActiveFilters}
         ></FlowProvider>
       </div>
     </>

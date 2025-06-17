@@ -5,6 +5,7 @@ import * as dotenv from "dotenv";
 import * as dbm from "@/code/lib/dbManager";
 import * as erm from "@/code/lib/extResourceManager";
 import { GEMINI_EMBEDDING_BATCH_LIMIT } from "@/code/lib/extResourceManager";
+import { sanitized } from "./utils";
 
 dotenv.config();
 
@@ -146,7 +147,7 @@ export async function populateEdges(
         destPageName: info.destPageName,
         relevance: info.relevance,
         linkType,
-        tags: info.tags,
+        tags: info.tags.map((t) => sanitized(t)),
       };
     })
     .sort((a, b) => b.relevance - a.relevance)

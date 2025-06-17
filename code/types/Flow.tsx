@@ -8,11 +8,11 @@ import {
   ReactFlowProvider,
 } from "@xyflow/react";
 import "@xyflow/react/dist/style.css";
-import { fromView } from "@/code/types/graphInfo";
-import { loadingView } from "@/code/types/view";
+import { fromView, GraphInfo } from "@/code/types/graphInfo";
+import { loadingView, View } from "@/code/types/view";
 import { getLayoutedElements } from "@/code/lib/layout";
 import CenterNode from "@/code/types/CenterNode";
-import { shuffle } from "../lib/utils";
+import { sanitized, shuffle } from "../lib/utils";
 import { LoadingStatus } from "@/pages/search/[searchParam]";
 
 const nodeTypes = {
@@ -24,15 +24,22 @@ function Flow({
   setPage,
   setLoadingStatus,
   setStartLoading,
+  setFilterList,
+  activeFilters,
+  setActiveFilters,
 }: {
   page: string;
   setPage: React.Dispatch<React.SetStateAction<string>>;
   setLoadingStatus: React.Dispatch<React.SetStateAction<LoadingStatus>>;
   setStartLoading: React.Dispatch<React.SetStateAction<boolean>>;
+  setFilterList: React.Dispatch<React.SetStateAction<string[]>>;
+  activeFilters: string[];
+  setActiveFilters: React.Dispatch<React.SetStateAction<string[]>>;
 }) {
-  const loadingGraph = fromView(loadingView);
+  const loadingGraph = fromView(loadingView, activeFilters);
   const [nodes, setNodes, onNodesChange] = useNodesState(loadingGraph.nodes);
   const [edges, setEdges, onEdgesChange] = useEdgesState(loadingGraph.edges);
+  const [displayedView, setDisplayedView] = useState<View>();
   const reactFlow = useReactFlow();
   reactFlow.fitView();
 
@@ -44,6 +51,42 @@ function Flow({
     [setEdges]
   );
 
+  async function updateNodesEdges(v: View, filters: string[]) {
+    var curGraphInfo = fromView(v, filters);
+    const layoutedNodes = await getLayoutedElements(
+      curGraphInfo.nodes,
+      curGraphInfo.edges
+    );
+    setNodes(layoutedNodes);
+    setEdges(curGraphInfo.edges);
+  }
+
+  useEffect(() => {
+    displayedView && updateNodesEdges(displayedView, activeFilters);
+  }, [activeFilters]);
+
+  useEffect(() => {
+    const updateViewNodes = async (v: View, filters: string[]) => {
+      const tagMap = new Map<string, number>();
+      v.edges
+        .map((e) => e.tags)
+        .flat()
+        .forEach((t) =>
+          tagMap.set(sanitized(t), (tagMap.get(sanitized(t)) ?? 0) + 1)
+        );
+      setFilterList(
+        [...tagMap.entries()]
+          .sort((a, b) => b[1] - a[1])
+          .filter((e) => e[1] > 1)
+          .map((e) => e[0])
+      );
+      await updateNodesEdges(v, filters);
+      reactFlow.fitView();
+      setActiveFilters([]);
+    };
+    displayedView && updateViewNodes(displayedView, activeFilters);
+  }, [displayedView]);
+
   useEffect(() => {
     const setGraphInfoView = async (displayView: string) => {
       setLoadingStatus(LoadingStatus.Start);
@@ -51,20 +94,10 @@ function Flow({
 
       const viewResponse = await fetch(`/api/tools/viewManager/${displayView}`);
       if (viewResponse.ok) {
-        const view = await viewResponse.json();
-        var graphInfo = fromView(view);
-
-        // shuffle for prettier display
-        graphInfo.edges = shuffle(graphInfo.edges);
-
-        const layoutedNodes = await getLayoutedElements(
-          graphInfo.nodes,
-          graphInfo.edges
-        );
+        const view: View = await viewResponse.json();
+        view.edges = shuffle(view.edges);
+        setDisplayedView(view);
         setLoadingStatus(LoadingStatus.Done);
-        setNodes(layoutedNodes);
-        setEdges(graphInfo.edges);
-        reactFlow.fitView();
       } else {
         setLoadingStatus(LoadingStatus.Error);
       }
@@ -106,11 +139,17 @@ export default function FlowProvider({
   setPage,
   setLoadingStatus,
   setStartLoading,
+  activeFilters,
+  setFilterList,
+  setActiveFilters,
 }: {
   page: string;
   setPage: React.Dispatch<React.SetStateAction<string>>;
   setLoadingStatus: React.Dispatch<React.SetStateAction<LoadingStatus>>;
   setStartLoading: React.Dispatch<React.SetStateAction<boolean>>;
+  setFilterList: React.Dispatch<React.SetStateAction<string[]>>;
+  activeFilters: string[];
+  setActiveFilters: React.Dispatch<React.SetStateAction<string[]>>;
 }) {
   return (
     <ReactFlowProvider>
@@ -119,6 +158,9 @@ export default function FlowProvider({
         setPage={setPage}
         setLoadingStatus={setLoadingStatus}
         setStartLoading={setStartLoading}
+        setFilterList={setFilterList}
+        activeFilters={activeFilters}
+        setActiveFilters={setActiveFilters}
       />
     </ReactFlowProvider>
   );
