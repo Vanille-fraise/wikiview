@@ -1,0 +1,3009 @@
+{
+  "id": "422994",
+  "name": "Digital object identifier",
+  "description": "A digital object identifier (DOI) is a persistent identifier or handle used to uniquely identify various objects, standardized by the International Organization for Standardization (ISO). DOIs are an implementation of the Handle System; they also fit within the URI system (Uniform Resource Identifier). They are widely used to identify academic, professional, and government information, such as journal articles, research reports, data sets, and official publications.\nA DOI aims to resolve to its target, the information object to which the DOI refers. This is achieved by binding the DOI to metadata about the object, such as a URL where the object is located. Thus, by being actionable and interoperable, a DOI differs from ISBNs or ISRCs which are identifiers only. The DOI system uses the indecs Content Model to represent metadata.\nThe DOI for a document remains fixed over the lifetime of the document, whereas its location and other metadata may change. Referring to an online document by its DOI should provide a more stable link than directly using its URL. But if its URL changes, the publisher must update the metadata for the DOI to maintain the link to the URL. It is the publisher's responsibility to update the DOI database. If they fail to do so, the DOI resolves to a dead link, leaving the DOI useless.\nThe developer and administrator of the DOI system is the International DOI Foundation (IDF), which introduced it in 2000. Organizations that meet the contractual obligations of the DOI system and are willing to pay to become a member of the system can assign DOIs. The DOI system is implemented through a federation of registration agencies coordinated by the IDF. The cumulative number of DOIs has increased exponentially over time, from 50 million registrations in 2011 to 391 million in 2025. The rate of registering organizations (\"members\") has also increased over time from 4,000 in 2011 to 9,500 in 2013, but the federated nature of the system means it is not immediately clear how many members there are in total today. Fake registries have even appeared.",
+  "descImg": "https://upload.wikimedia.org/wikipedia/commons/1/11/DOI_logo.svg",
+  "audio": null,
+  "links": [
+    {
+      "id": "l-110_film",
+      "name": "110 film",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-126_film",
+      "name": "126 film",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-135_film",
+      "name": "135 film",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-a440_(pitch_standard)",
+      "name": "A440 (pitch standard)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-algol_60",
+      "name": "ALGOL 60",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ansi_c",
+      "name": "ANSI C",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ansi_escape_code",
+      "name": "ANSI escape code",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-asmo_449",
+      "name": "ASMO 449",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-academic_journal",
+      "name": "Academic journal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-accuracy_and_precision",
+      "name": "Accuracy and precision",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ada_semantic_interface_specification",
+      "name": "Ada Semantic Interface Specification",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-advanced_video_coding",
+      "name": "Advanced Video Coding",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-airiti",
+      "name": "Airiti",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-antimagnetic_watch",
+      "name": "Antimagnetic watch",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-arxiv",
+      "name": "ArXiv",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-archival_resource_key",
+      "name": "Archival Resource Key",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-armscii",
+      "name": "ArmSCII",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ars_technica",
+      "name": "Ars Technica",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-automotive_fuse",
+      "name": "Automotive fuse",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-base_(search_engine)",
+      "name": "BASE (search engine)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bibcode",
+      "name": "Bibcode",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-british_standard_pipe",
+      "name": "British Standard Pipe",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-business_process_model_and_notation",
+      "name": "Business Process Model and Notation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-c++",
+      "name": "C++",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cae_number",
+      "name": "CAE number",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-can_bus",
+      "name": "CAN bus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chill",
+      "name": "CHILL",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cnki",
+      "name": "CNKI",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cobol",
+      "name": "COBOL",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-collada",
+      "name": "COLLADA",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-c_sharp_(programming_language)",
+      "name": "C Sharp (programming language)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-case-insensitive",
+      "name": "Case-insensitive",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cloud_infrastructure_management_interface",
+      "name": "Cloud Infrastructure Management Interface",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-common_criteria",
+      "name": "Common Criteria",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-common_language_infrastructure",
+      "name": "Common Language Infrastructure",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-common_logic",
+      "name": "Common Logic",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-common_object_request_broker_architecture",
+      "name": "Common Object Request Broker Architecture",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-computational_trust",
+      "name": "Computational trust",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-computer_graphics_metafile",
+      "name": "Computer Graphics Metafile",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-copying_and_pasting",
+      "name": "Copying and pasting",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-corporation_for_national_research_initiatives",
+      "name": "Corporation for National Research Initiatives",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-crossref",
+      "name": "Crossref",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dicom",
+      "name": "DICOM",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-doi_foundation",
+      "name": "DOI Foundation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-datacite",
+      "name": "DataCite",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-data_dictionary",
+      "name": "Data dictionary",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-delivery_multimedia_integration_framework",
+      "name": "Delivery Multimedia Integration Framework",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-digital_identity",
+      "name": "Digital identity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-document",
+      "name": "Document",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-document_style_semantics_and_specification_language",
+      "name": "Document Style Semantics and Specification Language",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-doi_(identifier)",
+      "name": "Doi (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dynamic_adaptive_streaming_over_http",
+      "name": "Dynamic Adaptive Streaming over HTTP",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ecmascript",
+      "name": "ECMAScript",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ecmascript_for_xml",
+      "name": "ECMAScript for XML",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eidr",
+      "name": "EIDR",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-express_(data_modeling_language)",
+      "name": "EXPRESS (data modeling language)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-equal-loudness_contour",
+      "name": "Equal-loudness contour",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-essential_video_coding",
+      "name": "Essential Video Coding",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-european_union",
+      "name": "European Union",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fdi_world_dental_federation_notation",
+      "name": "FDI World Dental Federation notation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ftam",
+      "name": "FTAM",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fiber_distributed_data_interface",
+      "name": "Fiber Distributed Data Interface",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-file_allocation_table",
+      "name": "File Allocation Table",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-film_speed",
+      "name": "Film speed",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-first_class_(computing)",
+      "name": "First class (computing)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-flowchart",
+      "name": "Flowchart",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fuel_oil",
+      "name": "Fuel oil",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-full_basic",
+      "name": "Full BASIC",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gs1",
+      "name": "GS1",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-geography_markup_language",
+      "name": "Geography Markup Language",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-geospatial_metadata",
+      "name": "Geospatial metadata",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-globally_unique_identifier",
+      "name": "Globally Unique Identifier",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-graph_query_language",
+      "name": "Graph Query Language",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-graphical_kernel_system",
+      "name": "Graphical Kernel System",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-guidelines_for_the_definition_of_managed_objects",
+      "name": "Guidelines for the Definition of Managed Objects",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-html",
+      "name": "HTML",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-http_request",
+      "name": "HTTP request",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-han_xin_code",
+      "name": "Han Xin code",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-handle_(computing)",
+      "name": "Handle (computing)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-handle_system",
+      "name": "Handle System",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hazard_symbol",
+      "name": "Hazard symbol",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hole_punch",
+      "name": "Hole punch",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-horsepower",
+      "name": "Horsepower",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hot_shoe",
+      "name": "Hot shoe",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hyperlink",
+      "name": "Hyperlink",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iatf_16949",
+      "name": "IATF 16949",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-is-is",
+      "name": "IS-IS",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-isbn",
+      "name": "ISBN",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-isbn_(identifier)",
+      "name": "ISBN (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-islisp",
+      "name": "ISLISP",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso",
+      "name": "ISO",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso-8859-8-i",
+      "name": "ISO-8859-8-I",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso-timeml",
+      "name": "ISO-TimeML",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_10116",
+      "name": "ISO/IEC 10116",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_10967",
+      "name": "ISO/IEC 10967",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_11179",
+      "name": "ISO/IEC 11179",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_11404",
+      "name": "ISO/IEC 11404",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_11801",
+      "name": "ISO/IEC 11801",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_12207",
+      "name": "ISO/IEC 12207",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_14443",
+      "name": "ISO/IEC 14443",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_14651",
+      "name": "ISO/IEC 14651",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_15288",
+      "name": "ISO/IEC 15288",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_15504",
+      "name": "ISO/IEC 15504",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_15693",
+      "name": "ISO/IEC 15693",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_15897",
+      "name": "ISO/IEC 15897",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_17024",
+      "name": "ISO/IEC 17024",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_17025",
+      "name": "ISO/IEC 17025",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_18014",
+      "name": "ISO/IEC 18014",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_19752",
+      "name": "ISO/IEC 19752",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_19770",
+      "name": "ISO/IEC 19770",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_19794-5",
+      "name": "ISO/IEC 19794-5",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_20000",
+      "name": "ISO/IEC 20000",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_2022",
+      "name": "ISO/IEC 2022",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_21827",
+      "name": "ISO/IEC 21827",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_27000",
+      "name": "ISO/IEC 27000",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_27000_family",
+      "name": "ISO/IEC 27000 family",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_27001",
+      "name": "ISO/IEC 27001",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_27002",
+      "name": "ISO/IEC 27002",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_27005",
+      "name": "ISO/IEC 27005",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_27006",
+      "name": "ISO/IEC 27006",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_38500",
+      "name": "ISO/IEC 38500",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_42010",
+      "name": "ISO/IEC 42010",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_4909",
+      "name": "ISO/IEC 4909",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_5218",
+      "name": "ISO/IEC 5218",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_646",
+      "name": "ISO/IEC 646",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_6523",
+      "name": "ISO/IEC 6523",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_7064",
+      "name": "ISO/IEC 7064",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_7810",
+      "name": "ISO/IEC 7810",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_7811",
+      "name": "ISO/IEC 7811",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_7812",
+      "name": "ISO/IEC 7812",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_7813",
+      "name": "ISO/IEC 7813",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_7816",
+      "name": "ISO/IEC 7816",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_80000",
+      "name": "ISO/IEC 80000",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_8652",
+      "name": "ISO/IEC 8652",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_8859",
+      "name": "ISO/IEC 8859",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_8859-1",
+      "name": "ISO/IEC 8859-1",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_8859-10",
+      "name": "ISO/IEC 8859-10",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_8859-11",
+      "name": "ISO/IEC 8859-11",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_8859-12",
+      "name": "ISO/IEC 8859-12",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_8859-13",
+      "name": "ISO/IEC 8859-13",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_8859-14",
+      "name": "ISO/IEC 8859-14",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_8859-15",
+      "name": "ISO/IEC 8859-15",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_8859-16",
+      "name": "ISO/IEC 8859-16",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_8859-2",
+      "name": "ISO/IEC 8859-2",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_8859-3",
+      "name": "ISO/IEC 8859-3",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_8859-4",
+      "name": "ISO/IEC 8859-4",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_8859-5",
+      "name": "ISO/IEC 8859-5",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_8859-6",
+      "name": "ISO/IEC 8859-6",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_8859-7",
+      "name": "ISO/IEC 8859-7",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_8859-8",
+      "name": "ISO/IEC 8859-8",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_8859-9",
+      "name": "ISO/IEC 8859-9",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_9126",
+      "name": "ISO/IEC 9126",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_9529",
+      "name": "ISO/IEC 9529",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_9797-1",
+      "name": "ISO/IEC 9797-1",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_9995",
+      "name": "ISO/IEC 9995",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/iec_tr_12182",
+      "name": "ISO/IEC TR 12182",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/ieee_11073",
+      "name": "ISO/IEEE 11073",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso/tr_11941",
+      "name": "ISO/TR 11941",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_1",
+      "name": "ISO 1",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_1000",
+      "name": "ISO 1000",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_10006",
+      "name": "ISO 10006",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_10007",
+      "name": "ISO 10007",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_10160",
+      "name": "ISO 10160",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_10161",
+      "name": "ISO 10161",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_10218",
+      "name": "ISO 10218",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_10303",
+      "name": "ISO 10303",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_10303-21",
+      "name": "ISO 10303-21",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_10303-22",
+      "name": "ISO 10303-22",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_10303-28",
+      "name": "ISO 10303-28",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_10628",
+      "name": "ISO 10628",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_10962",
+      "name": "ISO 10962",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_11170",
+      "name": "ISO 11170",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_11783",
+      "name": "ISO 11783",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_11784_and_iso_11785",
+      "name": "ISO 11784 and ISO 11785",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_11940",
+      "name": "ISO 11940",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_11940-2",
+      "name": "ISO 11940-2",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_11992",
+      "name": "ISO 11992",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_12006",
+      "name": "ISO 12006",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_128",
+      "name": "ISO 128",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_13399",
+      "name": "ISO 13399",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_13406-2",
+      "name": "ISO 13406-2",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_13485",
+      "name": "ISO 13485",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_13490",
+      "name": "ISO 13490",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_13567",
+      "name": "ISO 13567",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_13584",
+      "name": "ISO 13584",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_14000_family",
+      "name": "ISO 14000 family",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_14031",
+      "name": "ISO 14031",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_14224",
+      "name": "ISO 14224",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_14617",
+      "name": "ISO 14617",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_14644",
+      "name": "ISO 14644",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_14698",
+      "name": "ISO 14698",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_14971",
+      "name": "ISO 14971",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_15022",
+      "name": "ISO 15022",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_15189",
+      "name": "ISO 15189",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_15398",
+      "name": "ISO 15398",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_15686",
+      "name": "ISO 15686",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_15919",
+      "name": "ISO 15919",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_15924",
+      "name": "ISO 15924",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_15926",
+      "name": "ISO 15926",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_15926_wip",
+      "name": "ISO 15926 WIP",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_1629",
+      "name": "ISO 1629",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_16750",
+      "name": "ISO 16750",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_17100",
+      "name": "ISO 17100",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_1745",
+      "name": "ISO 1745",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_18245",
+      "name": "ISO 18245",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_19011",
+      "name": "ISO 19011",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_19092",
+      "name": "ISO 19092",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_19092-1",
+      "name": "ISO 19092-1",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_19092-2",
+      "name": "ISO 19092-2",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_19114",
+      "name": "ISO 19114",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_19439",
+      "name": "ISO 19439",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_19600",
+      "name": "ISO 19600",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_2",
+      "name": "ISO 2",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_20022",
+      "name": "ISO 20022",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_20121",
+      "name": "ISO 20121",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_2014",
+      "name": "ISO 2014",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_2015",
+      "name": "ISO 2015",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_2033",
+      "name": "ISO 2033",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_20400",
+      "name": "ISO 20400",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_2047",
+      "name": "ISO 2047",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_21001",
+      "name": "ISO 21001",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_2145",
+      "name": "ISO 2145",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_2146",
+      "name": "ISO 2146",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_21500",
+      "name": "ISO 21500",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_216",
+      "name": "ISO 216",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_217",
+      "name": "ISO 217",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_22000",
+      "name": "ISO 22000",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_22300",
+      "name": "ISO 22300",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_22301",
+      "name": "ISO 22301",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_22395",
+      "name": "ISO 22395",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_233",
+      "name": "ISO 233",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_25178",
+      "name": "ISO 25178",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_259",
+      "name": "ISO 259",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_25964",
+      "name": "ISO 25964",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_26000",
+      "name": "ISO 26000",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_26262",
+      "name": "ISO 26262",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_2709",
+      "name": "ISO 2709",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_2711",
+      "name": "ISO 2711",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_2788",
+      "name": "ISO 2788",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_28000",
+      "name": "ISO 28000",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_2848",
+      "name": "ISO 2848",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_2852",
+      "name": "ISO 2852",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_2921",
+      "name": "ISO 2921",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_31",
+      "name": "ISO 31",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_31-0",
+      "name": "ISO 31-0",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_31-1",
+      "name": "ISO 31-1",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_31-10",
+      "name": "ISO 31-10",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_31-11",
+      "name": "ISO 31-11",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_31-12",
+      "name": "ISO 31-12",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_31-13",
+      "name": "ISO 31-13",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_31-3",
+      "name": "ISO 31-3",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_31-4",
+      "name": "ISO 31-4",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_31-5",
+      "name": "ISO 31-5",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_31-6",
+      "name": "ISO 31-6",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_31-7",
+      "name": "ISO 31-7",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_31-8",
+      "name": "ISO 31-8",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_31-9",
+      "name": "ISO 31-9",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_31000",
+      "name": "ISO 31000",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_3103",
+      "name": "ISO 3103",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_3166",
+      "name": "ISO 3166",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_3166-1",
+      "name": "ISO 3166-1",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_3166-2",
+      "name": "ISO 3166-2",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_3166-3",
+      "name": "ISO 3166-3",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_3307",
+      "name": "ISO 3307",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_37001",
+      "name": "ISO 37001",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_3864",
+      "name": "ISO 3864",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_3977",
+      "name": "ISO 3977",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_4",
+      "name": "ISO 4",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_4031",
+      "name": "ISO 4031",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_4157",
+      "name": "ISO 4157",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_4165",
+      "name": "ISO 4165",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_4217",
+      "name": "ISO 4217",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_45001",
+      "name": "ISO 45001",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_50001",
+      "name": "ISO 50001",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_5426",
+      "name": "ISO 5426",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_5427",
+      "name": "ISO 5427",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_5428",
+      "name": "ISO 5428",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_55000",
+      "name": "ISO 55000",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_56000",
+      "name": "ISO 56000",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_5775",
+      "name": "ISO 5775",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_5776",
+      "name": "ISO 5776",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_5964",
+      "name": "ISO 5964",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_6344",
+      "name": "ISO 6344",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_6346",
+      "name": "ISO 6346",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_6385",
+      "name": "ISO 6385",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_639",
+      "name": "ISO 639",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_639-1",
+      "name": "ISO 639-1",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_639-2",
+      "name": "ISO 639-2",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_639-3",
+      "name": "ISO 639-3",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_639-5",
+      "name": "ISO 639-5",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_639-6",
+      "name": "ISO 639-6",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_6438",
+      "name": "ISO 6438",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_657",
+      "name": "ISO 657",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_668",
+      "name": "ISO 668",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_6709",
+      "name": "ISO 6709",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_690",
+      "name": "ISO 690",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_6943",
+      "name": "ISO 6943",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_7001",
+      "name": "ISO 7001",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_7002",
+      "name": "ISO 7002",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_7010",
+      "name": "ISO 7010",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_7027",
+      "name": "ISO 7027",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_704",
+      "name": "ISO 704",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_7200",
+      "name": "ISO 7200",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_732",
+      "name": "ISO 732",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_7637",
+      "name": "ISO 7637",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_7736",
+      "name": "ISO 7736",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_8000",
+      "name": "ISO 8000",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_8178",
+      "name": "ISO 8178",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_8373",
+      "name": "ISO 8373",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_843",
+      "name": "ISO 843",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_8501-1",
+      "name": "ISO 8501-1",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_8583",
+      "name": "ISO 8583",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_860",
+      "name": "ISO 860",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_8601",
+      "name": "ISO 8601",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_8691",
+      "name": "ISO 8691",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_898",
+      "name": "ISO 898",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_9",
+      "name": "ISO 9",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_9000_family",
+      "name": "ISO 9000 family",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_9241",
+      "name": "ISO 9241",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_9362",
+      "name": "ISO 9362",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_9564",
+      "name": "ISO 9564",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_965",
+      "name": "ISO 965",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_9660",
+      "name": "ISO 9660",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_9897",
+      "name": "ISO 9897",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_999",
+      "name": "ISO 999",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_base_media_file_format",
+      "name": "ISO base media file format",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iso_metric_screw_thread",
+      "name": "ISO metric screw thread",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-issn",
+      "name": "ISSN",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-issn_(identifier)",
+      "name": "ISSN (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-indecs_content_model",
+      "name": "Indecs Content Model",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-info_uri_scheme",
+      "name": "Info URI scheme",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-institute_of_scientific_and_technical_information_of_china",
+      "name": "Institute of Scientific and Technical Information of China",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-intellectual_property",
+      "name": "Intellectual property",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-interested_parties_information",
+      "name": "Interested Parties Information",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-international_bank_account_number",
+      "name": "International Bank Account Number",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-international_organization_for_standardization",
+      "name": "International Organization for Standardization",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-international_securities_identification_number",
+      "name": "International Securities Identification Number",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-international_standard_atmosphere",
+      "name": "International Standard Atmosphere",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-international_standard_audiovisual_number",
+      "name": "International Standard Audiovisual Number",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-international_standard_identifier_for_libraries_and_related_organizations",
+      "name": "International Standard Identifier for Libraries and Related Organizations",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-international_standard_link_identifier",
+      "name": "International Standard Link Identifier",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-international_standard_music_number",
+      "name": "International Standard Music Number",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-international_standard_musical_work_code",
+      "name": "International Standard Musical Work Code",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-international_standard_name_identifier",
+      "name": "International Standard Name Identifier",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-international_standard_recording_code",
+      "name": "International Standard Recording Code",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-international_standard_serial_number",
+      "name": "International Standard Serial Number",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-international_standard_text_code",
+      "name": "International Standard Text Code",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-internet_architecture_board",
+      "name": "Internet Architecture Board",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-interoperability",
+      "name": "Interoperability",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-isofix",
+      "name": "Isofix",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-jbig",
+      "name": "JBIG",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-jpeg_2000",
+      "name": "JPEG 2000",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-jpeg_xl",
+      "name": "JPEG XL",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-jpeg_xr",
+      "name": "JPEG XR",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-jpeg_xs",
+      "name": "JPEG XS",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-jpip",
+      "name": "JPIP",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-japan_link_center",
+      "name": "Japan Link Center",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-john_r._levine",
+      "name": "John R. Levine",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-kappa_number",
+      "name": "Kappa number",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-knowledge_discovery_metamodel",
+      "name": "Knowledge Discovery Metamodel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-kunrei-shiki_romanization",
+      "name": "Kunrei-shiki romanization",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lcevc",
+      "name": "LCEVC",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-language_of_temporal_ordering_specification",
+      "name": "Language of Temporal Ordering Specification",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-legal_entity_identifier",
+      "name": "Legal Entity Identifier",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lexical_markup_framework",
+      "name": "Lexical Markup Framework",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-linguistic_categories",
+      "name": "Linguistic categories",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-link_rot",
+      "name": "Link rot",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-linux_standard_base",
+      "name": "Linux Standard Base",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-list_of_iec_standards",
+      "name": "List of IEC standards",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-list_of_iso_romanizations",
+      "name": "List of ISO romanizations",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-list_of_iso_standards",
+      "name": "List of ISO standards",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-longitudinal_redundancy_check",
+      "name": "Longitudinal redundancy check",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mp4_file_format",
+      "name": "MP4 file format",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mpeg-1",
+      "name": "MPEG-1",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mpeg-2",
+      "name": "MPEG-2",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mpeg-21",
+      "name": "MPEG-21",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mpeg-4",
+      "name": "MPEG-4",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mpeg-4_part_11",
+      "name": "MPEG-4 Part 11",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mpeg-4_part_2",
+      "name": "MPEG-4 Part 2",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mpeg-4_part_3",
+      "name": "MPEG-4 Part 3",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mpeg-7",
+      "name": "MPEG-7",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mpeg-a",
+      "name": "MPEG-A",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mpeg-d",
+      "name": "MPEG-D",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mpeg-g",
+      "name": "MPEG-G",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mpeg-h",
+      "name": "MPEG-H",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-magnetic_ink_character_recognition",
+      "name": "Magnetic ink character recognition",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mail_reader",
+      "name": "Mail reader",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-manufacturing_message_specification",
+      "name": "Manufacturing Message Specification",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-market_identifier_code",
+      "name": "Market Identifier Code",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-maxicode",
+      "name": "MaxiCode",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-meta-object_facility",
+      "name": "Meta-Object Facility",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-metadata",
+      "name": "Metadata",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-metadata_standard",
+      "name": "Metadata standard",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-micropdf417",
+      "name": "MicroPDF417",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-minimal_basic",
+      "name": "Minimal BASIC",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mixed_raster_content",
+      "name": "Mixed raster content",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-motion_jpeg_2000",
+      "name": "Motion JPEG 2000",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-multibus",
+      "name": "Multibus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-niso",
+      "name": "NISO",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-name_server",
+      "name": "Name server",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-not-for-profit",
+      "name": "Not-for-profit",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-o-ring",
+      "name": "O-ring",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ocr-a",
+      "name": "OCR-A",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ocr-b",
+      "name": "OCR-B",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-oecd_ilibrary",
+      "name": "OECD iLibrary",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-orcid",
+      "name": "ORCID",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-osi_model",
+      "name": "OSI model",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-object_constraint_language",
+      "name": "Object Constraint Language",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-object_identifier",
+      "name": "Object identifier",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-office_open_xml",
+      "name": "Office Open XML",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-on-board_diagnostics",
+      "name": "On-board diagnostics",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-opendocument",
+      "name": "OpenDocument",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-openurl",
+      "name": "OpenURL",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-open_archives_initiative_protocol_for_metadata_harvesting",
+      "name": "Open Archives Initiative Protocol for Metadata Harvesting",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-open_data_protocol",
+      "name": "Open Data Protocol",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-open_document_architecture",
+      "name": "Open Document Architecture",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-open_virtualization_format",
+      "name": "Open Virtualization Format",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-open_access",
+      "name": "Open access",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-open_architecture",
+      "name": "Open architecture",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-organisation_for_economic_co-operation_and_development",
+      "name": "Organisation for Economic Co-operation and Development",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pdf",
+      "name": "PDF",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pdf/a",
+      "name": "PDF/A",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pdf/e",
+      "name": "PDF/E",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pdf/ua",
+      "name": "PDF/UA",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pdf/vt",
+      "name": "PDF/VT",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pdf/x",
+      "name": "PDF/X",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pdf417",
+      "name": "PDF417",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-phigs",
+      "name": "PHIGS",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-plos_biology",
+      "name": "PLoS Biology",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pmc_(identifier)",
+      "name": "PMC (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pmid",
+      "name": "PMID",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pmid_(identifier)",
+      "name": "PMID (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-posix",
+      "name": "POSIX",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-purl",
+      "name": "PURL",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pascal_(programming_language)",
+      "name": "Pascal (programming language)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-paywall",
+      "name": "Paywall",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-performance",
+      "name": "Performance",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-permalink",
+      "name": "Permalink",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-persistent_uniform_resource_locator",
+      "name": "Persistent Uniform Resource Locator",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-persistent_identifier",
+      "name": "Persistent identifier",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-photographic_activity_test",
+      "name": "Photographic Activity Test",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pinyin",
+      "name": "Pinyin",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-power_take-off",
+      "name": "Power take-off",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-process_specification_language",
+      "name": "Process Specification Language",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-prolog",
+      "name": "Prolog",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-prontor-compur",
+      "name": "Prontor-Compur",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-publication",
+      "name": "Publication",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-publications_office_(european_union)",
+      "name": "Publications Office (European Union)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-publisher's_version",
+      "name": "Publisher's version",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-publisher_item_identifier",
+      "name": "Publisher Item Identifier",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-qr_code",
+      "name": "QR code",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-quality_function_deployment",
+      "name": "Quality function deployment",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-relax_ng",
+      "name": "RELAX NG",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-rfc_(identifier)",
+      "name": "RFC (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-rm-odp",
+      "name": "RM-ODP",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-rectangular_micro_qr_code",
+      "name": "Rectangular Micro QR Code",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-renard_series",
+      "name": "Renard series",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-request_for_comments",
+      "name": "Request for Comments",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-requirements_engineering",
+      "name": "Requirements engineering",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-romanization_of_armenian",
+      "name": "Romanization of Armenian",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-romanization_of_georgian",
+      "name": "Romanization of Georgian",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ruby_(programming_language)",
+      "name": "Ruby (programming language)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-sdmx",
+      "name": "SDMX",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-sql",
+      "name": "SQL",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-step-nc",
+      "name": "STEP-NC",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-salt_spray_test",
+      "name": "Salt spray test",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-scientific_literature",
+      "name": "Scientific literature",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-self-archiving",
+      "name": "Self-archiving",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-semantic_interoperability",
+      "name": "Semantic interoperability",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-shock-resistant_watch",
+      "name": "Shock-resistant watch",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-shoe_size",
+      "name": "Shoe size",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-simple_features",
+      "name": "Simple Features",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-software_hash_identifier",
+      "name": "SoftWare Hash IDentifier",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-software_maintenance",
+      "name": "Software maintenance",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-standard_generalized_markup_language",
+      "name": "Standard Generalized Markup Language",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-string_(computer_science)",
+      "name": "String (computer science)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-tiff/ep",
+      "name": "TIFF/EP",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-topic_map",
+      "name": "Topic map",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-torx",
+      "name": "Torx",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-trusted_platform_module",
+      "name": "Trusted Platform Module",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-tsinghua_university",
+      "name": "Tsinghua University",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-url",
+      "name": "URL",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-urn",
+      "name": "URN",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-unicode",
+      "name": "Unicode",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-unified_modeling_language",
+      "name": "Unified Modeling Language",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-uniform_resource_identifier",
+      "name": "Uniform Resource Identifier",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-uniform_resource_locator",
+      "name": "Uniform Resource Locator",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-uniform_resource_name",
+      "name": "Uniform Resource Name",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-universal_coded_character_set",
+      "name": "Universal Coded Character Set",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-universally_unique_identifier",
+      "name": "Universally unique identifier",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-versatile_video_coding",
+      "name": "Versatile Video Coding",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-vicat_softening_point",
+      "name": "Vicat softening point",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-virtual_international_authority_file",
+      "name": "Virtual International Authority File",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-water_resistant_mark",
+      "name": "Water Resistant mark",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-web_content_accessibility_guidelines",
+      "name": "Web Content Accessibility Guidelines",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-web_browser",
+      "name": "Web browser",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-whirlpool_(hash_function)",
+      "name": "Whirlpool (hash function)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-wikidata",
+      "name": "Wikidata",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-x.500",
+      "name": "X.500",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-x3d",
+      "name": "X3D",
+      "relevance": 0,
+      "tags": []
+    }
+  ]
+}

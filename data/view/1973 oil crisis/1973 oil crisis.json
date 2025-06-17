@@ -1,0 +1,3009 @@
+{
+  "id": "244180",
+  "name": "1973 oil crisis",
+  "description": "In October 1973, the Organization of Arab Petroleum Exporting Countries (OAPEC) announced that it was implementing a total oil embargo against countries that had supported Israel at any point during the 1973 Yom Kippur War, which began after Egypt and Syria launched a large-scale surprise attack in an ultimately unsuccessful attempt to recover the territories that they had lost to Israel during the 1967 Six-Day War.\nIn an effort that was led by Faisal of Saudi Arabia, the initial countries that OAPEC targeted were Canada, Japan, the Netherlands, the United Kingdom, and the United States. This list was later expanded to include Portugal, Rhodesia, and South Africa.\nIn March 1974, OAPEC lifted the embargo, but the price of oil had risen by nearly 300%: from US$3 per barrel ($19/m3) to nearly US$12 per barrel ($75/m3) globally. Prices in the United States were significantly higher than the global average. After it was implemented, the embargo caused an oil crisis, or \"shock\", with many short- and long-term effects on the global economy as well as on global politics. The 1973 embargo later came to be referred to as the \"first oil shock\" vis-à-vis the \"second oil shock\" that was the 1979 oil crisis, brought upon by the Iranian Revolution.",
+  "descImg": "https://upload.wikimedia.org/wikipedia/commons/3/3f/West_Texas_Intermediate_oil_prices_1950%E2%80%932000_%28with_1973_highlight%29.svg",
+  "audio": null,
+  "links": [
+    {
+      "id": "l-12-3_incident",
+      "name": "12-3 incident",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-12_hours_of_sebring",
+      "name": "12 Hours of Sebring",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-14_july_revolution",
+      "name": "14 July Revolution",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-15_august_1975_bangladeshi_coup_d'état",
+      "name": "15 August 1975 Bangladeshi coup d'état",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-17_july_revolution",
+      "name": "17 July Revolution",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1947_polish_parliamentary_election",
+      "name": "1947 Polish parliamentary election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1947–1948_civil_war_in_mandatory_palestine",
+      "name": "1947–1948 civil war in Mandatory Palestine",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1948_arab–israeli_war",
+      "name": "1948 Arab–Israeli War",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1948_czechoslovak_coup_d'état",
+      "name": "1948 Czechoslovak coup d'état",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1948_palestine_war",
+      "name": "1948 Palestine war",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1948_palestinian_expulsion_and_flight",
+      "name": "1948 Palestinian expulsion and flight",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1949_armistice_agreements",
+      "name": "1949 Armistice Agreements",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1952_egyptian_revolution",
+      "name": "1952 Egyptian revolution",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1953_iranian_coup_d'état",
+      "name": "1953 Iranian coup d'état",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1954_geneva_conference",
+      "name": "1954 Geneva Conference",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1954_guatemalan_coup_d'état",
+      "name": "1954 Guatemalan coup d'état",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1954_syrian_coup_d'état",
+      "name": "1954 Syrian coup d'état",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1956_poznań_protests",
+      "name": "1956 Poznań protests",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1958_lebanon_crisis",
+      "name": "1958 Lebanon crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1959_mosul_uprising",
+      "name": "1959 Mosul uprising",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1959_tibetan_uprising",
+      "name": "1959 Tibetan uprising",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1960_turkish_coup_d'état",
+      "name": "1960 Turkish coup d'état",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1960_u-2_incident",
+      "name": "1960 U-2 incident",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1963_syrian_coup_d'état",
+      "name": "1963 Syrian coup d'état",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1963–1965_indonesian_hyperinflation",
+      "name": "1963–1965 Indonesian hyperinflation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1964_brazilian_coup_d'état",
+      "name": "1964 Brazilian coup d'état",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1965_soviet_economic_reform",
+      "name": "1965 Soviet economic reform",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1966_syrian_coup_d'état",
+      "name": "1966 Syrian coup d'état",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1967_hong_kong_riots",
+      "name": "1967 Hong Kong riots",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1967_oil_embargo",
+      "name": "1967 Oil Embargo",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1968_peruvian_coup_d'état",
+      "name": "1968 Peruvian coup d'état",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1968_polish_political_crisis",
+      "name": "1968 Polish political crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1968_red_square_demonstration",
+      "name": "1968 Red Square demonstration",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1969_libyan_revolution",
+      "name": "1969 Libyan revolution",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1969_sudanese_coup_d'état",
+      "name": "1969 Sudanese coup d'état",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1970_polish_protests",
+      "name": "1970 Polish protests",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1970s_commodities_boom",
+      "name": "1970s commodities boom",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1970s_energy_crisis",
+      "name": "1970s energy crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1970–1979_world_oil_market_chronology",
+      "name": "1970–1979 world oil market chronology",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1971_bolivian_coup_d'état",
+      "name": "1971 Bolivian coup d'état",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1971_jvp_insurrection",
+      "name": "1971 JVP insurrection",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1971_sudanese_coup_d'état",
+      "name": "1971 Sudanese coup d'état",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1971_turkish_military_memorandum",
+      "name": "1971 Turkish military memorandum",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1972_visit_by_richard_nixon_to_china",
+      "name": "1972 visit by Richard Nixon to China",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1972–1975_bangladesh_insurgency",
+      "name": "1972–1975 Bangladesh insurgency",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1973_afghan_coup_d'état",
+      "name": "1973 Afghan coup d'état",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1973_arab–israeli_war",
+      "name": "1973 Arab–Israeli War",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1973_chilean_coup_d'état",
+      "name": "1973 Chilean coup d'état",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1973_soviet_economic_reform",
+      "name": "1973 Soviet economic reform",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1973_uruguayan_coup_d'état",
+      "name": "1973 Uruguayan coup d'état",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1973–1974_stock_market_crash",
+      "name": "1973–1974 stock market crash",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1973–1975_recession",
+      "name": "1973–1975 recession",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1973–74_stock_market_crash",
+      "name": "1973–74 stock market crash",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1974_suez_canal_clearance_operation",
+      "name": "1974 Suez Canal Clearance Operation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1976_argentine_coup_d'état",
+      "name": "1976 Argentine coup d'état",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1976_sterling_crisis",
+      "name": "1976 sterling crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1977_constitution_of_the_soviet_union",
+      "name": "1977 Constitution of the Soviet Union",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1977_moscow_bombings",
+      "name": "1977 Moscow bombings",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1978_georgian_demonstrations",
+      "name": "1978 Georgian demonstrations",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1978_somali_coup_attempt",
+      "name": "1978 Somali coup attempt",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1979_herat_uprising",
+      "name": "1979 Herat uprising",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1979_qatif_uprising",
+      "name": "1979 Qatif Uprising",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1979_soviet_economic_reform",
+      "name": "1979 Soviet economic reform",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1979_energy_crisis",
+      "name": "1979 energy crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1979_oil_crisis",
+      "name": "1979 oil crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1980_summer_olympics",
+      "name": "1980 Summer Olympics",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1980_summer_olympics_boycott",
+      "name": "1980 Summer Olympics boycott",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1980_turkish_coup_d'état",
+      "name": "1980 Turkish coup d'état",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1980s_oil_glut",
+      "name": "1980s oil glut",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1982_ethiopian–somali_border_war",
+      "name": "1982 Ethiopian–Somali Border War",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1983_israel_bank_stock_crisis",
+      "name": "1983 Israel bank stock crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1983_soviet_nuclear_false_alarm_incident",
+      "name": "1983 Soviet nuclear false alarm incident",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1984_soviet_economic_reform",
+      "name": "1984 Soviet economic reform",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1984_summer_olympics_boycott",
+      "name": "1984 Summer Olympics boycott",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1986_black_sea_incident",
+      "name": "1986 Black Sea incident",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1987_lieyu_massacre",
+      "name": "1987 Lieyu massacre",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1987–1989_jvp_insurrection",
+      "name": "1987–1989 JVP insurrection",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1988_black_sea_bumping_incident",
+      "name": "1988 Black Sea bumping incident",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1988_polish_strikes",
+      "name": "1988 Polish strikes",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1988–1992_norwegian_banking_crisis",
+      "name": "1988–1992 Norwegian banking crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1989_tiananmen_square_protests_and_massacre",
+      "name": "1989 Tiananmen Square protests and massacre",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1990_oil_price_shock",
+      "name": "1990 oil price shock",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1990s_armenian_energy_crisis",
+      "name": "1990s Armenian energy crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1990s_finnish_banking_crisis",
+      "name": "1990s Finnish banking crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1990–1994_swedish_financial_crisis",
+      "name": "1990–1994 Swedish financial crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1991_indian_economic_crisis",
+      "name": "1991 Indian economic crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1991_soviet_coup_attempt",
+      "name": "1991 Soviet coup attempt",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1994_bond_market_crisis",
+      "name": "1994 bond market crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1997_asian_financial_crisis",
+      "name": "1997 Asian financial crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1998_russian_financial_crisis",
+      "name": "1998 Russian financial crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1998–1999_ecuador_economic_crisis",
+      "name": "1998–1999 Ecuador economic crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1998–2002_argentine_great_depression",
+      "name": "1998–2002 Argentine great depression",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2000s_united_states_housing_market_correction",
+      "name": "2000s United States housing market correction",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2000s_energy_crisis",
+      "name": "2000s energy crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2001_turkish_economic_crisis",
+      "name": "2001 Turkish economic crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2002_uruguay_banking_crisis",
+      "name": "2002 Uruguay banking crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2003_myanmar_banking_crisis",
+      "name": "2003 Myanmar banking crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2004_argentine_energy_crisis",
+      "name": "2004 Argentine energy crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2008_latvian_financial_crisis",
+      "name": "2008 Latvian financial crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2008_financial_crisis",
+      "name": "2008 financial crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2008–2009_belgian_financial_crisis",
+      "name": "2008–2009 Belgian financial crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2008–2009_ukrainian_financial_crisis",
+      "name": "2008–2009 Ukrainian financial crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2008–2011_icelandic_financial_crisis",
+      "name": "2008–2011 Icelandic financial crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2008–2014_spanish_financial_crisis",
+      "name": "2008–2014 Spanish financial crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2010s_oil_glut",
+      "name": "2010s oil glut",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2010–2014_portuguese_financial_crisis",
+      "name": "2010–2014 Portuguese financial crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2011_bangladesh_share_market_scam",
+      "name": "2011 Bangladesh share market scam",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2012–2013_cypriot_financial_crisis",
+      "name": "2012–2013 Cypriot financial crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2013–present_economic_crisis_in_venezuela",
+      "name": "2013–present economic crisis in Venezuela",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2014_brazilian_economic_crisis",
+      "name": "2014 Brazilian economic crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2015_nepal_blockade",
+      "name": "2015 Nepal blockade",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2015–2016_chinese_stock_market_turbulence",
+      "name": "2015–2016 Chinese stock market turbulence",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2015–2016_stock_market_selloff",
+      "name": "2015–2016 stock market selloff",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2017_sri_lankan_fuel_crisis",
+      "name": "2017 Sri Lankan fuel crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2020_russia–saudi_arabia_oil_price_war",
+      "name": "2020 Russia–Saudi Arabia oil price war",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2020_stock_market_crash",
+      "name": "2020 stock market crash",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2021–2023_inflation_surge",
+      "name": "2021–2023 inflation surge",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2022_global_energy_crisis",
+      "name": "2022 global energy crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2022_stock_market_decline",
+      "name": "2022 stock market decline",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2023_united_states_banking_crisis",
+      "name": "2023 United States banking crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2023–2024_egyptian_financial_crisis",
+      "name": "2023–2024 Egyptian financial crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2025_stock_market_crash",
+      "name": "2025 stock market crash",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-24_hours_of_daytona",
+      "name": "24 Hours of Daytona",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-3_november_1975_bangladeshi_coup_d'état",
+      "name": "3 November 1975 Bangladeshi coup d'état",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-7_november_1975_bangladeshi_coup_d'état",
+      "name": "7 November 1975 Bangladeshi coup d'état",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-8888_uprising",
+      "name": "8888 Uprising",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-amc_gremlin",
+      "name": "AMC Gremlin",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-amc_hornet",
+      "name": "AMC Hornet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-amc_pacer",
+      "name": "AMC Pacer",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ancap_(uruguay)",
+      "name": "ANCAP (Uruguay)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anzus",
+      "name": "ANZUS",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-apa_corporation",
+      "name": "APA Corporation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-asean",
+      "name": "ASEAN",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-asean_declaration",
+      "name": "ASEAN Declaration",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-abkhazia_conflict",
+      "name": "Abkhazia conflict",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-able_archer_83",
+      "name": "Able Archer 83",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-abu_dhabi",
+      "name": "Abu Dhabi",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-abu_dhabi_national_oil_company",
+      "name": "Abu Dhabi National Oil Company",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-accounting_liquidity",
+      "name": "Accounting liquidity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-active_measures",
+      "name": "Active measures",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aden_emergency",
+      "name": "Aden Emergency",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-adrian_cioroianu",
+      "name": "Adrian Cioroianu",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-advertising_council",
+      "name": "Advertising Council",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-afghan_civil_war_(1989–1992)",
+      "name": "Afghan Civil War (1989–1992)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ahmed_zaki_yamani",
+      "name": "Ahmed Zaki Yamani",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-al-ahram",
+      "name": "Al-Ahram",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-al-ahsa_oasis",
+      "name": "Al-Ahsa Oasis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-al-haramain_foundation",
+      "name": "Al-Haramain Foundation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-al-thawra_(newspaper)",
+      "name": "Al-Thawra (newspaper)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-al-wadiah_war",
+      "name": "Al-Wadiah War",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-al-wathbah_uprising",
+      "name": "Al-Wathbah uprising",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-albanian–soviet_split",
+      "name": "Albanian–Soviet split",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alcora_exercise",
+      "name": "Alcora Exercise",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alex_von_tunzelmann",
+      "name": "Alex von Tunzelmann",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alexander_shelepin",
+      "name": "Alexander Shelepin",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alexei_kosygin",
+      "name": "Alexei Kosygin",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-algeria",
+      "name": "Algeria",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-algerian_war",
+      "name": "Algerian War",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-allied_control_council",
+      "name": "Allied Control Council",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-allied_intervention_in_the_russian_civil_war",
+      "name": "Allied intervention in the Russian Civil War",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alternative_energy",
+      "name": "Alternative energy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-amec_foster_wheeler",
+      "name": "Amec Foster Wheeler",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-american_automobile_association",
+      "name": "American Automobile Association",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-american_petroleum_institute",
+      "name": "American Petroleum Institute",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-american_espionage_in_the_soviet_union_and_russian_federation",
+      "name": "American espionage in the Soviet Union and Russian Federation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-amerika_(magazine)",
+      "name": "Amerika (magazine)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-amsterdam_banking_crisis_of_1763",
+      "name": "Amsterdam banking crisis of 1763",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-an-nahar",
+      "name": "An-Nahar",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anastas_mikoyan",
+      "name": "Anastas Mikoyan",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-andrei_grechko",
+      "name": "Andrei Grechko",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-andrei_gromyko",
+      "name": "Andrei Gromyko",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-andrei_kirilenko_(politician)",
+      "name": "Andrei Kirilenko (politician)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-andrew_thorpe",
+      "name": "Andrew Thorpe",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-andré_fontaine",
+      "name": "André Fontaine",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-angolan_civil_war",
+      "name": "Angolan Civil War",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-angolan_war_of_independence",
+      "name": "Angolan War of Independence",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anneli_ute_gabanyi",
+      "name": "Anneli Ute Gabanyi",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-annexation_of_goa",
+      "name": "Annexation of Goa",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-annexation_of_hyderabad",
+      "name": "Annexation of Hyderabad",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anthony_barber",
+      "name": "Anthony Barber",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anti-zionism",
+      "name": "Anti-Zionism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anti-communist",
+      "name": "Anti-communist",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anti-imperialism",
+      "name": "Anti-imperialism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anwar_sadat",
+      "name": "Anwar Sadat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-apartheid",
+      "name": "Apartheid",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-arab_cold_war",
+      "name": "Arab Cold War",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-arab–israeli_conflict",
+      "name": "Arab–Israeli conflict",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aramco",
+      "name": "Aramco",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-archie_brown_(historian)",
+      "name": "Archie Brown (historian)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-arendal_crash",
+      "name": "Arendal crash",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-argentine_revolution",
+      "name": "Argentine Revolution",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-argus_sour_crude_index",
+      "name": "Argus Sour Crude Index",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-arkansas",
+      "name": "Arkansas",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-arms_race",
+      "name": "Arms race",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-arthur_m._schlesinger_jr.",
+      "name": "Arthur M. Schlesinger Jr.",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-artificial_lift",
+      "name": "Artificial lift",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-arvīds_pelše",
+      "name": "Arvīds Pelše",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-asian_relations_conference",
+      "name": "Asian Relations Conference",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-assassination_of_john_f._kennedy",
+      "name": "Assassination of John F. Kennedy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-athan_theoharis",
+      "name": "Athan Theoharis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-attempted_assassination_of_leonid_brezhnev",
+      "name": "Attempted assassination of Leonid Brezhnev",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-august_2011_stock_markets_fall",
+      "name": "August 2011 stock markets fall",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-augusto_pinochet",
+      "name": "Augusto Pinochet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-australian_banking_crisis_of_1893",
+      "name": "Australian banking crisis of 1893",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-authoritarianism",
+      "name": "Authoritarianism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-autocracy",
+      "name": "Autocracy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-automotive_industry_in_the_united_states",
+      "name": "Automotive industry in the United States",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bp",
+      "name": "BP",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ba'athism",
+      "name": "Ba'athism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-backgammon",
+      "name": "Backgammon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-baghdad",
+      "name": "Baghdad",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-baker_hughes",
+      "name": "Baker Hughes",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bamboo_curtain",
+      "name": "Bamboo curtain",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bandung_conference",
+      "name": "Bandung Conference",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bangladesh_liberation_war",
+      "name": "Bangladesh Liberation War",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bank_run",
+      "name": "Bank run",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bar_lev_line",
+      "name": "Bar Lev Line",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-baring_crisis",
+      "name": "Baring crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-barrel_(unit)",
+      "name": "Barrel (unit)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-baruch_plan",
+      "name": "Baruch Plan",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bay_of_pigs_invasion",
+      "name": "Bay of Pigs Invasion",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-benchmark_(crude_oil)",
+      "name": "Benchmark (crude oil)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bengal_bubble_of_1769",
+      "name": "Bengal Bubble of 1769",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-berlin_blockade",
+      "name": "Berlin Blockade",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-berlin_crisis_of_1961",
+      "name": "Berlin Crisis of 1961",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-berlin_wall",
+      "name": "Berlin Wall",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bharat_petroleum",
+      "name": "Bharat Petroleum",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bibcode_(identifier)",
+      "name": "Bibcode (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-big_oil",
+      "name": "Big Oil",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bill_clinton",
+      "name": "Bill Clinton",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-black_friday_(1869)",
+      "name": "Black Friday (1869)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-black_monday_(1894)",
+      "name": "Black Monday (1894)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-black_monday_(1987)",
+      "name": "Black Monday (1987)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-black_saturday_(1983)",
+      "name": "Black Saturday (1983)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-black_september",
+      "name": "Black September",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-black_wednesday",
+      "name": "Black Wednesday",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-blowout_(well_drilling)",
+      "name": "Blowout (well drilling)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-blue_monday_crash_2009",
+      "name": "Blue Monday Crash 2009",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bonny_light_oil",
+      "name": "Bonny Light oil",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-boris_ponomarev",
+      "name": "Boris Ponomarev",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bougainville_conflict",
+      "name": "Bougainville conflict",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-breakup_of_yugoslavia",
+      "name": "Breakup of Yugoslavia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-brent_crude",
+      "name": "Brent Crude",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bretton_woods_system",
+      "name": "Bretton Woods system",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-brezhnev_doctrine",
+      "name": "Brezhnev Doctrine",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bricker_amendment",
+      "name": "Bricker Amendment",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-brinkmanship",
+      "name": "Brinkmanship",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-british_ambassador_to_the_united_states",
+      "name": "British Ambassador to the United States",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-british_credit_crisis_of_1772–1773",
+      "name": "British credit crisis of 1772–1773",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-buick_electra",
+      "name": "Buick Electra",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bureau_of_engraving_and_printing",
+      "name": "Bureau of Engraving and Printing",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-businessweek",
+      "name": "BusinessWeek",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cgg_(company)",
+      "name": "CGG (company)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ch2m",
+      "name": "CH2M",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cia_and_the_cultural_cold_war",
+      "name": "CIA and the Cultural Cold War",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cadillac_deville",
+      "name": "Cadillac DeVille",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cadillac_fleetwood_brougham",
+      "name": "Cadillac Fleetwood Brougham",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cambodian_civil_war",
+      "name": "Cambodian Civil War",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cambodian_conflict_(1979–1998)",
+      "name": "Cambodian conflict (1979–1998)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cambodian_genocide",
+      "name": "Cambodian genocide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cambodian–vietnamese_war",
+      "name": "Cambodian–Vietnamese War",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cameron_international",
+      "name": "Cameron International",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cameroonian_economic_crisis",
+      "name": "Cameroonian economic crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-canada",
+      "name": "Canada",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-canadian_petroleum_companies",
+      "name": "Canadian petroleum companies",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-capital_controls",
+      "name": "Capital controls",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-capital_markets",
+      "name": "Capital markets",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-capitalism",
+      "name": "Capitalism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-captive_import",
+      "name": "Captive import",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-capture_of_the_tuapse",
+      "name": "Capture of the Tuapse",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-carlos_andrés_pérez",
+      "name": "Carlos Andrés Pérez",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-carnation_revolution",
+      "name": "Carnation Revolution",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-carter_doctrine",
+      "name": "Carter Doctrine",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-casamance_conflict",
+      "name": "Casamance conflict",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-caspian_sea",
+      "name": "Caspian Sea",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-caucasus",
+      "name": "Caucasus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cenovus_energy",
+      "name": "Cenovus Energy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-central_american_crisis",
+      "name": "Central American crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-central_intelligence_agency",
+      "name": "Central Intelligence Agency",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-central_treaty_organization",
+      "name": "Central Treaty Organization",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cepsa",
+      "name": "Cepsa",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chadian–libyan_war",
+      "name": "Chadian–Libyan War",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chauvinism",
+      "name": "Chauvinism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chevrolet_bel_air",
+      "name": "Chevrolet Bel Air",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chevrolet_caprice",
+      "name": "Chevrolet Caprice",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chevrolet_chevette",
+      "name": "Chevrolet Chevette",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chevrolet_impala",
+      "name": "Chevrolet Impala",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chevrolet_luv",
+      "name": "Chevrolet LUV",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chevrolet_monte_carlo",
+      "name": "Chevrolet Monte Carlo",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chevron_corporation",
+      "name": "Chevron Corporation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chicago_bridge_&_iron_company",
+      "name": "Chicago Bridge & Iron Company",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chicago_school_of_economics",
+      "name": "Chicago school of economics",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chile",
+      "name": "Chile",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-china_national_offshore_oil_corporation",
+      "name": "China National Offshore Oil Corporation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-china_national_petroleum_corporation",
+      "name": "China National Petroleum Corporation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-china_oilfield_services",
+      "name": "China Oilfield Services",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chinese_banking_liquidity_crisis_of_2013",
+      "name": "Chinese Banking Liquidity Crisis of 2013",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chinese_civil_war",
+      "name": "Chinese Civil War",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chinese_communist_revolution",
+      "name": "Chinese Communist Revolution",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chinese_hyperinflation",
+      "name": "Chinese hyperinflation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chinese_property_sector_crisis_(2020–present)",
+      "name": "Chinese property sector crisis (2020–present)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chinese_stock_bubble_of_2007",
+      "name": "Chinese stock bubble of 2007",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_revival",
+      "name": "Christian revival",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christmas_tree_(oil_well)",
+      "name": "Christmas tree (oil well)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chrysler",
+      "name": "Chrysler",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chrysler_a_platform",
+      "name": "Chrysler A platform",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chrysler_corporation",
+      "name": "Chrysler Corporation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chrysler_f_platform",
+      "name": "Chrysler F platform",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chrysler_horizon",
+      "name": "Chrysler Horizon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chrysler_m_platform",
+      "name": "Chrysler M platform",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chrysler_new_yorker_fifth_avenue",
+      "name": "Chrysler New Yorker Fifth Avenue",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chrysler_sunbeam",
+      "name": "Chrysler Sunbeam",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-citroën_visa",
+      "name": "Citroën Visa",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-closure_of_the_suez_canal_(1956–1957)",
+      "name": "Closure of the Suez Canal (1956–1957)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-closure_of_the_suez_canal_(1967-1975)",
+      "name": "Closure of the Suez Canal (1967-1975)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cold_war",
+      "name": "Cold War",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-collective_leadership_in_the_soviet_union",
+      "name": "Collective leadership in the Soviet Union",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-colombian_conflict",
+      "name": "Colombian conflict",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-comecon",
+      "name": "Comecon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-commercial_revolution",
+      "name": "Commercial revolution",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-commodity_price_shocks",
+      "name": "Commodity price shocks",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-communism",
+      "name": "Communism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-communist_insurgency_in_malaysia_(1968–1989)",
+      "name": "Communist insurgency in Malaysia (1968–1989)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-communist_insurgency_in_sarawak",
+      "name": "Communist insurgency in Sarawak",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-communist_insurgency_in_thailand",
+      "name": "Communist insurgency in Thailand",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-completion_(oil_and_gas_wells)",
+      "name": "Completion (oil and gas wells)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-congo_crisis",
+      "name": "Congo Crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-conocophillips",
+      "name": "ConocoPhillips",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-conservatism",
+      "name": "Conservatism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-conservatism_in_the_united_states",
+      "name": "Conservatism in the United States",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-consolidation_of_the_cuban_revolution",
+      "name": "Consolidation of the Cuban Revolution",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-containment",
+      "name": "Containment",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-contras",
+      "name": "Contras",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-copper_panic_of_1789",
+      "name": "Copper Panic of 1789",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-core_sample",
+      "name": "Core sample",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-corfu_channel_incident",
+      "name": "Corfu Channel incident",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-corporate_average_fuel_economy",
+      "name": "Corporate Average Fuel Economy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-corrective_movement_(syria)",
+      "name": "Corrective Movement (Syria)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-corrective_revolution_(egypt)",
+      "name": "Corrective revolution (Egypt)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-credit_crunch",
+      "name": "Credit crunch",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-credit_cycle",
+      "name": "Credit cycle",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-crisis_of_1982",
+      "name": "Crisis of 1982",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-crisis_of_the_third_century",
+      "name": "Crisis of the Third Century",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-crusade_for_freedom",
+      "name": "Crusade for Freedom",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cuban_missile_crisis",
+      "name": "Cuban Missile Crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cuban_revolution",
+      "name": "Cuban Revolution",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cubic_metre",
+      "name": "Cubic metre",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cultural_revolution",
+      "name": "Cultural Revolution",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-currency_crisis",
+      "name": "Currency crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cursed_soldiers",
+      "name": "Cursed soldiers",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cypriot_intercommunal_violence",
+      "name": "Cypriot intercommunal violence",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cyprus",
+      "name": "Cyprus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cyprus_emergency",
+      "name": "Cyprus Emergency",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-daniel_ammann",
+      "name": "Daniel Ammann",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-daniel_yergin",
+      "name": "Daniel Yergin",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-danish_state_bankruptcy_of_1813",
+      "name": "Danish state bankruptcy of 1813",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-datsun_510",
+      "name": "Datsun 510",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-datsun_810",
+      "name": "Datsun 810",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-datsun_b210",
+      "name": "Datsun B210",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-datsun_truck",
+      "name": "Datsun Truck",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-david_frum",
+      "name": "David Frum",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-david_s._painter",
+      "name": "David S. Painter",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-de_facto_standard",
+      "name": "De facto standard",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-death_and_state_funeral_of_leonid_brezhnev",
+      "name": "Death and state funeral of Leonid Brezhnev",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-debt_crisis",
+      "name": "Debt crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dekemvriana",
+      "name": "Dekemvriana",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-democratic_capitalism",
+      "name": "Democratic capitalism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-devon_energy",
+      "name": "Devon Energy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dhofar_war",
+      "name": "Dhofar War",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-differential_sticking",
+      "name": "Differential sticking",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dinmukhamed_kunaev",
+      "name": "Dinmukhamed Kunaev",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-directional_drilling",
+      "name": "Directional drilling",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dirty_war",
+      "name": "Dirty War",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dissolution_of_czechoslovakia",
+      "name": "Dissolution of Czechoslovakia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dissolution_of_the_soviet_union",
+      "name": "Dissolution of the Soviet Union",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-division_of_korea",
+      "name": "Division of Korea",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dmitriy_ustinov",
+      "name": "Dmitriy Ustinov",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dmitry_polyansky",
+      "name": "Dmitry Polyansky",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dodge_colt",
+      "name": "Dodge Colt",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dodge_diplomat",
+      "name": "Dodge Diplomat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dodge_omni",
+      "name": "Dodge Omni",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-doi_(identifier)",
+      "name": "Doi (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dominican_civil_war",
+      "name": "Dominican Civil War",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-domino_theory",
+      "name": "Domino theory",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dot-com_bubble",
+      "name": "Dot-com bubble",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-downstream_(petroleum_industry)",
+      "name": "Downstream (petroleum industry)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-drill_stem_test",
+      "name": "Drill stem test",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-drilling_engineering",
+      "name": "Drilling engineering",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-drilling_fluid",
+      "name": "Drilling fluid",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-drilling_fluid_invasion",
+      "name": "Drilling fluid invasion",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dubai_crude",
+      "name": "Dubai Crude",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dubai_world",
+      "name": "Dubai World",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-détente",
+      "name": "Détente",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-early_2020s_recession",
+      "name": "Early 2020s recession",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-east_german_uprising_of_1953",
+      "name": "East German uprising of 1953",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-east_midlands_oil_province",
+      "name": "East Midlands Oil Province",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-east_texas_oil_field",
+      "name": "East Texas Oil Field",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eastern_bloc",
+      "name": "Eastern Bloc",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-economic_effects_of_brexit",
+      "name": "Economic effects of Brexit",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-economic_effects_of_the_september_11_attacks",
+      "name": "Economic effects of the September 11 attacks",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-economic_impact_of_the_covid-19_pandemic",
+      "name": "Economic impact of the COVID-19 pandemic",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-economic_impact_of_the_russian_invasion_of_ukraine",
+      "name": "Economic impact of the Russian invasion of Ukraine",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-economy_of_syria",
+      "name": "Economy of Syria",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ecopetrol",
+      "name": "Ecopetrol",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eduard_shevardnadze",
+      "name": "Eduard Shevardnadze",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-edward_heath",
+      "name": "Edward Heath",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-egypt",
+      "name": "Egypt",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-egyptian–libyan_war",
+      "name": "Egyptian–Libyan War",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eighth_five-year_plan_(soviet_union)",
+      "name": "Eighth five-year plan (Soviet Union)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eisenhower_doctrine",
+      "name": "Eisenhower Doctrine",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-el_porteñazo",
+      "name": "El Porteñazo",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-electricity_generation",
+      "name": "Electricity generation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eleventh_five-year_plan_(soviet_union)",
+      "name": "Eleventh five-year plan (Soviet Union)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ellen_schrecker",
+      "name": "Ellen Schrecker",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-embargo",
+      "name": "Embargo",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-emergency_highway_energy_conservation_act",
+      "name": "Emergency Highway Energy Conservation Act",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-emergency_petroleum_allocation_act",
+      "name": "Emergency Petroleum Allocation Act",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-enbridge",
+      "name": "Enbridge",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-encilhamento",
+      "name": "Encilhamento",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eneos_holdings",
+      "name": "Eneos Holdings",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-energy_crisis_'74",
+      "name": "Energy Crisis '74",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-energy_policy_and_conservation_act",
+      "name": "Energy Policy and Conservation Act",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-energy_crisis",
+      "name": "Energy crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-energy_crisis_in_venezuela",
+      "name": "Energy crisis in Venezuela",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-energy_trading",
+      "name": "Energy trading",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-enhanced_oil_recovery",
+      "name": "Enhanced oil recovery",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eni",
+      "name": "Eni",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-enron",
+      "name": "Enron",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-equinor",
+      "name": "Equinor",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-era_of_stagnation",
+      "name": "Era of Stagnation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eritrean_civil_wars",
+      "name": "Eritrean Civil Wars",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eritrean_war_of_independence",
+      "name": "Eritrean War of Independence",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-estado_novo_(portugal)",
+      "name": "Estado Novo (Portugal)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ethanol",
+      "name": "Ethanol",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ethiopian_civil_war",
+      "name": "Ethiopian Civil War",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ethnic_nationalism",
+      "name": "Ethnic nationalism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-euro_area_crisis",
+      "name": "Euro area crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eurocommunism",
+      "name": "Eurocommunism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-european_community",
+      "name": "European Community",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-european_economic_community",
+      "name": "European Economic Community",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-european_potato_failure",
+      "name": "European potato failure",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-executive_order",
+      "name": "Executive Order",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-exercise_zapad-81",
+      "name": "Exercise Zapad-81",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-exploration_geophysics",
+      "name": "Exploration geophysics",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-expulsion_of_soviets_from_albania",
+      "name": "Expulsion of Soviets from Albania",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-extraction_of_petroleum",
+      "name": "Extraction of petroleum",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-exxonmobil",
+      "name": "ExxonMobil",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-faisal_of_saudi_arabia",
+      "name": "Faisal of Saudi Arabia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-falklands_war",
+      "name": "Falklands War",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fall_of_saigon",
+      "name": "Fall of Saigon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fall_of_communism_in_albania",
+      "name": "Fall of communism in Albania",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fall_of_the_berlin_wall",
+      "name": "Fall of the Berlin Wall",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fall_of_the_inner_german_border",
+      "name": "Fall of the inner German border",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fascism",
+      "name": "Fascism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-february_1974_united_kingdom_general_election",
+      "name": "February 1974 United Kingdom general election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fiat_127",
+      "name": "Fiat 127",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fiat_131",
+      "name": "Fiat 131",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fiat_ritmo",
+      "name": "Fiat Ritmo",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-financial_contagion",
+      "name": "Financial contagion",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-financial_crisis",
+      "name": "Financial crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-financial_crisis_of_1914",
+      "name": "Financial crisis of 1914",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-financial_crisis_of_33",
+      "name": "Financial crisis of 33",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-financial_history_of_the_dutch_republic",
+      "name": "Financial history of the Dutch Republic",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-financial_market_impact_of_the_covid-19_pandemic",
+      "name": "Financial market impact of the COVID-19 pandemic",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-finlandization",
+      "name": "Finlandization",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fireplace",
+      "name": "Fireplace",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-first_indochina_war",
+      "name": "First Indochina War",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-first_iraqi–kurdish_war",
+      "name": "First Iraqi–Kurdish War",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-first_nagorno-karabakh_war",
+      "name": "First Nagorno-Karabakh War",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-first_taiwan_strait_crisis",
+      "name": "First Taiwan Strait Crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-first_yemenite_war",
+      "name": "First Yemenite War",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-five-year_plans_for_the_national_economy_of_the_soviet_union",
+      "name": "Five-year plans for the national economy of the Soviet Union",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-flash_crash",
+      "name": "Flash crash",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-food_programme",
+      "name": "Food Programme",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ford_courier",
+      "name": "Ford Courier",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ford_escort_(europe)",
+      "name": "Ford Escort (Europe)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ford_fiesta",
+      "name": "Ford Fiesta",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ford_galaxie_500",
+      "name": "Ford Galaxie 500",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ford_maverick_(americas)",
+      "name": "Ford Maverick (Americas)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ford_pinto",
+      "name": "Ford Pinto",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ford_thunderbird",
+      "name": "Ford Thunderbird",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fossil_fuel_phase-out",
+      "name": "Fossil fuel phase-out",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-four_power_agreement_on_berlin",
+      "name": "Four Power Agreement on Berlin",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fred_halliday",
+      "name": "Fred Halliday",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fredrik_ljungström",
+      "name": "Fredrik Ljungström",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-friendship_games",
+      "name": "Friendship Games",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-front-wheel_drive",
+      "name": "Front-wheel drive",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-frozen_conflict",
+      "name": "Frozen conflict",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-funding_liquidity",
+      "name": "Funding liquidity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fyodor_kulakov",
+      "name": "Fyodor Kulakov",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ge_power",
+      "name": "GE Power",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gm_h_platform_(rwd)",
+      "name": "GM H platform (RWD)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gm_x_platform_(rwd)",
+      "name": "GM X platform (RWD)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gabriel_gorodetsky",
+      "name": "Gabriel Gorodetsky",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gabriel_kolko",
+      "name": "Gabriel Kolko",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-galp_energia",
+      "name": "Galp Energia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gar_alperovitz",
+      "name": "Gar Alperovitz",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gas_exporting_countries_forum",
+      "name": "Gas Exporting Countries Forum",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gas_lift",
+      "name": "Gas lift",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gas_reinjection",
+      "name": "Gas reinjection",
+      "relevance": 0,
+      "tags": []
+    }
+  ]
+}

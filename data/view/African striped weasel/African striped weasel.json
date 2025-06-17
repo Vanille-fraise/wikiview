@@ -1,0 +1,3009 @@
+{
+  "id": "5943826",
+  "name": "African striped weasel",
+  "description": "The African striped weasel (Poecilogale albinucha), also known as the white-naped weasel, striped weasel or African weasel, is a small mammal native to sub-Saharan Africa, where it occurs as far north as Kenya and stretches down south to South Africa. It belongs in the family Mustelidae and is the lone member of the genus Poecilogale, which was named in 1883 by Oldfield Thomas. It has a long, slender body with short legs and a bushy tail. One of the smallest carnivorans in Africa, it measures 24 to 35 cm (9.4 to 13.8 in) long excluding the tail, with males generally growing larger than females. It has black fur over most of its body, with distinctive white bands running from the top of its head down the length of its back, with the tail being completely white.\nOften associated with termite mounds, the African striped weasel is most commonly seen in savanna and veld grasslands, but has been recorded in a wide range of habitats including semideserts, rainforests, fynbos and even areas used by humans such as pine plantations and agricultural land. It is a powerful digger and excavates burrows which it inhabits when not hunting for prey. Though not commonly seen due to its secretive nature, it has been listed as Least Concern on the IUCN Red List since 1996 because of its wide range and habitat tolerance. There are no known major threats to the species, though it is commonly used in local traditional medicine. Owls and domestic dogs are known to prey on it, and weasels sometimes die in fights against each other. It generally flees from any perceived threats, but if this is not possible, it may try warding off its attacker with noises, fake charges or a noxious fluid sprayed from its perineal glands.\nAfrican striped weasels are specialized predators that feed almost entirely on rodents, and will enter their burrows to catch them, though they occasionally eat birds as well. Even when hungry, it ignores other types of small animals and eggs provided to it as food. It commonly bites its prey in the back of the neck while rolling around or kicking the prey's back likely to attempt to dislocate the neck, though larger prey may instead be dispatched with bites to the throat. It rarely drinks water, only doing so in small quantities when the weather is hot, instead obtaining most of the moisture it needs through its food. It is mostly a nocturnal and solitary animal, though small groups of up to four individuals are sometimes seen. Breeding takes place from spring to the end of summer, and females tend to give birth to two to three young per litter after a gestation period of about 30 days. The newborn young are pink and almost hairless, with closed eyes and ears, and are cared for by their mother with no assistance from their father.\n\n",
+  "descImg": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Whitenapedweasellg2.jpg",
+  "audio": null,
+  "links": [
+    {
+      "id": "l-aardwolf",
+      "name": "Aardwolf",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-abyssinian_genet",
+      "name": "Abyssinian genet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acheronictis",
+      "name": "Acheronictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acinonyx",
+      "name": "Acinonyx",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-actiocyon",
+      "name": "Actiocyon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-african_civet",
+      "name": "African civet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-african_clawless_otter",
+      "name": "African clawless otter",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-african_golden_cat",
+      "name": "African golden cat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-african_palm_civet",
+      "name": "African palm civet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-african_wild_dog",
+      "name": "African wild dog",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-african_wildcat",
+      "name": "African wildcat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-african_wolf",
+      "name": "African wolf",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ailuridae",
+      "name": "Ailuridae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ailurinae",
+      "name": "Ailurinae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ailuropoda",
+      "name": "Ailuropoda",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ailurus",
+      "name": "Ailurus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alexander's_kusimanse",
+      "name": "Alexander's kusimanse",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-algarolutra",
+      "name": "Algarolutra",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alopecocyon",
+      "name": "Alopecocyon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-amazon_weasel",
+      "name": "Amazon weasel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-american_society_of_mammalogists",
+      "name": "American Society of Mammalogists",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-american_badger",
+      "name": "American badger",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-american_black_bear",
+      "name": "American black bear",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-american_ermine",
+      "name": "American ermine",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-american_hog-nosed_skunk",
+      "name": "American hog-nosed skunk",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-american_marten",
+      "name": "American marten",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-american_mink",
+      "name": "American mink",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-amphictinae",
+      "name": "Amphictinae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-amphictis",
+      "name": "Amphictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-amphinasua",
+      "name": "Amphinasua",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ancestral_trait",
+      "name": "Ancestral trait",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ancient_greek",
+      "name": "Ancient Greek",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-andean_mountain_cat",
+      "name": "Andean mountain cat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-angolan_genet",
+      "name": "Angolan genet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-angolan_kusimanse",
+      "name": "Angolan kusimanse",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-angolan_slender_mongoose",
+      "name": "Angolan slender mongoose",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-angustictis",
+      "name": "Angustictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-animal",
+      "name": "Animal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-animal_diversity_web",
+      "name": "Animal Diversity Web",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-animal_latrine",
+      "name": "Animal latrine",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-antarctic_fur_seal",
+      "name": "Antarctic fur seal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aonyx",
+      "name": "Aonyx",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aquatic_genet",
+      "name": "Aquatic genet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aragonictis",
+      "name": "Aragonictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-arctic_fox",
+      "name": "Arctic fox",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-arctocephalus",
+      "name": "Arctocephalus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-arctocephalus_forsteri",
+      "name": "Arctocephalus forsteri",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-arctoidea",
+      "name": "Arctoidea",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-arctomeles",
+      "name": "Arctomeles",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-arctonasua",
+      "name": "Arctonasua",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-arctonyx",
+      "name": "Arctonyx",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-arikarictis",
+      "name": "Arikarictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-asian_badger",
+      "name": "Asian badger",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-asian_black_bear",
+      "name": "Asian black bear",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-asian_golden_cat",
+      "name": "Asian golden cat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-asian_palm_civet",
+      "name": "Asian palm civet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-asian_small-clawed_otter",
+      "name": "Asian small-clawed otter",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-asiatic_linsang",
+      "name": "Asiatic linsang",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-austin_roberts_(zoologist)",
+      "name": "Austin Roberts (zoologist)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-australian_sea_lion",
+      "name": "Australian sea lion",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-back-striped_weasel",
+      "name": "Back-striped weasel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-badger",
+      "name": "Badger",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-baikal_seal",
+      "name": "Baikal seal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-banded_linsang",
+      "name": "Banded linsang",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-banded_mongoose",
+      "name": "Banded mongoose",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-banded_palm_civet",
+      "name": "Banded palm civet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-baranogale",
+      "name": "Baranogale",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bassaricynoides",
+      "name": "Bassaricynoides",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bassaricyon",
+      "name": "Bassaricyon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bassariscus",
+      "name": "Bassariscus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bat-eared_fox",
+      "name": "Bat-eared fox",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bay_cat",
+      "name": "Bay cat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bdeogale",
+      "name": "Bdeogale",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bear",
+      "name": "Bear",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bearded_seal",
+      "name": "Bearded seal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-beech_marten",
+      "name": "Beech marten",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bengal_fox",
+      "name": "Bengal fox",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bibcode_(identifier)",
+      "name": "Bibcode (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-binomial_nomenclature",
+      "name": "Binomial nomenclature",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-binturong",
+      "name": "Binturong",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bird",
+      "name": "Bird",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-black-backed_jackal",
+      "name": "Black-backed jackal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-black-footed_cat",
+      "name": "Black-footed cat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-black-footed_ferret",
+      "name": "Black-footed ferret",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-black-footed_mongoose",
+      "name": "Black-footed mongoose",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-blanford's_fox",
+      "name": "Blanford's fox",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bobcat",
+      "name": "Bobcat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bornean_ferret_badger",
+      "name": "Bornean ferret badger",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-botswana",
+      "name": "Botswana",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bourlon's_genet",
+      "name": "Bourlon's genet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-brachyprotoma",
+      "name": "Brachyprotoma",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-brachypsalis",
+      "name": "Brachypsalis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-brevimalictis",
+      "name": "Brevimalictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-british_museum",
+      "name": "British Museum",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-broad-striped_malagasy_mongoose",
+      "name": "Broad-striped Malagasy mongoose",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-brown-tailed_mongoose",
+      "name": "Brown-tailed mongoose",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-brown_bear",
+      "name": "Brown bear",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-brown_fur_seal",
+      "name": "Brown fur seal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-brown_hyena",
+      "name": "Brown hyena",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-brown_palm_civet",
+      "name": "Brown palm civet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-buff_(colour)",
+      "name": "Buff (colour)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-burmese_ferret-badger",
+      "name": "Burmese ferret-badger",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-burrow",
+      "name": "Burrow",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bush_dog",
+      "name": "Bush dog",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bushy-tailed_mongoose",
+      "name": "Bushy-tailed mongoose",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cacomistle",
+      "name": "Cacomistle",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-calandula",
+      "name": "Calandula",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-california_sea_lion",
+      "name": "California sea lion",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-callorhinus",
+      "name": "Callorhinus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-canada_lynx",
+      "name": "Canada lynx",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-canidae",
+      "name": "Canidae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-caniformia",
+      "name": "Caniformia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-canimartes",
+      "name": "Canimartes",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-canina_(subtribe)",
+      "name": "Canina (subtribe)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-canine_teeth",
+      "name": "Canine teeth",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-canine_tooth",
+      "name": "Canine tooth",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-canini_(tribe)",
+      "name": "Canini (tribe)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-canis",
+      "name": "Canis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cape_province",
+      "name": "Cape Province",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cape_fox",
+      "name": "Cape fox",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cape_genet",
+      "name": "Cape genet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cape_gray_mongoose",
+      "name": "Cape gray mongoose",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-caracal",
+      "name": "Caracal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-caracal_(genus)",
+      "name": "Caracal (genus)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-carnassial",
+      "name": "Carnassial",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-carnivora",
+      "name": "Carnivora",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-caspian_seal",
+      "name": "Caspian seal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cat",
+      "name": "Cat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-catalogue_of_life",
+      "name": "Catalogue of Life",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-catopuma",
+      "name": "Catopuma",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-caucasian_badger",
+      "name": "Caucasian badger",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-central_african_oyan",
+      "name": "Central African oyan",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cerdocyonina",
+      "name": "Cerdocyonina",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cernictis",
+      "name": "Cernictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chamitataxus",
+      "name": "Chamitataxus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chapalmalania",
+      "name": "Chapalmalania",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cheetah",
+      "name": "Cheetah",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chinese_ferret-badger",
+      "name": "Chinese ferret-badger",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chinese_mountain_cat",
+      "name": "Chinese mountain cat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chordate",
+      "name": "Chordate",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-circamustela",
+      "name": "Circamustela",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cladogram",
+      "name": "Cladogram",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-clouded_leopard",
+      "name": "Clouded leopard",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-coati",
+      "name": "Coati",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-collared_mongoose",
+      "name": "Collared mongoose",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-colombian_weasel",
+      "name": "Colombian weasel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-common_dwarf_mongoose",
+      "name": "Common dwarf mongoose",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-common_genet",
+      "name": "Common genet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-common_kusimanse",
+      "name": "Common kusimanse",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-common_raccoon_dog",
+      "name": "Common raccoon dog",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-common_slender_mongoose",
+      "name": "Common slender mongoose",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-conepatus",
+      "name": "Conepatus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-congo_clawless_otter",
+      "name": "Congo clawless otter",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-conservation_status",
+      "name": "Conservation status",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cooper's_cave",
+      "name": "Cooper's Cave",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-copulation_(zoology)",
+      "name": "Copulation (zoology)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-corsac_fox",
+      "name": "Corsac fox",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-corumictis",
+      "name": "Corumictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cougar",
+      "name": "Cougar",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-coyote",
+      "name": "Coyote",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cozumel_raccoon",
+      "name": "Cozumel raccoon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-crab-eating_fox",
+      "name": "Crab-eating fox",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-crab-eating_mongoose",
+      "name": "Crab-eating mongoose",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-crab-eating_raccoon",
+      "name": "Crab-eating raccoon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-crabeater_seal",
+      "name": "Crabeater seal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-craterogale",
+      "name": "Craterogale",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-crested_servaline_genet",
+      "name": "Crested servaline genet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-crocuta",
+      "name": "Crocuta",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-crossarchus",
+      "name": "Crossarchus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-culpeo",
+      "name": "Culpeo",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cursorial",
+      "name": "Cursorial",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cusp_(anatomy)",
+      "name": "Cusp (anatomy)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cyonasua",
+      "name": "Cyonasua",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cyrnaonyx",
+      "name": "Cyrnaonyx",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cyrnolutra",
+      "name": "Cyrnolutra",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-darwin's_fox",
+      "name": "Darwin's fox",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-democratic_republic_of_the_congo",
+      "name": "Democratic Republic of the Congo",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dental_formula",
+      "name": "Dental formula",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dentition",
+      "name": "Dentition",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-derived_trait",
+      "name": "Derived trait",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dhole",
+      "name": "Dhole",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-digit_(anatomy)",
+      "name": "Digit (anatomy)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dinogale",
+      "name": "Dinogale",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-divergent_evolution",
+      "name": "Divergent evolution",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-djourabus",
+      "name": "Djourabus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dog",
+      "name": "Dog",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-doi_(identifier)",
+      "name": "Doi (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-domestic_dogs",
+      "name": "Domestic dogs",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-durrell's_vontsira",
+      "name": "Durrell's vontsira",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dwarf_mongoose",
+      "name": "Dwarf mongoose",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eared_seal",
+      "name": "Eared seal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-earless_seal",
+      "name": "Earless seal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-early_pleistocene",
+      "name": "Early Pleistocene",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-early_pliocene",
+      "name": "Early Pliocene",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eastern_falanouc",
+      "name": "Eastern falanouc",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eastern_lowland_olingo",
+      "name": "Eastern lowland olingo",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eastern_spotted_skunk",
+      "name": "Eastern spotted skunk",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eastern_wolf",
+      "name": "Eastern wolf",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-edaphocyon",
+      "name": "Edaphocyon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-egyptian_mongoose",
+      "name": "Egyptian mongoose",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eirictis",
+      "name": "Eirictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ekorus",
+      "name": "Ekorus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-elephant_seal",
+      "name": "Elephant seal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-encyclopedia_of_life",
+      "name": "Encyclopedia of Life",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-enhydra",
+      "name": "Enhydra",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-enhydrictis",
+      "name": "Enhydrictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-enhydriodon",
+      "name": "Enhydriodon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-enhydritherium",
+      "name": "Enhydritherium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eomellivora",
+      "name": "Eomellivora",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-erokomellivora",
+      "name": "Erokomellivora",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ethiopian_dwarf_mongoose",
+      "name": "Ethiopian dwarf mongoose",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ethiopian_wolf",
+      "name": "Ethiopian wolf",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eukaryote",
+      "name": "Eukaryote",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eupleres",
+      "name": "Eupleres",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eupleridae",
+      "name": "Eupleridae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-euplerinae",
+      "name": "Euplerinae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eurasian_lynx",
+      "name": "Eurasian lynx",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eurasian_otter",
+      "name": "Eurasian otter",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-european_badger",
+      "name": "European badger",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-european_mink",
+      "name": "European mink",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-european_pine_marten",
+      "name": "European pine marten",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-european_polecat",
+      "name": "European polecat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-european_wildcat",
+      "name": "European wildcat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eutheria",
+      "name": "Eutheria",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-felidae",
+      "name": "Felidae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-feliformia",
+      "name": "Feliformia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-felinae",
+      "name": "Felinae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-felis",
+      "name": "Felis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fennec_fox",
+      "name": "Fennec fox",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ferinestrix",
+      "name": "Ferinestrix",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ferret",
+      "name": "Ferret",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ferret-badger",
+      "name": "Ferret-badger",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fisher_(animal)",
+      "name": "Fisher (animal)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fishing_cat",
+      "name": "Fishing cat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-flat-headed_cat",
+      "name": "Flat-headed cat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-flat-headed_kusimanse",
+      "name": "Flat-headed kusimanse",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-floridictis",
+      "name": "Floridictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-formosan_ferret-badger",
+      "name": "Formosan ferret-badger",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fossa_(animal)",
+      "name": "Fossa (animal)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fossorial",
+      "name": "Fossorial",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fox",
+      "name": "Fox",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-franconictis",
+      "name": "Franconictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-friedrich_welwitsch",
+      "name": "Friedrich Welwitsch",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fur_seal",
+      "name": "Fur seal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fynbos",
+      "name": "Fynbos",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-galictis",
+      "name": "Galictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-galictis_vittata",
+      "name": "Galictis vittata",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-galidictis",
+      "name": "Galidictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-galidiinae",
+      "name": "Galidiinae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-galápagos_fur_seal",
+      "name": "Galápagos fur seal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-galápagos_sea_lion",
+      "name": "Galápagos sea lion",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gambian_mongoose",
+      "name": "Gambian mongoose",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gauteng",
+      "name": "Gauteng",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-generic_name_(biology)",
+      "name": "Generic name (biology)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-genet_(animal)",
+      "name": "Genet (animal)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-genettinae",
+      "name": "Genettinae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-genus",
+      "name": "Genus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-geoffroy's_cat",
+      "name": "Geoffroy's cat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gestation",
+      "name": "Gestation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-giant_forest_genet",
+      "name": "Giant forest genet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-giant_otter",
+      "name": "Giant otter",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-giant_panda",
+      "name": "Giant panda",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-global_biodiversity_information_facility",
+      "name": "Global Biodiversity Information Facility",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-golden_jackal",
+      "name": "Golden jackal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-golden_palm_civet",
+      "name": "Golden palm civet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-golungo_alto",
+      "name": "Golungo Alto",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-grandidier's_mongoose",
+      "name": "Grandidier's mongoose",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-grassland",
+      "name": "Grassland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gray_fox",
+      "name": "Gray fox",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-greater_grison",
+      "name": "Greater grison",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-greater_hog_badger",
+      "name": "Greater hog badger",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-grey_seal",
+      "name": "Grey seal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-guadalupe_fur_seal",
+      "name": "Guadalupe fur seal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gulo",
+      "name": "Gulo",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-guloninae",
+      "name": "Guloninae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-haida_ermine",
+      "name": "Haida ermine",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hairy-nosed_otter",
+      "name": "Hairy-nosed otter",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-harbor_seal",
+      "name": "Harbor seal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-harp_seal",
+      "name": "Harp seal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hausa_genet",
+      "name": "Hausa genet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hawaiian_monk_seal",
+      "name": "Hawaiian monk seal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hdl_(identifier)",
+      "name": "Hdl (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-helictidinae",
+      "name": "Helictidinae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-helogale",
+      "name": "Helogale",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hemigalinae",
+      "name": "Hemigalinae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-herpestes",
+      "name": "Herpestes",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-herpestoidea",
+      "name": "Herpestoidea",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hoary_fox",
+      "name": "Hoary fox",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hog-nosed_skunk",
+      "name": "Hog-nosed skunk",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hog_badger",
+      "name": "Hog badger",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-honey_badger",
+      "name": "Honey badger",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hooded_seal",
+      "name": "Hooded seal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hooded_skunk",
+      "name": "Hooded skunk",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hoplictis",
+      "name": "Hoplictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hose's_palm_civet",
+      "name": "Hose's palm civet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-humboldt's_hog-nosed_skunk",
+      "name": "Humboldt's hog-nosed skunk",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hyaeninae",
+      "name": "Hyaeninae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hydrictis",
+      "name": "Hydrictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hyena",
+      "name": "Hyena",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-inaturalist",
+      "name": "INaturalist",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-isbn_(identifier)",
+      "name": "ISBN (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-issn_(identifier)",
+      "name": "ISSN (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iucn",
+      "name": "IUCN",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iucn_red_list",
+      "name": "IUCN Red List",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iberian_lynx",
+      "name": "Iberian lynx",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iberictis",
+      "name": "Iberictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ictonychinae",
+      "name": "Ictonychinae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ictonychini",
+      "name": "Ictonychini",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ictonyx",
+      "name": "Ictonyx",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ictonyx_libycus",
+      "name": "Ictonyx libycus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ictonyx_striatus",
+      "name": "Ictonyx striatus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-incisors",
+      "name": "Incisors",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-indian_brown_mongoose",
+      "name": "Indian brown mongoose",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-indian_grey_mongoose",
+      "name": "Indian grey mongoose",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-indonesian_mountain_weasel",
+      "name": "Indonesian mountain weasel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-integrated_taxonomic_information_system",
+      "name": "Integrated Taxonomic Information System",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-interim_register_of_marine_and_nonmarine_genera",
+      "name": "Interim Register of Marine and Nonmarine Genera",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-intraspecific_competition",
+      "name": "Intraspecific competition",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-invertebrate",
+      "name": "Invertebrate",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ischyrictis",
+      "name": "Ischyrictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-island_fox",
+      "name": "Island fox",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-jackson's_mongoose",
+      "name": "Jackson's mongoose",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-jaguar",
+      "name": "Jaguar",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-jaguarundi",
+      "name": "Jaguarundi",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-japanese_badger",
+      "name": "Japanese badger",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-japanese_marten",
+      "name": "Japanese marten",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-japanese_raccoon_dog",
+      "name": "Japanese raccoon dog",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-japanese_weasel",
+      "name": "Japanese weasel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-javan_ferret-badger",
+      "name": "Javan ferret-badger",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-javan_mongoose",
+      "name": "Javan mongoose",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-jaw_joint",
+      "name": "Jaw joint",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-john_edward_gray",
+      "name": "John Edward Gray",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-johnston's_genet",
+      "name": "Johnston's genet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-joseph_wolf",
+      "name": "Joseph Wolf",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-josé_vicente_barbosa_du_bocage",
+      "name": "José Vicente Barbosa du Bocage",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-juan_fernández_fur_seal",
+      "name": "Juan Fernández fur seal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-jungle_cat",
+      "name": "Jungle cat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-junior_synonyms",
+      "name": "Junior synonyms",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-kenya",
+      "name": "Kenya",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-kenyalutra",
+      "name": "Kenyalutra",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-king_genet",
+      "name": "King genet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-kinkajou",
+      "name": "Kinkajou",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-kinometaxia",
+      "name": "Kinometaxia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-kit_fox",
+      "name": "Kit fox",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-kodkod",
+      "name": "Kodkod",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-kwazulu-natal",
+      "name": "KwaZulu-Natal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-laetoli",
+      "name": "Laetoli",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-laphyctis_(mammal)",
+      "name": "Laphyctis (mammal)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-large-spotted_civet",
+      "name": "Large-spotted civet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-large_indian_civet",
+      "name": "Large Indian civet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lartetictis",
+      "name": "Lartetictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-latin",
+      "name": "Latin",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-laurasiatheria",
+      "name": "Laurasiatheria",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-least_concern",
+      "name": "Least Concern",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-least_weasel",
+      "name": "Least weasel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-legionarictis",
+      "name": "Legionarictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-leopard",
+      "name": "Leopard",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-leopard_cat",
+      "name": "Leopard cat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-leopard_seal",
+      "name": "Leopard seal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-leopardus",
+      "name": "Leopardus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-leopardus_guttulus",
+      "name": "Leopardus guttulus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-leptarctinae",
+      "name": "Leptarctinae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-leptarctus",
+      "name": "Leptarctus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lesser_grison",
+      "name": "Lesser grison",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-letaba_genet",
+      "name": "Letaba genet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-liberian_mongoose",
+      "name": "Liberian mongoose",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-limnonyx",
+      "name": "Limnonyx",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-limpopo",
+      "name": "Limpopo",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lion",
+      "name": "Lion",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lobodontini",
+      "name": "Lobodontini",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-long-nosed_mongoose",
+      "name": "Long-nosed mongoose",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-long-tailed_weasel",
+      "name": "Long-tailed weasel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lontra",
+      "name": "Lontra",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-luogale",
+      "name": "Luogale",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lupulella",
+      "name": "Lupulella",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lutra",
+      "name": "Lutra",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lutraeximia",
+      "name": "Lutraeximia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lutravus",
+      "name": "Lutravus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lutrictis",
+      "name": "Lutrictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lutrinae",
+      "name": "Lutrinae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lutrogale",
+      "name": "Lutrogale",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lycaon_(genus)",
+      "name": "Lycaon (genus)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lyncodon",
+      "name": "Lyncodon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lyncodontini",
+      "name": "Lyncodontini",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lynx",
+      "name": "Lynx",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-magerictis",
+      "name": "Magerictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-malabar_large-spotted_civet",
+      "name": "Malabar large-spotted civet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-malagasy_civet",
+      "name": "Malagasy civet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-malayan_civet",
+      "name": "Malayan civet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-malayan_weasel",
+      "name": "Malayan weasel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mammal",
+      "name": "Mammal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mammal_species_of_the_world",
+      "name": "Mammal Species of the World",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-maned_wolf",
+      "name": "Maned wolf",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-marbled_cat",
+      "name": "Marbled cat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-marbled_polecat",
+      "name": "Marbled polecat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-marcetia_(mammal)",
+      "name": "Marcetia (mammal)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-margay",
+      "name": "Margay",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-marine_otter",
+      "name": "Marine otter",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-marsh_mongoose",
+      "name": "Marsh mongoose",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-martellictis",
+      "name": "Martellictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-marten",
+      "name": "Marten",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-martes",
+      "name": "Martes",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-masked_palm_civet",
+      "name": "Masked palm civet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-matanomictis",
+      "name": "Matanomictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mediterranean_monk_seal",
+      "name": "Mediterranean monk seal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-meerkat",
+      "name": "Meerkat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-megalenhydris",
+      "name": "Megalenhydris",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-megalictis",
+      "name": "Megalictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-megencephalon",
+      "name": "Megencephalon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-meles_(genus)",
+      "name": "Meles (genus)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-melidellavus",
+      "name": "Melidellavus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-melinae",
+      "name": "Melinae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mellalictis",
+      "name": "Mellalictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-meller's_mongoose",
+      "name": "Meller's mongoose",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mellivora",
+      "name": "Mellivora",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mellivorinae",
+      "name": "Mellivorinae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-melodon",
+      "name": "Melodon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-melogale",
+      "name": "Melogale",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mephitidae",
+      "name": "Mephitidae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mephitis_(genus)",
+      "name": "Mephitis (genus)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mesomephitis",
+      "name": "Mesomephitis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-metacone",
+      "name": "Metacone",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-metaconid",
+      "name": "Metaconid",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-milk_teeth",
+      "name": "Milk teeth",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mink",
+      "name": "Mink",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-miomustela",
+      "name": "Miomustela",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mionictis",
+      "name": "Mionictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-molar_(tooth)",
+      "name": "Molar (tooth)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-molar_tooth",
+      "name": "Molar tooth",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-molina's_hog-nosed_skunk",
+      "name": "Molina's hog-nosed skunk",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-monachinae",
+      "name": "Monachinae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mongoose",
+      "name": "Mongoose",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-monk_seal",
+      "name": "Monk seal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-monotypic",
+      "name": "Monotypic",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-monotypic_species",
+      "name": "Monotypic species",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-moralesictis",
+      "name": "Moralesictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mountain_weasel",
+      "name": "Mountain weasel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mungos",
+      "name": "Mungos",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mustela",
+      "name": "Mustela",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mustela_aistoodonnivalis",
+      "name": "Mustela aistoodonnivalis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mustelavinae",
+      "name": "Mustelavinae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mustelavus",
+      "name": "Mustelavus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mustelid",
+      "name": "Mustelid",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mustelidae",
+      "name": "Mustelidae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mustelids",
+      "name": "Mustelids",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mustelinae",
+      "name": "Mustelinae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-musteloidea",
+      "name": "Musteloidea",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mydaus",
+      "name": "Mydaus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-namibictis",
+      "name": "Namibictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-narrow-striped_mongoose",
+      "name": "Narrow-striped mongoose",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nasua",
+      "name": "Nasua",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nasuella",
+      "name": "Nasuella",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nasuella_meridensis",
+      "name": "Nasuella meridensis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nasuella_olivacea",
+      "name": "Nasuella olivacea",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-national_center_for_biotechnology_information",
+      "name": "National Center for Biotechnology Information",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-negodiaetictis",
+      "name": "Negodiaetictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-neofelis",
+      "name": "Neofelis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-neogale",
+      "name": "Neogale",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-neomonachus",
+      "name": "Neomonachus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-neophoca",
+      "name": "Neophoca",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-neotropical_otter",
+      "name": "Neotropical otter",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nesolutra",
+      "name": "Nesolutra",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-new_zealand_sea_lion",
+      "name": "New Zealand sea lion",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nilgiri_marten",
+      "name": "Nilgiri marten",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nocturnal",
+      "name": "Nocturnal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nominate_subspecies",
+      "name": "Nominate subspecies",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-north_american_river_otter",
+      "name": "North American river otter",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-north_west_province",
+      "name": "North West Province",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-northern_elephant_seal",
+      "name": "Northern elephant seal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-northern_fur_seal",
+      "name": "Northern fur seal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-northern_hog_badger",
+      "name": "Northern hog badger",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-northern_olingo",
+      "name": "Northern olingo",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nyctereutes",
+      "name": "Nyctereutes",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-oaxacagale",
+      "name": "Oaxacagale",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-observation.org",
+      "name": "Observation.org",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ocelot",
+      "name": "Ocelot",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ochre",
+      "name": "Ochre",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-odobenidae",
+      "name": "Odobenidae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-oldfield_thomas",
+      "name": "Oldfield Thomas",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-oligobuninae",
+      "name": "Oligobuninae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-oligobunis",
+      "name": "Oligobunis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-olinguito",
+      "name": "Olinguito",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-oncilla",
+      "name": "Oncilla",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-open_tree_of_life",
+      "name": "Open Tree of Life",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-oriensictis",
+      "name": "Oriensictis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-otariinae",
+      "name": "Otariinae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-otter",
+      "name": "Otter",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-otter_civet",
+      "name": "Otter civet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-owston's_palm_civet",
+      "name": "Owston's palm civet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pmc_(identifier)",
+      "name": "PMC (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pmid_(identifier)",
+      "name": "PMID (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pacific_marten",
+      "name": "Pacific marten",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-palaeomeles",
+      "name": "Palaeomeles",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-palaeomephitis",
+      "name": "Palaeomephitis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-palawan_stink_badger",
+      "name": "Palawan stink badger",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pale_fox",
+      "name": "Pale fox",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-paleobiology_database",
+      "name": "Paleobiology Database",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pallas's_cat",
+      "name": "Pallas's cat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-palm_civet",
+      "name": "Palm civet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-paludolutra",
+      "name": "Paludolutra",
+      "relevance": 0,
+      "tags": []
+    }
+  ]
+}

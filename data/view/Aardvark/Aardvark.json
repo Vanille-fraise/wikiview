@@ -1,0 +1,1545 @@
+{
+  "id": "680",
+  "name": "Aardvark",
+  "description": "Aardvarks (  ARD-vark; Orycteropus afer) are medium-sized, burrowing, nocturnal mammals native to Africa. Aardvarks are the only living species of the family Orycteropodidae and the order Tubulidentata. They have a long proboscis, similar to a pig's snout, which is used to sniff out food. \nThey are afrotheres, a clade that also includes elephants, manatees, and hyraxes. \nThey are found over much of the southern two-thirds of the African continent, avoiding areas that are mainly rocky. Nocturnal feeders, aardvarks subsist on ants and termites by using their sharp claws and powerful legs to dig the insects out of their hills. Aardvarks also dig to create burrows in which to live and rear their young.\n\n",
+  "descImg": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Orycteropus_afer_175359469.jpg",
+  "audio": null,
+  "links": [
+    {
+      "id": "l-1911_encyclopædia_britannica",
+      "name": "1911 Encyclopædia Britannica",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aardvark_(disambiguation)",
+      "name": "Aardvark (disambiguation)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aardvark_cucumber",
+      "name": "Aardvark cucumber",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-africa",
+      "name": "Africa",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-african_folklore",
+      "name": "African folklore",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-african_wild_dog",
+      "name": "African wild dog",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-afrikaans",
+      "name": "Afrikaans",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-afroinsectiphilia",
+      "name": "Afroinsectiphilia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-afrosoricida",
+      "name": "Afrosoricida",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-afrothere",
+      "name": "Afrothere",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-afrotheria",
+      "name": "Afrotheria",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-algeria",
+      "name": "Algeria",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-american_society_of_mammalogists",
+      "name": "American Society of Mammalogists",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ameridelphia",
+      "name": "Ameridelphia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-amniote",
+      "name": "Amniote",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-amphiorycteropus",
+      "name": "Amphiorycteropus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-animal",
+      "name": "Animal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-animal_diversity_web",
+      "name": "Animal Diversity Web",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-animal_sexual_behaviour",
+      "name": "Animal sexual behaviour",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anoplolepis_custodiens",
+      "name": "Anoplolepis custodiens",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ant",
+      "name": "Ant",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ant-eating_chat",
+      "name": "Ant-eating chat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anteater",
+      "name": "Anteater",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ants",
+      "name": "Ants",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-army_ant",
+      "name": "Army ant",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-arthur_(tv_series)",
+      "name": "Arthur (TV series)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-arthur_read",
+      "name": "Arthur Read",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-artiodactyl",
+      "name": "Artiodactyl",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-atlantogenata",
+      "name": "Atlantogenata",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-australidelphia",
+      "name": "Australidelphia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-australosphenida",
+      "name": "Australosphenida",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ayanda",
+      "name": "Ayanda",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-b.c._(comic_strip)",
+      "name": "B.C. (comic strip)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-barcode_of_life_data_system",
+      "name": "Barcode of Life Data System",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bat",
+      "name": "Bat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bibcode_(identifier)",
+      "name": "Bibcode (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-binomial_nomenclature",
+      "name": "Binomial nomenclature",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-boreoeutheria",
+      "name": "Boreoeutheria",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bryan_patterson",
+      "name": "Bryan Patterson",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-burrow",
+      "name": "Burrow",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bushland",
+      "name": "Bushland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bushveld",
+      "name": "Bushveld",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cambrian",
+      "name": "Cambrian",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-canine_tooth",
+      "name": "Canine tooth",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cape_of_good_hope",
+      "name": "Cape of Good Hope",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-captivity_(animal)",
+      "name": "Captivity (animal)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-carboniferous",
+      "name": "Carboniferous",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-carl_jakob_sundevall",
+      "name": "Carl Jakob Sundevall",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-carnivora",
+      "name": "Carnivora",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-catalogue_of_life",
+      "name": "Catalogue of Life",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cecum",
+      "name": "Cecum",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cementum",
+      "name": "Cementum",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cerebus_the_aardvark",
+      "name": "Cerebus the Aardvark",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-children's_bbc",
+      "name": "Children's BBC",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chordate",
+      "name": "Chordate",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chromosome",
+      "name": "Chromosome",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cingulata",
+      "name": "Cingulata",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-clade",
+      "name": "Clade",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-claw",
+      "name": "Claw",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-collier's_encyclopedia",
+      "name": "Collier's Encyclopedia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-colugo",
+      "name": "Colugo",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-condylarthra",
+      "name": "Condylarthra",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-conservation_status",
+      "name": "Conservation status",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-convergent_evolution",
+      "name": "Convergent evolution",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cretaceous",
+      "name": "Cretaceous",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dagomba_people",
+      "name": "Dagomba people",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dasyuromorphia",
+      "name": "Dasyuromorphia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dentine",
+      "name": "Dentine",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dentition",
+      "name": "Dentition",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-devonian",
+      "name": "Devonian",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-digitigrade",
+      "name": "Digitigrade",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-diprotodontia",
+      "name": "Diprotodontia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-doi_(identifier)",
+      "name": "Doi (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-don_e._wilson",
+      "name": "Don E. Wilson",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-driver_ant",
+      "name": "Driver ant",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-drought",
+      "name": "Drought",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eppo_code",
+      "name": "EPPO Code",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-egyptian_mythology",
+      "name": "Egyptian mythology",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-einar_lönnberg",
+      "name": "Einar Lönnberg",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-elephant",
+      "name": "Elephant",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-elephant_shrew",
+      "name": "Elephant shrew",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-elephants",
+      "name": "Elephants",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-encyclopedia_of_life",
+      "name": "Encyclopedia of Life",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-encyclopædia_britannica",
+      "name": "Encyclopædia Britannica",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-encyclopædia_britannica_eleventh_edition",
+      "name": "Encyclopædia Britannica Eleventh Edition",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eocene",
+      "name": "Eocene",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-epithelium",
+      "name": "Epithelium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ethiopia",
+      "name": "Ethiopia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-euarchontoglires",
+      "name": "Euarchontoglires",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eukaryote",
+      "name": "Eukaryote",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eulipotyphla",
+      "name": "Eulipotyphla",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-europe",
+      "name": "Europe",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eutheria",
+      "name": "Eutheria",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eutherian",
+      "name": "Eutherian",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-f-14_tomcat",
+      "name": "F-14 Tomcat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fossorial",
+      "name": "Fossorial",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gene",
+      "name": "Gene",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-general_dynamics_f-111_aardvark",
+      "name": "General Dynamics F-111 Aardvark",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gestation",
+      "name": "Gestation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ghana",
+      "name": "Ghana",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gizzard",
+      "name": "Gizzard",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-global_biodiversity_information_facility",
+      "name": "Global Biodiversity Information Facility",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-golden_mole",
+      "name": "Golden mole",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-grassland",
+      "name": "Grassland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-grumman_f-14_tomcat",
+      "name": "Grumman F-14 Tomcat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-habitat",
+      "name": "Habitat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hausa_people",
+      "name": "Hausa people",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hdl_(identifier)",
+      "name": "Hdl (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hugh_chisholm",
+      "name": "Hugh Chisholm",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hyena",
+      "name": "Hyena",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hyrax",
+      "name": "Hyrax",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hyraxes",
+      "name": "Hyraxes",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-inaturalist",
+      "name": "INaturalist",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-isbn_(identifier)",
+      "name": "ISBN (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-issn_(identifier)",
+      "name": "ISSN (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iucn_red_list",
+      "name": "IUCN Red List",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-insect",
+      "name": "Insect",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-integrated_taxonomic_information_system",
+      "name": "Integrated Taxonomic Information System",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-interim_register_of_marine_and_nonmarine_genera",
+      "name": "Interim Register of Marine and Nonmarine Genera",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ivory_coast",
+      "name": "Ivory Coast",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-jaw",
+      "name": "Jaw",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-jurassic",
+      "name": "Jurassic",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-kalahari_desert",
+      "name": "Kalahari Desert",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-kenya",
+      "name": "Kenya",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-kingdom_of_dagbon",
+      "name": "Kingdom of Dagbon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lagomorpha",
+      "name": "Lagomorpha",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-largest_organisms",
+      "name": "Largest organisms",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-laurasiatheria",
+      "name": "Laurasiatheria",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-least_concern",
+      "name": "Least Concern",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-least_concern",
+      "name": "Least concern",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-leopard",
+      "name": "Leopard",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lion",
+      "name": "Lion",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-living_fossil",
+      "name": "Living fossil",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-logo_people",
+      "name": "Logo people",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-london_zoo",
+      "name": "London Zoo",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-madagascar",
+      "name": "Madagascar",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mammal",
+      "name": "Mammal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mammal_species_of_the_world",
+      "name": "Mammal Species of the World",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-manatees",
+      "name": "Manatees",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mangbetu_people",
+      "name": "Mangbetu people",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-marsupial",
+      "name": "Marsupial",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mating_season",
+      "name": "Mating season",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mcdonnell_douglas_f-4_phantom_ii",
+      "name": "McDonnell Douglas F-4 Phantom II",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-metatheria",
+      "name": "Metatheria",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-microbiotheria",
+      "name": "Microbiotheria",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-microtermes",
+      "name": "Microtermes",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mimetic_muscles",
+      "name": "Mimetic muscles",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-miocene",
+      "name": "Miocene",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-monotreme",
+      "name": "Monotreme",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-monotypic_taxon",
+      "name": "Monotypic taxon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-myorycteropus_africanus",
+      "name": "Myorycteropus africanus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-myrmecophagy",
+      "name": "Myrmecophagy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nail_(anatomy)",
+      "name": "Nail (anatomy)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nama_karoo",
+      "name": "Nama Karoo",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-namibia",
+      "name": "Namibia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nasal_concha",
+      "name": "Nasal concha",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-national_center_for_biotechnology_information",
+      "name": "National Center for Biotechnology Information",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-near_east",
+      "name": "Near East",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-neogene",
+      "name": "Neogene",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nocturnal",
+      "name": "Nocturnal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-notoryctidae",
+      "name": "Notoryctidae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nycteris_thebaica",
+      "name": "Nycteris thebaica",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-oclc_(identifier)",
+      "name": "OCLC (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-observation.org",
+      "name": "Observation.org",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-odd-toed_ungulate",
+      "name": "Odd-toed ungulate",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-odontotermes",
+      "name": "Odontotermes",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-olfaction",
+      "name": "Olfaction",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-olfactory_bulb",
+      "name": "Olfactory bulb",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-open_tree_of_life",
+      "name": "Open Tree of Life",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-opossum",
+      "name": "Opossum",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-order_(biology)",
+      "name": "Order (biology)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ordovician",
+      "name": "Ordovician",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-orycteropodidae",
+      "name": "Orycteropodidae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-orycteropus",
+      "name": "Orycteropus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-orycteropus_afer_afer",
+      "name": "Orycteropus afer afer",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-otis_the_aardvark",
+      "name": "Otis the Aardvark",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-oxford_english_dictionary",
+      "name": "Oxford English Dictionary",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-oxford_university_press",
+      "name": "Oxford University Press",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pmc_(identifier)",
+      "name": "PMC (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pmid_(identifier)",
+      "name": "PMID (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-paleobiology_database",
+      "name": "Paleobiology Database",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-paleocene",
+      "name": "Paleocene",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-paleogene",
+      "name": "Paleogene",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pangolin",
+      "name": "Pangolin",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-paucituberculata",
+      "name": "Paucituberculata",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-paul_matschie",
+      "name": "Paul Matschie",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-peramelemorphia",
+      "name": "Peramelemorphia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-permian",
+      "name": "Permian",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-peter_simon_pallas",
+      "name": "Peter Simon Pallas",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pig",
+      "name": "Pig",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pilosa",
+      "name": "Pilosa",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-placentalia",
+      "name": "Placentalia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-plantigrade",
+      "name": "Plantigrade",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-plesiorycteropus",
+      "name": "Plesiorycteropus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pliocene",
+      "name": "Pliocene",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-popular_science_monthly",
+      "name": "Popular Science Monthly",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-precambrian",
+      "name": "Precambrian",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-predator",
+      "name": "Predator",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-primate",
+      "name": "Primate",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-proboscidea",
+      "name": "Proboscidea",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-proboscis",
+      "name": "Proboscis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pseudacanthotermes",
+      "name": "Pseudacanthotermes",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ptolemaiida",
+      "name": "Ptolemaiida",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pulp_(tooth)",
+      "name": "Pulp (tooth)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pyloric",
+      "name": "Pyloric",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pythonidae",
+      "name": "Pythonidae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-rené_primevère_lesson",
+      "name": "René Primevère Lesson",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-richard_lydekker",
+      "name": "Richard Lydekker",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-rod_cell",
+      "name": "Rod cell",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-rodent",
+      "name": "Rodent",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-royal_burgers'_zoo",
+      "name": "Royal Burgers' Zoo",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-s2cid_(identifier)",
+      "name": "S2CID (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-salivary_gland",
+      "name": "Salivary gland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-savanna",
+      "name": "Savanna",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-set_(mythology)",
+      "name": "Set (mythology)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-set_animal",
+      "name": "Set animal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-sexual_dimorphism",
+      "name": "Sexual dimorphism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-silurian",
+      "name": "Silurian",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-sirenia",
+      "name": "Sirenia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-sirenian",
+      "name": "Sirenian",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-soil",
+      "name": "Soil",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-south_africa",
+      "name": "South Africa",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-south_america",
+      "name": "South America",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-species",
+      "name": "Species",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-sub-saharan_africa",
+      "name": "Sub-Saharan Africa",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-taxon",
+      "name": "Taxon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-taxonomy_(biology)",
+      "name": "Taxonomy (biology)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-teat",
+      "name": "Teat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-tenrec",
+      "name": "Tenrec",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-tenrecidae",
+      "name": "Tenrecidae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-termite",
+      "name": "Termite",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-termites",
+      "name": "Termites",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-the_ant_and_the_aardvark",
+      "name": "The Ant and the Aardvark",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-the_raccoons",
+      "name": "The Raccoons",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-theodor_haltenorth",
+      "name": "Theodor Haltenorth",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-theria",
+      "name": "Theria",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-tooth",
+      "name": "Tooth",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-tooth_enamel",
+      "name": "Tooth enamel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-treeshrew",
+      "name": "Treeshrew",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-triassic",
+      "name": "Triassic",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-trinervitermes_trinervoides",
+      "name": "Trinervitermes trinervoides",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-tubulidentata",
+      "name": "Tubulidentata",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-turbinate",
+      "name": "Turbinate",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-vf-114",
+      "name": "VF-114",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-vertebrate",
+      "name": "Vertebrate",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-wgbh-tv",
+      "name": "WGBH-TV",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-walter_rothschild,_2nd_baron_rothschild",
+      "name": "Walter Rothschild, 2nd Baron Rothschild",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-warthog",
+      "name": "Warthog",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-wikidata",
+      "name": "Wikidata",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-wikispecies",
+      "name": "Wikispecies",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-woodland",
+      "name": "Woodland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-xenarthra",
+      "name": "Xenarthra",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-xeno-canto",
+      "name": "Xeno-canto",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-yinotheria",
+      "name": "Yinotheria",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-zoobank",
+      "name": "ZooBank",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-zygomatic_arch",
+      "name": "Zygomatic arch",
+      "relevance": 0,
+      "tags": []
+    }
+  ]
+}

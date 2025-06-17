@@ -1,0 +1,2601 @@
+{
+  "id": "209565",
+  "name": "19th-century philosophy",
+  "description": "In the 19th century, the philosophers of the 18th-century Enlightenment began to have a dramatic effect on subsequent developments in philosophy. In particular, the works of Immanuel Kant gave rise to a new generation of German philosophers and began to see wider recognition internationally. Also, in a reaction to the Enlightenment, a movement called Romanticism began to develop towards the end of the 18th century. Key ideas that sparked changes in philosophy were the fast progress of science, including evolution, most notably postulated by Charles Darwin, Alfred Russel Wallace and Jean-Baptiste Lamarck, and theories regarding what is today called emergent order, such as the free market of Adam Smith within nation states, or the Marxist approach concerning class warfare between the ruling class and the working class developed by Karl Marx and Friedrich Engels. Pressures for egalitarianism, and more rapid change culminated in a period of revolution and turbulence that would see philosophy change as well.",
+  "descImg": "",
+  "audio": null,
+  "links": [
+    {
+      "id": "l-1800s_(decade)",
+      "name": "1800s (decade)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1810s",
+      "name": "1810s",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1820s",
+      "name": "1820s",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1830s",
+      "name": "1830s",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1840s",
+      "name": "1840s",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1850s",
+      "name": "1850s",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1860s",
+      "name": "1860s",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1870s",
+      "name": "1870s",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1880s",
+      "name": "1880s",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1890s",
+      "name": "1890s",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-19th_century",
+      "name": "19th century",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-19th_century_in_fashion",
+      "name": "19th century in fashion",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-19th_century_in_literature",
+      "name": "19th century in literature",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-19th_century_in_science",
+      "name": "19th century in science",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-20th-century_philosophy",
+      "name": "20th-century philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-abhidharma",
+      "name": "Abhidharma",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-absolute_idealism",
+      "name": "Absolute idealism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-academic_skepticism",
+      "name": "Academic Skepticism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-achintya_bheda_abheda",
+      "name": "Achintya Bheda Abheda",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-action_theory_(philosophy)",
+      "name": "Action theory (philosophy)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-adam_smith",
+      "name": "Adam Smith",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-advaita_vedanta",
+      "name": "Advaita Vedanta",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aesthetic_emotions",
+      "name": "Aesthetic emotions",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aesthetics",
+      "name": "Aesthetics",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-african_philosophy",
+      "name": "African philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-africana_philosophy",
+      "name": "Africana philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-age_of_enlightenment",
+      "name": "Age of Enlightenment",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-agriculturalism",
+      "name": "Agriculturalism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ajñana",
+      "name": "Ajñana",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alfred_russel_wallace",
+      "name": "Alfred Russel Wallace",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-american_philosophy",
+      "name": "American philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-analytic_philosophy",
+      "name": "Analytic philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-analytical_marxism",
+      "name": "Analytical Marxism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-analytical_feminism",
+      "name": "Analytical feminism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anarchism",
+      "name": "Anarchism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ancient_egyptian_philosophy",
+      "name": "Ancient Egyptian philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ancient_greek_philosophy",
+      "name": "Ancient Greek philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ancient_roman_philosophy",
+      "name": "Ancient Roman philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ancient_philosophy",
+      "name": "Ancient philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anekantavada",
+      "name": "Anekantavada",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anti-realism",
+      "name": "Anti-realism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-antihumanism",
+      "name": "Antihumanism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-antonio_rosmini",
+      "name": "Antonio Rosmini",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-applied_ethics",
+      "name": "Applied ethics",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-applied_philosophy",
+      "name": "Applied philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aristotelianism",
+      "name": "Aristotelianism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aristotle",
+      "name": "Aristotle",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-arthur_schopenhauer",
+      "name": "Arthur Schopenhauer",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-atheism",
+      "name": "Atheism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-atomism",
+      "name": "Atomism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-auguste_comte",
+      "name": "Auguste Comte",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-augustinianism",
+      "name": "Augustinianism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-australian_philosophy",
+      "name": "Australian philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-averroism",
+      "name": "Averroism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-avicennism",
+      "name": "Avicennism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aztec_philosophy",
+      "name": "Aztec philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-behaviorism",
+      "name": "Behaviorism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bernard_bosanquet_(philosopher)",
+      "name": "Bernard Bosanquet (philosopher)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bhedabheda",
+      "name": "Bhedabheda",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-british_idealism",
+      "name": "British Idealism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-british_idealism",
+      "name": "British idealism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-british_philosophy",
+      "name": "British philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-buddhist_philosophy",
+      "name": "Buddhist philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cartesianism",
+      "name": "Cartesianism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-catholic_encyclopedia",
+      "name": "Catholic Encyclopedia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cengage_learning",
+      "name": "Cengage Learning",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chan_buddhism",
+      "name": "Chan Buddhism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-charles_darwin",
+      "name": "Charles Darwin",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-charles_sanders_peirce",
+      "name": "Charles Sanders Peirce",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-charvaka",
+      "name": "Charvaka",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chinese_philosophy",
+      "name": "Chinese philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_philosophy",
+      "name": "Christian philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christianity_in_the_19th_century",
+      "name": "Christianity in the 19th century",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-church_fathers",
+      "name": "Church Fathers",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-class_struggle",
+      "name": "Class struggle",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-class_warfare",
+      "name": "Class warfare",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-classical_realism",
+      "name": "Classical Realism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-classical_liberalism",
+      "name": "Classical liberalism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-coherentism",
+      "name": "Coherentism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-collectivism_and_individualism",
+      "name": "Collectivism and individualism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-communist",
+      "name": "Communist",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-communitarianism",
+      "name": "Communitarianism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-compatibilism",
+      "name": "Compatibilism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-conceptualism",
+      "name": "Conceptualism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-confucianism",
+      "name": "Confucianism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-consequentialism",
+      "name": "Consequentialism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-conservatism",
+      "name": "Conservatism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-contemporary_philosophy",
+      "name": "Contemporary philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-continental_philosophy",
+      "name": "Continental philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-critical_rationalism",
+      "name": "Critical rationalism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-critical_theory",
+      "name": "Critical theory",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cynicism_(philosophy)",
+      "name": "Cynicism (philosophy)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cyrenaics",
+      "name": "Cyrenaics",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-czech_philosophy",
+      "name": "Czech philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-danish_philosophy",
+      "name": "Danish philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-darwinism",
+      "name": "Darwinism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-david_strauss",
+      "name": "David Strauss",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-deconstruction",
+      "name": "Deconstruction",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-deontology",
+      "name": "Deontology",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-determinism",
+      "name": "Determinism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dialectic",
+      "name": "Dialectic",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dialectical_materialism",
+      "name": "Dialectical materialism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-doi_(identifier)",
+      "name": "Doi (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-doubleday_(publisher)",
+      "name": "Doubleday (publisher)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dutch_philosophy",
+      "name": "Dutch philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dvaita_vedanta",
+      "name": "Dvaita Vedanta",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-early_modern_philosophy",
+      "name": "Early modern philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eastern_philosophy",
+      "name": "Eastern philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-edo_neo-confucianism",
+      "name": "Edo neo-Confucianism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-egalitarianism",
+      "name": "Egalitarianism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eleatics",
+      "name": "Eleatics",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eliminative_materialism",
+      "name": "Eliminative materialism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-emergence",
+      "name": "Emergence",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-emergentism",
+      "name": "Emergentism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-empiricism",
+      "name": "Empiricism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-encyclopedia.com",
+      "name": "Encyclopedia.com",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-epicureanism",
+      "name": "Epicureanism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-epiphenomenalism",
+      "name": "Epiphenomenalism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-epistemological_particularism",
+      "name": "Epistemological particularism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-epistemology",
+      "name": "Epistemology",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eretrian_school",
+      "name": "Eretrian school",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ethics",
+      "name": "Ethics",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ethiopian_philosophy",
+      "name": "Ethiopian philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-event_(philosophy)",
+      "name": "Event (philosophy)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-evolution",
+      "name": "Evolution",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-evolutionary",
+      "name": "Evolutionary",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-existentialism",
+      "name": "Existentialism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-experimental_philosophy",
+      "name": "Experimental philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-f._h._bradley",
+      "name": "F. H. Bradley",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-falsifiability",
+      "name": "Falsifiability",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-feminist_philosophy",
+      "name": "Feminist philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-feudal_society",
+      "name": "Feudal society",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fideism",
+      "name": "Fideism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-formalism_(art)",
+      "name": "Formalism (art)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-foundationalism",
+      "name": "Foundationalism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-francis_galton",
+      "name": "Francis Galton",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-frankfurt_school",
+      "name": "Frankfurt School",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-free_market",
+      "name": "Free market",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-free_will",
+      "name": "Free will",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-french_philosophy",
+      "name": "French philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-friedrich_engels",
+      "name": "Friedrich Engels",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-friedrich_nietzsche",
+      "name": "Friedrich Nietzsche",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-friedrich_wilhelm_joseph_schelling",
+      "name": "Friedrich Wilhelm Joseph Schelling",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-functionalism_(philosophy_of_mind)",
+      "name": "Functionalism (philosophy of mind)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-georg_wilhelm_friedrich_hegel",
+      "name": "Georg Wilhelm Friedrich Hegel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-german_idealism",
+      "name": "German idealism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-german_philosophy",
+      "name": "German philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-glossary_of_philosophy",
+      "name": "Glossary of philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hard_determinism",
+      "name": "Hard determinism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hard_incompatibilism",
+      "name": "Hard incompatibilism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hegelianism",
+      "name": "Hegelianism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hellenistic_philosophy",
+      "name": "Hellenistic philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-henry_david_thoreau",
+      "name": "Henry David Thoreau",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-herbert_spencer",
+      "name": "Herbert Spencer",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hermeneutics",
+      "name": "Hermeneutics",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hindu_philosophy",
+      "name": "Hindu philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-historicism",
+      "name": "Historicism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-history_of_mathematics",
+      "name": "History of mathematics",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-history_of_philosophy",
+      "name": "History of philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-history_of_philosophy_in_finland",
+      "name": "History of philosophy in Finland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-history_of_philosophy_in_poland",
+      "name": "History of philosophy in Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-holism",
+      "name": "Holism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-huayan",
+      "name": "Huayan",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-human_condition",
+      "name": "Human condition",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-human_society",
+      "name": "Human society",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-humanism",
+      "name": "Humanism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hunter-gatherer",
+      "name": "Hunter-gatherer",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-isbn_(identifier)",
+      "name": "ISBN (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-issn_(identifier)",
+      "name": "ISSN (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-idealism",
+      "name": "Idealism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-illuminationism",
+      "name": "Illuminationism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-immanuel_kant",
+      "name": "Immanuel Kant",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-incompatibilism",
+      "name": "Incompatibilism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-index_of_philosophy",
+      "name": "Index of philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-index_of_sociopolitical_thinkers",
+      "name": "Index of sociopolitical thinkers",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-indian_philosophy",
+      "name": "Indian philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-indigenous_american_philosophy",
+      "name": "Indigenous American philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-individualism",
+      "name": "Individualism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-indonesian_philosophy",
+      "name": "Indonesian philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-industrial_revolution",
+      "name": "Industrial Revolution",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-institutional_theory_of_art",
+      "name": "Institutional theory of art",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-internalism_and_externalism",
+      "name": "Internalism and externalism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-internet_encyclopedia_of_philosophy",
+      "name": "Internet Encyclopedia of Philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ionian_school_(philosophy)",
+      "name": "Ionian School (philosophy)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iranian_philosophy",
+      "name": "Iranian philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-islamic_philosophy",
+      "name": "Islamic philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-italian_philosophy",
+      "name": "Italian philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-jain_philosophy",
+      "name": "Jain philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-james_hutchison_stirling",
+      "name": "James Hutchison Stirling",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-japanese_philosophy",
+      "name": "Japanese philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-jean-baptiste_lamarck",
+      "name": "Jean-Baptiste Lamarck",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-jean-jacques_rousseau",
+      "name": "Jean-Jacques Rousseau",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-jeremy_bentham",
+      "name": "Jeremy Bentham",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-jewish_philosophy",
+      "name": "Jewish philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-johann_gottlieb_fichte",
+      "name": "Johann Gottlieb Fichte",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-john_rawls",
+      "name": "John Rawls",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-john_stuart_mill",
+      "name": "John Stuart Mill",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-judeo-islamic_philosophies_(800–1400)",
+      "name": "Judeo-Islamic philosophies (800–1400)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-jurisprudence",
+      "name": "Jurisprudence",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-kalam",
+      "name": "Kalam",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-kantianism",
+      "name": "Kantianism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-karl_marx",
+      "name": "Karl Marx",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-kokugaku",
+      "name": "Kokugaku",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-korean_confucianism",
+      "name": "Korean Confucianism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-korean_philosophy",
+      "name": "Korean philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-krausism",
+      "name": "Krausism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-kyoto_school",
+      "name": "Kyoto School",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lgbt_rights_in_the_19th_century",
+      "name": "LGBT rights in the 19th century",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-late_modern_philosophy",
+      "name": "Late modern philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-legal_positivism",
+      "name": "Legal positivism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-legalism_(chinese_philosophy)",
+      "name": "Legalism (Chinese philosophy)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-libertarianism_(metaphysics)",
+      "name": "Libertarianism (metaphysics)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-list_of_19th-century_earthquakes",
+      "name": "List of 19th-century earthquakes",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-list_of_19th-century_lunar_eclipses",
+      "name": "List of 19th-century lunar eclipses",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-list_of_slovene_philosophers",
+      "name": "List of Slovene philosophers",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-list_of_turkish_philosophers",
+      "name": "List of Turkish philosophers",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-list_of_centuries_in_philosophy",
+      "name": "List of centuries in philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-list_of_epistemologists",
+      "name": "List of epistemologists",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-list_of_ethicists",
+      "name": "List of ethicists",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-list_of_large_volcanic_eruptions_of_the_19th_century",
+      "name": "List of large volcanic eruptions of the 19th century",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-list_of_logicians",
+      "name": "List of logicians",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-list_of_metaphysicians",
+      "name": "List of metaphysicians",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-list_of_philosophers_born_in_the_nineteenth_century",
+      "name": "List of philosophers born in the nineteenth century",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-list_of_philosophers_of_art",
+      "name": "List of philosophers of art",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-list_of_philosophers_of_mind",
+      "name": "List of philosophers of mind",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-list_of_philosophies",
+      "name": "List of philosophies",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-list_of_riots",
+      "name": "List of riots",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-list_of_solar_eclipses_in_the_19th_century",
+      "name": "List of solar eclipses in the 19th century",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-list_of_state_leaders_in_the_19th_century",
+      "name": "List of state leaders in the 19th century",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lists_of_philosophers",
+      "name": "Lists of philosophers",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-logic",
+      "name": "Logic",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-logical_positivism",
+      "name": "Logical positivism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ludwig_feuerbach",
+      "name": "Ludwig Feuerbach",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ludwig_wittgenstein",
+      "name": "Ludwig Wittgenstein",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-madhyamaka",
+      "name": "Madhyamaka",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-marx's_theory_of_history",
+      "name": "Marx's theory of history",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-marxism",
+      "name": "Marxism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-marxist",
+      "name": "Marxist",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-marxist_philosophy",
+      "name": "Marxist philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-master-slave_morality",
+      "name": "Master-slave morality",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-materialism",
+      "name": "Materialism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-materialism_controversy",
+      "name": "Materialism Controversy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mazdakism",
+      "name": "Mazdakism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-medieval_philosophy",
+      "name": "Medieval philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-megarian_school",
+      "name": "Megarian school",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-meta-ethics",
+      "name": "Meta-ethics",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-metaphilosophy",
+      "name": "Metaphilosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-metaphysical_naturalism",
+      "name": "Metaphysical naturalism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-metaphysics",
+      "name": "Metaphysics",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-middle_eastern_philosophy",
+      "name": "Middle Eastern philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-middle_platonism",
+      "name": "Middle Platonism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mind–body_dualism",
+      "name": "Mind–body dualism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mithraism",
+      "name": "Mithraism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-modern_philosophy",
+      "name": "Modern philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-modernism",
+      "name": "Modernism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mohism",
+      "name": "Mohism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-monism",
+      "name": "Monism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-moral_absolutism",
+      "name": "Moral absolutism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-moral_nihilism",
+      "name": "Moral nihilism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-moral_particularism",
+      "name": "Moral particularism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-moral_realism",
+      "name": "Moral realism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-moral_skepticism",
+      "name": "Moral skepticism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-moral_universalism",
+      "name": "Moral universalism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mīmāṃsā",
+      "name": "Mīmāṃsā",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-natural_law",
+      "name": "Natural law",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-natural_selection",
+      "name": "Natural selection",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-naturalism_(philosophy)",
+      "name": "Naturalism (philosophy)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-naturalized_epistemology",
+      "name": "Naturalized epistemology",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-navya-nyāya",
+      "name": "Navya-Nyāya",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-neo-confucianism",
+      "name": "Neo-Confucianism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-neo-kantianism",
+      "name": "Neo-Kantianism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-neo-marxism",
+      "name": "Neo-Marxism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-neo-scholasticism",
+      "name": "Neo-scholasticism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-neolithic_revolution",
+      "name": "Neolithic Revolution",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-neoplatonism",
+      "name": "Neoplatonism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-neopositivism",
+      "name": "Neopositivism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-neopythagoreanism",
+      "name": "Neopythagoreanism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-new_confucianism",
+      "name": "New Confucianism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-new_historicism",
+      "name": "New historicism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-newtonianism",
+      "name": "Newtonianism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nicolas_malebranche",
+      "name": "Nicolas Malebranche",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nihilism",
+      "name": "Nihilism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nimbarka_sampradaya",
+      "name": "Nimbarka Sampradaya",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nineteenth-century_theatre",
+      "name": "Nineteenth-century theatre",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nominalism",
+      "name": "Nominalism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nomological_determinism",
+      "name": "Nomological determinism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-norm_(philosophy)",
+      "name": "Norm (philosophy)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-normative_ethics",
+      "name": "Normative ethics",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nyaya",
+      "name": "Nyaya",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-objective_idealism",
+      "name": "Objective idealism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-objectivism",
+      "name": "Objectivism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-objectivity_(philosophy)",
+      "name": "Objectivity (philosophy)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-occamism",
+      "name": "Occamism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ontologism",
+      "name": "Ontologism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ontology",
+      "name": "Ontology",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ordinary_language_philosophy",
+      "name": "Ordinary language philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-outline_of_philosophy",
+      "name": "Outline of philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pakistani_philosophy",
+      "name": "Pakistani philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-peripatetic_school",
+      "name": "Peripatetic school",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-phenomenology_(philosophy)",
+      "name": "Phenomenology (philosophy)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-philosophical_pessimism",
+      "name": "Philosophical pessimism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-philosophical_realism",
+      "name": "Philosophical realism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-philosophical_skepticism",
+      "name": "Philosophical skepticism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-philosophy",
+      "name": "Philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-philosophy_in_canada",
+      "name": "Philosophy in Canada",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-philosophy_in_malta",
+      "name": "Philosophy in Malta",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-philosophy_in_taiwan",
+      "name": "Philosophy in Taiwan",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-philosophy_of_friedrich_nietzsche",
+      "name": "Philosophy of Friedrich Nietzsche",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-philosophy_of_søren_kierkegaard",
+      "name": "Philosophy of Søren Kierkegaard",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-philosophy_of_education",
+      "name": "Philosophy of education",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-philosophy_of_history",
+      "name": "Philosophy of history",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-philosophy_of_information",
+      "name": "Philosophy of information",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-philosophy_of_language",
+      "name": "Philosophy of language",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-philosophy_of_mathematics",
+      "name": "Philosophy of mathematics",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-philosophy_of_mind",
+      "name": "Philosophy of mind",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-philosophy_of_religion",
+      "name": "Philosophy of religion",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-philosophy_of_science",
+      "name": "Philosophy of science",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-physicalism",
+      "name": "Physicalism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pierre-simon_laplace",
+      "name": "Pierre-Simon Laplace",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-plato",
+      "name": "Plato",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-platonic_academy",
+      "name": "Platonic Academy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-political_philosophy",
+      "name": "Political philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-positivism",
+      "name": "Positivism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-post-hegelianism",
+      "name": "Post-Hegelianism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-post-structuralism",
+      "name": "Post-structuralism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-postanalytic_philosophy",
+      "name": "Postanalytic philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-postcritique",
+      "name": "Postcritique",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-posthumanism",
+      "name": "Posthumanism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-postmodern_philosophy",
+      "name": "Postmodern philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-practical_philosophy",
+      "name": "Practical philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pragmatism",
+      "name": "Pragmatism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pre-socratic_philosophy",
+      "name": "Pre-Socratic philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-primitive_communism",
+      "name": "Primitive communism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-process_philosophy",
+      "name": "Process philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-proletariat",
+      "name": "Proletariat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pudgalavada",
+      "name": "Pudgalavada",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pyrrhonism",
+      "name": "Pyrrhonism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pythagoreanism",
+      "name": "Pythagoreanism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-quietism_(philosophy)",
+      "name": "Quietism (philosophy)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ralph_waldo_emerson",
+      "name": "Ralph Waldo Emerson",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-rationalism",
+      "name": "Rationalism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-reality",
+      "name": "Reality",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-reductionism",
+      "name": "Reductionism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-reformed_epistemology",
+      "name": "Reformed epistemology",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-relativism",
+      "name": "Relativism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-religious_philosophy",
+      "name": "Religious philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-renaissance_humanism",
+      "name": "Renaissance humanism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-renaissance_philosophy",
+      "name": "Renaissance philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-romanian_philosophy",
+      "name": "Romanian philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-romanticism",
+      "name": "Romanticism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ruling_class",
+      "name": "Ruling class",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-russian_cosmism",
+      "name": "Russian cosmism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-russian_philosophy",
+      "name": "Russian philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-s2cid_(identifier)",
+      "name": "S2CID (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-samkhya",
+      "name": "Samkhya",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-samuel_taylor_coleridge",
+      "name": "Samuel Taylor Coleridge",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-sarvastivada",
+      "name": "Sarvastivada",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-sautrāntika",
+      "name": "Sautrāntika",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-scholasticism",
+      "name": "Scholasticism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-school_of_names",
+      "name": "School of Names",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-school_of_naturalists",
+      "name": "School of Naturalists",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-school_of_the_sextii",
+      "name": "School of the Sextii",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-scientific_realism",
+      "name": "Scientific realism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-scientific_skepticism",
+      "name": "Scientific skepticism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-scientism",
+      "name": "Scientism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-scotism",
+      "name": "Scotism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-scottish_philosophy",
+      "name": "Scottish philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-second_sophistic",
+      "name": "Second Sophistic",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-shuddhadvaita",
+      "name": "Shuddhadvaita",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-slavery",
+      "name": "Slavery",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-social_darwinism",
+      "name": "Social Darwinism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-social_constructionism",
+      "name": "Social constructionism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-social_contract",
+      "name": "Social contract",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-social_philosophy",
+      "name": "Social philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-socialism",
+      "name": "Socialism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-socialist",
+      "name": "Socialist",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-sociology",
+      "name": "Sociology",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-socrates",
+      "name": "Socrates",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-solipsism",
+      "name": "Solipsism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-sophist",
+      "name": "Sophist",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-spanish_philosophy",
+      "name": "Spanish philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-spinozism",
+      "name": "Spinozism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-stoicism",
+      "name": "Stoicism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-structuralism",
+      "name": "Structuralism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-subjective_idealism",
+      "name": "Subjective idealism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-subjectivism",
+      "name": "Subjectivism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-sufi_philosophy",
+      "name": "Sufi philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-svatantrika–prasaṅgika_distinction",
+      "name": "Svatantrika–Prasaṅgika distinction",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-systemics",
+      "name": "Systemics",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-syādvāda",
+      "name": "Syādvāda",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-søren_kierkegaard",
+      "name": "Søren Kierkegaard",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-søren_kierkegaard_and_friedrich_nietzsche",
+      "name": "Søren Kierkegaard and Friedrich Nietzsche",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-t._h._green",
+      "name": "T. H. Green",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-taoism",
+      "name": "Taoism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-taoist_philosophy",
+      "name": "Taoist philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-the_secret_of_hegel",
+      "name": "The Secret of Hegel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-theoretical_philosophy",
+      "name": "Theoretical philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-thomas_carlyle",
+      "name": "Thomas Carlyle",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-thomism",
+      "name": "Thomism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-tiantai",
+      "name": "Tiantai",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-tibetan_buddhism",
+      "name": "Tibetan Buddhism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-timeline_of_the_19th_century",
+      "name": "Timeline of the 19th century",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-transactionalism",
+      "name": "Transactionalism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-transcendence_(philosophy)",
+      "name": "Transcendence (philosophy)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-transcendental_idealism",
+      "name": "Transcendental idealism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-transcendentalism",
+      "name": "Transcendentalism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ubuntu_philosophy",
+      "name": "Ubuntu philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-united_kingdom_of_great_britain_and_ireland",
+      "name": "United Kingdom of Great Britain and Ireland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-utilitarianism",
+      "name": "Utilitarianism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-vaisheshika",
+      "name": "Vaisheshika",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-vedanta",
+      "name": "Vedanta",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-vienna_circle",
+      "name": "Vienna Circle",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-vietnamese_philosophy",
+      "name": "Vietnamese philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-vincenzo_gioberti",
+      "name": "Vincenzo Gioberti",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-virtue_ethics",
+      "name": "Virtue ethics",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-vishishtadvaita",
+      "name": "Vishishtadvaita",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-western_marxism",
+      "name": "Western Marxism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-western_philosophy",
+      "name": "Western philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-william_james",
+      "name": "William James",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-wissenschaftslehre_(fichte)",
+      "name": "Wissenschaftslehre (Fichte)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-women_in_philosophy",
+      "name": "Women in philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-working_class",
+      "name": "Working class",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-xuanxue",
+      "name": "Xuanxue",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-yangism",
+      "name": "Yangism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-yoga_sutras_of_patanjali",
+      "name": "Yoga Sutras of Patanjali",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-yogachara",
+      "name": "Yogachara",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-yugoslav_philosophy",
+      "name": "Yugoslav philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-zen",
+      "name": "Zen",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-zoroastrianism",
+      "name": "Zoroastrianism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-zurvanism",
+      "name": "Zurvanism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ājīvika",
+      "name": "Ājīvika",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-śūnyatā",
+      "name": "Śūnyatā",
+      "relevance": 0,
+      "tags": []
+    }
+  ]
+}

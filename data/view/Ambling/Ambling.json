@@ -1,0 +1,15 @@
+{
+  "id": "48454468",
+  "name": "Ambling",
+  "description": "",
+  "descImg": "",
+  "audio": null,
+  "links": [
+    {
+      "id": "l-ambling_gait",
+      "name": "Ambling gait",
+      "relevance": 0,
+      "tags": []
+    }
+  ]
+}

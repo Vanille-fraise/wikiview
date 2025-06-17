@@ -1,0 +1,105 @@
+{
+  "id": "42727860",
+  "name": "Undefined",
+  "description": "Undefined may refer to:\n\n",
+  "descImg": "",
+  "audio": null,
+  "links": [
+    {
+      "id": "l-declaration_(computer_programming)",
+      "name": "Declaration (computer programming)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-definable_(disambiguation)",
+      "name": "Definable (disambiguation)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-definition",
+      "name": "Definition",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-definition_(disambiguation)",
+      "name": "Definition (disambiguation)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dynamic_linker",
+      "name": "Dynamic linker",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-indeterminate_form",
+      "name": "Indeterminate form",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-initialization_(programming)",
+      "name": "Initialization (programming)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-invalid_(disambiguation)",
+      "name": "Invalid (disambiguation)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-null_(disambiguation)",
+      "name": "Null (disambiguation)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-soviet_union",
+      "name": "Soviet Union",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-undefined_(mathematics)",
+      "name": "Undefined (mathematics)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-undefined_behavior",
+      "name": "Undefined behavior",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-undefined_citizenship",
+      "name": "Undefined citizenship",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-undefined_value",
+      "name": "Undefined value",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-undefined_variable",
+      "name": "Undefined variable",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-void_(disambiguation)",
+      "name": "Void (disambiguation)",
+      "relevance": 0,
+      "tags": []
+    }
+  ]
+}

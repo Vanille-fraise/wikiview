@@ -1,0 +1,15 @@
+{
+  "id": "63430219",
+  "name": "Doi (identifier)",
+  "description": "",
+  "descImg": "",
+  "audio": null,
+  "links": [
+    {
+      "id": "l-digital_object_identifier",
+      "name": "Digital object identifier",
+      "relevance": 0,
+      "tags": []
+    }
+  ]
+}

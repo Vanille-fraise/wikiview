@@ -1,0 +1,1593 @@
+{
+  "id": "5158973",
+  "name": "1947 Polish parliamentary election",
+  "description": "Parliamentary elections were held in Poland on 19 January 1947, the first since World War II. According to the official results, the Democratic Bloc (Blok Demokratyczny), dominated by the communist Polish Workers Party (PPR) and also including the Polish Socialist Party (PPS), People's Party (SL), Democratic Party (SD) and non-partisan candidates officially received 80% of the vote and 394 of the 444 seats in the Legislative Sejm. The largest opposition party, the Polish People's Party, was officially credited with 28 seats. However, the elections were characterized by violence; anti-communist opposition candidates and activists were persecuted by the Volunteer Reserve Militia (ORMO). The elections were heavily manipulated, and the opposition claimed that it would have won in a landslide had the election been conducted in a fair manner.\nThe election gave the Soviets and the communist-dominated Polish satellite government enough legitimacy to claim that Poland was 'free and democratic', thus allowing Poland to sign the charter of the United Nations.",
+  "descImg": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Prezydent_Bierut_1947_%28cropped%29.png",
+  "audio": null,
+  "links": [
+    {
+      "id": "l-10th_term_sejm_and_11th_term_senate_of_poland",
+      "name": "10th term Sejm and 11th term Senate of Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1916_polish_local_elections",
+      "name": "1916 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1917_łódź_city_council_election",
+      "name": "1917 Łódź City Council election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1919_polish_local_elections",
+      "name": "1919 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1919_polish_parliamentary_election",
+      "name": "1919 Polish parliamentary election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1920_polish_local_elections",
+      "name": "1920 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1921_polish_local_elections",
+      "name": "1921 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1922_polish_local_elections",
+      "name": "1922 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1922_polish_parliamentary_election",
+      "name": "1922 Polish parliamentary election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1922_silesian_parliament_election",
+      "name": "1922 Silesian Parliament election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1923_polish_local_elections",
+      "name": "1923 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1924_polish_local_elections",
+      "name": "1924 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1925_polish_local_elections",
+      "name": "1925 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1926_polish_local_elections",
+      "name": "1926 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1927_polish_local_elections",
+      "name": "1927 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1928_polish_parliamentary_election",
+      "name": "1928 Polish parliamentary election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1929_polish_local_elections",
+      "name": "1929 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1930_polish_parliamentary_election",
+      "name": "1930 Polish parliamentary election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1933–34_polish_local_elections",
+      "name": "1933–34 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1935_polish_parliamentary_election",
+      "name": "1935 Polish parliamentary election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1935_silesian_parliament_election",
+      "name": "1935 Silesian Parliament election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1936_polish_local_elections",
+      "name": "1936 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1938_polish_parliamentary_election",
+      "name": "1938 Polish parliamentary election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1938–39_polish_local_elections",
+      "name": "1938–39 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1945_hungarian_parliamentary_election",
+      "name": "1945 Hungarian parliamentary election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1946_polish_people's_referendum",
+      "name": "1946 Polish people's referendum",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1947_polish_legislative_election",
+      "name": "1947 Polish legislative election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1952_polish_parliamentary_election",
+      "name": "1952 Polish parliamentary election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1954_polish_local_elections",
+      "name": "1954 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1957_polish_legislative_election",
+      "name": "1957 Polish legislative election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1957_polish_parliamentary_election",
+      "name": "1957 Polish parliamentary election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1958_polish_local_elections",
+      "name": "1958 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1961_polish_local_elections",
+      "name": "1961 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1961_polish_parliamentary_election",
+      "name": "1961 Polish parliamentary election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1965_polish_local_elections",
+      "name": "1965 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1965_polish_parliamentary_election",
+      "name": "1965 Polish parliamentary election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1968_polish_political_crisis",
+      "name": "1968 Polish political crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1969_polish_local_elections",
+      "name": "1969 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1969_polish_parliamentary_election",
+      "name": "1969 Polish parliamentary election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1971_łódź_strikes",
+      "name": "1971 Łódź strikes",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1972_polish_parliamentary_election",
+      "name": "1972 Polish parliamentary election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1973_polish_local_elections",
+      "name": "1973 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1976_polish_local_elections",
+      "name": "1976 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1976_polish_parliamentary_election",
+      "name": "1976 Polish parliamentary election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1980_lublin_strikes",
+      "name": "1980 Lublin strikes",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1980_polish_local_elections",
+      "name": "1980 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1980_polish_parliamentary_election",
+      "name": "1980 Polish parliamentary election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1981_polish_hunger_demonstrations",
+      "name": "1981 Polish hunger demonstrations",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1981_warning_strike_in_poland",
+      "name": "1981 warning strike in Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1982_demonstrations_in_poland",
+      "name": "1982 demonstrations in Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1984_polish_local_elections",
+      "name": "1984 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1985_polish_parliamentary_election",
+      "name": "1985 Polish parliamentary election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1987_polish_political_and_economic_reforms_referendum",
+      "name": "1987 Polish political and economic reforms referendum",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1988_polish_local_elections",
+      "name": "1988 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1988_polish_strikes",
+      "name": "1988 Polish strikes",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1989_polish_parliamentary_election",
+      "name": "1989 Polish parliamentary election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1990_polish_local_elections",
+      "name": "1990 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1990_polish_presidential_election",
+      "name": "1990 Polish presidential election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1991_polish_parliamentary_election",
+      "name": "1991 Polish parliamentary election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1993_polish_parliamentary_election",
+      "name": "1993 Polish parliamentary election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1994_polish_local_elections",
+      "name": "1994 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1995_polish_presidential_election",
+      "name": "1995 Polish presidential election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1996_polish_referendum",
+      "name": "1996 Polish referendum",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1997_polish_constitutional_referendum",
+      "name": "1997 Polish constitutional referendum",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1997_polish_parliamentary_election",
+      "name": "1997 Polish parliamentary election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1998_polish_local_elections",
+      "name": "1998 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2000_polish_presidential_election",
+      "name": "2000 Polish presidential election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2001_polish_parliamentary_election",
+      "name": "2001 Polish parliamentary election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2002_polish_local_elections",
+      "name": "2002 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2003_polish_european_union_membership_referendum",
+      "name": "2003 Polish European Union membership referendum",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2004_european_parliament_election_in_poland",
+      "name": "2004 European Parliament election in Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2005_polish_parliamentary_election",
+      "name": "2005 Polish parliamentary election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2005_polish_presidential_election",
+      "name": "2005 Polish presidential election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2006_polish_local_elections",
+      "name": "2006 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2007_polish_parliamentary_election",
+      "name": "2007 Polish parliamentary election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2009_european_parliament_election_in_poland",
+      "name": "2009 European Parliament election in Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2010_polish_local_elections",
+      "name": "2010 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2010_polish_presidential_election",
+      "name": "2010 Polish presidential election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2011_polish_parliamentary_election",
+      "name": "2011 Polish parliamentary election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2014_european_parliament_election_in_poland",
+      "name": "2014 European Parliament election in Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2014_polish_local_elections",
+      "name": "2014 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2015_polish_parliamentary_election",
+      "name": "2015 Polish parliamentary election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2015_polish_presidential_election",
+      "name": "2015 Polish presidential election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2015_polish_referendum",
+      "name": "2015 Polish referendum",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2018_polish_local_elections",
+      "name": "2018 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2019_european_parliament_election_in_poland",
+      "name": "2019 European Parliament election in Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2019_polish_parliamentary_election",
+      "name": "2019 Polish parliamentary election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2020_polish_presidential_election",
+      "name": "2020 Polish presidential election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2023_polish_parliamentary_election",
+      "name": "2023 Polish parliamentary election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2023_polish_referendum",
+      "name": "2023 Polish referendum",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2024_european_parliament_election_in_poland",
+      "name": "2024 European Parliament election in Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2024_polish_local_elections",
+      "name": "2024 Polish local elections",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2025_polish_presidential_election",
+      "name": "2025 Polish presidential election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-administrative_divisions_of_poland",
+      "name": "Administrative divisions of Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alliance_of_democrats_(poland)",
+      "name": "Alliance of Democrats (Poland)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-amnesty_of_1947",
+      "name": "Amnesty of 1947",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-andrzej_duda",
+      "name": "Andrzej Duda",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anti-communist",
+      "name": "Anti-communist",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-armia_krajowa",
+      "name": "Armia Krajowa",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-augustów_roundup",
+      "name": "Augustów roundup",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ballot_box",
+      "name": "Ballot box",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-battle_for_trade",
+      "name": "Battle for trade",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bolesław_bierut",
+      "name": "Bolesław Bierut",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bronisław_drzewiecki",
+      "name": "Bronisław Drzewiecki",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bydgoszcz_events",
+      "name": "Bydgoszcz events",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cabinet_of_poland",
+      "name": "Cabinet of Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-charter_of_the_united_nations",
+      "name": "Charter of the United Nations",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-civic_coalition_(poland)",
+      "name": "Civic Coalition (Poland)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-civic_platform",
+      "name": "Civic Platform",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-collectivization_in_the_polish_people's_republic",
+      "name": "Collectivization in the Polish People's Republic",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-collectivization_of_agriculture",
+      "name": "Collectivization of agriculture",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cominform",
+      "name": "Cominform",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-communism",
+      "name": "Communism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-constitution_of_poland",
+      "name": "Constitution of Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-constitution_of_the_polish_people's_republic",
+      "name": "Constitution of the Polish People's Republic",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-constitutional_tribunal_(poland)",
+      "name": "Constitutional Tribunal (Poland)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cursed_soldiers",
+      "name": "Cursed soldiers",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-david_ost",
+      "name": "David Ost",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-democratic_bloc_(poland)",
+      "name": "Democratic Bloc (Poland)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-democratic_party_(poland)",
+      "name": "Democratic Party (Poland)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-deputy_marshal_of_the_sejm",
+      "name": "Deputy Marshal of the Sejm",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-deputy_marshal_of_the_senate_of_the_republic_of_poland",
+      "name": "Deputy Marshal of the Senate of the Republic of Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dieter_nohlen",
+      "name": "Dieter Nohlen",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-donald_tusk",
+      "name": "Donald Tusk",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-economy_of_poland",
+      "name": "Economy of Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-edward_gierek",
+      "name": "Edward Gierek",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-edward_osóbka-morawski",
+      "name": "Edward Osóbka-Morawski",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-election",
+      "name": "Election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-election_law",
+      "name": "Election law",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-elections_in_poland",
+      "name": "Elections in Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-encyclopedia_britannica",
+      "name": "Encyclopedia Britannica",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-european_parliament",
+      "name": "European Parliament",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-federation_of_fighting_youth",
+      "name": "Federation of Fighting Youth",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fighting_solidarity",
+      "name": "Fighting Solidarity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-flight_and_expulsion_of_germans_from_poland_during_and_after_world_war_ii",
+      "name": "Flight and expulsion of Germans from Poland during and after World War II",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-flying_university",
+      "name": "Flying University",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-foreign_relations_of_poland",
+      "name": "Foreign relations of Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-front_of_national_unity",
+      "name": "Front of National Unity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gdańsk_agreement",
+      "name": "Gdańsk Agreement",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gmina",
+      "name": "Gmina",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-history_of_poland",
+      "name": "History of Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-history_of_poland_(1945–1989)",
+      "name": "History of Poland (1945–1989)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-human_rights_in_poland",
+      "name": "Human rights in Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hungarian_communist_party",
+      "name": "Hungarian Communist Party",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-isbn_(identifier)",
+      "name": "ISBN (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-independent_students'_association",
+      "name": "Independent Students' Association",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-independent_politician",
+      "name": "Independent politician",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-jastrzębie-zdrój_strikes",
+      "name": "Jastrzębie-Zdrój strikes",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-joseph_stalin",
+      "name": "Joseph Stalin",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-judiciary_of_poland",
+      "name": "Judiciary of Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-julia_przyłębska",
+      "name": "Julia Przyłębska",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-june_1976_protests",
+      "name": "June 1976 protests",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-józef_cyrankiewicz",
+      "name": "Józef Cyrankiewicz",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-kielce_voivodeship",
+      "name": "Kielce Voivodeship",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-kniefall_von_warschau",
+      "name": "Kniefall von Warschau",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-labour_faction_(1937)",
+      "name": "Labour Faction (1937)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-law_and_justice",
+      "name": "Law and Justice",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-law_of_poland",
+      "name": "Law of Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-legislative_sejm_(1947-1952)",
+      "name": "Legislative Sejm (1947-1952)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-letter_of_59",
+      "name": "Letter of 59",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-letter_of_reconciliation_of_the_polish_bishops_to_the_german_bishops",
+      "name": "Letter of Reconciliation of the Polish Bishops to the German Bishops",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-library_of_congress",
+      "name": "Library of Congress",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-list_of_cities_and_towns_in_poland",
+      "name": "List of cities and towns in Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-list_of_current_ambassadors_of_poland",
+      "name": "List of current ambassadors of Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-list_of_diplomatic_missions_in_poland",
+      "name": "List of diplomatic missions in Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-list_of_diplomatic_missions_of_poland",
+      "name": "List of diplomatic missions of Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-list_of_political_parties_in_poland",
+      "name": "List of political parties in Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-local_elections_in_poland",
+      "name": "Local elections in Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-marshal_of_the_sejm",
+      "name": "Marshal of the Sejm",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-marshal_of_the_senate_of_the_republic_of_poland",
+      "name": "Marshal of the Senate of the Republic of Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-martial_law_in_poland",
+      "name": "Martial law in Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-may_1930_silesian_parliament_election",
+      "name": "May 1930 Silesian Parliament election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-małgorzata_kidawa-błońska",
+      "name": "Małgorzata Kidawa-Błońska",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-małgorzata_manowska",
+      "name": "Małgorzata Manowska",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-military_council_of_national_salvation",
+      "name": "Military Council of National Salvation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-militsiya_hour",
+      "name": "Militsiya hour",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-millennium_of_the_polish_state",
+      "name": "Millennium of the Polish State",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ministries_of_poland",
+      "name": "Ministries of Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ministry_for_state_security_(ussr)",
+      "name": "Ministry for State Security (USSR)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ministry_of_foreign_affairs_(poland)",
+      "name": "Ministry of Foreign Affairs (Poland)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mokotów_prison_executions_of_1951",
+      "name": "Mokotów Prison executions of 1951",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nazi",
+      "name": "Nazi",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-next_polish_parliamentary_election",
+      "name": "Next Polish parliamentary election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nikita_petrov",
+      "name": "Nikita Petrov",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-november_1930_silesian_parliament_election",
+      "name": "November 1930 Silesian Parliament election",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ormo",
+      "name": "ORMO",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-operation_vistula",
+      "name": "Operation Vistula",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-orange_alternative",
+      "name": "Orange Alternative",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-outline_of_political_science",
+      "name": "Outline of political science",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pax_association",
+      "name": "PAX Association",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pacification_of_wujek",
+      "name": "Pacification of Wujek",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-parliament_of_poland",
+      "name": "Parliament of Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-people’s_party_(poland)",
+      "name": "People’s Party (Poland)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-poland",
+      "name": "Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-poland_2050",
+      "name": "Poland 2050",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-polish_armed_forces",
+      "name": "Polish Armed Forces",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-polish_committee_of_national_liberation",
+      "name": "Polish Committee of National Liberation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-polish_october",
+      "name": "Polish October",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-polish_people's_party",
+      "name": "Polish People's Party",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-polish_people's_party_\"nowe_wyzwolenie\"",
+      "name": "Polish People's Party \"Nowe Wyzwolenie\"",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-polish_people's_party_(1945–1949)",
+      "name": "Polish People's Party (1945–1949)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-polish_people's_republic",
+      "name": "Polish People's Republic",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-polish_round_table_agreement",
+      "name": "Polish Round Table Agreement",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-polish_socialist_party",
+      "name": "Polish Socialist Party",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-polish_united_workers'_party",
+      "name": "Polish United Workers' Party",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-polish_united_workers_party",
+      "name": "Polish United Workers Party",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-polish_workers'_party",
+      "name": "Polish Workers' Party",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-polish_workers_party",
+      "name": "Polish Workers Party",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-polish_government_in_exile",
+      "name": "Polish government in exile",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-polish_population_transfers_(1944–1946)",
+      "name": "Polish population transfers (1944–1946)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-polish_protests_of_1970",
+      "name": "Polish protests of 1970",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-polish_resistance_movement_in_world_war_ii",
+      "name": "Polish resistance movement in World War II",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-politics_of_poland",
+      "name": "Politics of Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-polityka",
+      "name": "Polityka",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-powiat",
+      "name": "Powiat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-poznań_protests_of_1956",
+      "name": "Poznań protests of 1956",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-president_of_poland",
+      "name": "President of Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-prime_minister_of_poland",
+      "name": "Prime Minister of Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-provisional_government_of_national_unity",
+      "name": "Provisional Government of National Unity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-provisional_government_of_the_republic_of_poland",
+      "name": "Provisional Government of the Republic of Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-public_broadcasting_service",
+      "name": "Public Broadcasting Service",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-radosław_sikorski",
+      "name": "Radosław Sikorski",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-recovered_territories",
+      "name": "Recovered Territories",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-referendums_in_poland",
+      "name": "Referendums in Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-right-wing",
+      "name": "Right-wing",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-routledge",
+      "name": "Routledge",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-rural_solidarity",
+      "name": "Rural Solidarity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-satellite_government",
+      "name": "Satellite government",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-sejm",
+      "name": "Sejm",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-semyon_davydov",
+      "name": "Semyon Davydov",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-senate_by-elections_in_poland",
+      "name": "Senate by-elections in Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-senate_of_poland",
+      "name": "Senate of Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-silesian_parliament",
+      "name": "Silesian Parliament",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-six-year_plan",
+      "name": "Six-Year Plan",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-small_constitution_of_1947",
+      "name": "Small Constitution of 1947",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-socialist_realism_in_poland",
+      "name": "Socialist realism in Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-solidarity_(polish_trade_union)",
+      "name": "Solidarity (Polish trade union)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-soviet_studies",
+      "name": "Soviet Studies",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-sovietization",
+      "name": "Sovietization",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-stalinist_show_trial_of_the_kraków_curia",
+      "name": "Stalinist show trial of the Kraków Curia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-stanisław_mikołajczyk",
+      "name": "Stanisław Mikołajczyk",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-state_national_council",
+      "name": "State National Council",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-state_tribunal_(poland)",
+      "name": "State Tribunal (Poland)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-supreme_administrative_court_of_poland",
+      "name": "Supreme Administrative Court of Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-supreme_court_of_poland",
+      "name": "Supreme Court of Poland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-szymon_hołownia",
+      "name": "Szymon Hołownia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-tadeusz_michejda",
+      "name": "Tadeusz Michejda",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-temple_university_press",
+      "name": "Temple University Press",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-three-year_plan",
+      "name": "Three-Year Plan",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-time_(magazine)",
+      "name": "Time (magazine)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-trial_of_the_generals",
+      "name": "Trial of the Generals",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-trial_of_the_sixteen",
+      "name": "Trial of the Sixteen",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-united_people's_party_(poland)",
+      "name": "United People's Party (Poland)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-urząd_bezpieczeństwa",
+      "name": "Urząd Bezpieczeństwa",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-vanguard_party",
+      "name": "Vanguard party",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-voivodes_of_poland_(since_1999)",
+      "name": "Voivodes of Poland (since 1999)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-voivodeship_(poland)",
+      "name": "Voivodeship (Poland)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-voivodeship_marshal",
+      "name": "Voivodeship marshal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-western_betrayal",
+      "name": "Western betrayal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-wojciech_jaruzelski",
+      "name": "Wojciech Jaruzelski",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-workers'_defence_committee",
+      "name": "Workers' Defence Committee",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-world_war_ii",
+      "name": "World War II",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-władysław_gomułka",
+      "name": "Władysław Gomułka",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-yalta_agreement",
+      "name": "Yalta agreement",
+      "relevance": 0,
+      "tags": []
+    }
+  ]
+}

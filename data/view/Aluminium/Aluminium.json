@@ -1,0 +1,3009 @@
+{
+  "id": "904",
+  "name": "Aluminium",
+  "description": "Aluminium (or aluminum in North American English) is a chemical element; it has symbol Al and atomic number 13. It has a density lower than that of other common metals, about one-third that of steel. Aluminium has a great affinity towards oxygen, forming a protective layer of oxide on the surface when exposed to air. It visually resembles silver, both in its color and in its great ability to reflect light. It is soft, nonmagnetic, and ductile. It has one stable isotope, 27Al, which is highly abundant, making aluminium the 12th-most abundant element in the universe. The radioactivity of 26Al leads to it being used in radiometric dating.\nChemically, aluminium is a post-transition metal in the boron group; as is common for the group, aluminium forms compounds primarily in the +3 oxidation state. The aluminium cation Al3+ is small and highly charged; as such, it has more polarizing power, and bonds formed by aluminium have a more covalent character. The strong affinity of aluminium for oxygen leads to the common occurrence of its oxides in nature. Aluminium is found on Earth primarily in rocks in the crust, where it is the third-most abundant element, after oxygen and silicon, rather than in the mantle, and virtually never as the free metal. It is obtained industrially by mining bauxite, a sedimentary rock rich in aluminium minerals.\nThe discovery of aluminium was announced in 1825 by Danish physicist Hans Christian Ørsted. The first industrial production of aluminium was initiated by French chemist Henri Étienne Sainte-Claire Deville in 1856. Aluminium became much more available to the public with the Hall–Héroult process developed independently by French engineer Paul Héroult and American engineer Charles Martin Hall in 1886, and the mass production of aluminium led to its extensive use in industry and everyday life. In the First and Second World Wars, aluminium was a crucial strategic resource for aviation. In 1954, aluminium became the most produced non-ferrous metal, surpassing copper. In the 21st century, most aluminium was consumed in transportation, engineering, construction, and packaging in the United States, Western Europe, and Japan.\nDespite its prevalence in the environment, no living organism is known to metabolize aluminium salts, but this aluminium is well tolerated by plants and animals. Because of the abundance of these salts, the potential for a biological role for them is of interest, and studies are ongoing.\n\n",
+  "descImg": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Aluminium-4.jpg",
+  "audio": null,
+  "links": [
+    {
+      "id": "l-(pentamethylcyclopentadienyl)aluminium(i)",
+      "name": "(Pentamethylcyclopentadienyl)aluminium(I)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1050_aluminium_alloy",
+      "name": "1050 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1060_aluminium_alloy",
+      "name": "1060 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1070_aluminium_alloy",
+      "name": "1070 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1100_aluminium_alloy",
+      "name": "1100 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1145_aluminium_alloy",
+      "name": "1145 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1199_aluminium_alloy",
+      "name": "1199 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1200_aluminium_alloy",
+      "name": "1200 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1230_aluminium_alloy",
+      "name": "1230 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1350_aluminium_alloy",
+      "name": "1350 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1370_aluminium_alloy",
+      "name": "1370 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1420_aluminium_alloy",
+      "name": "1420 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1421_aluminium_alloy",
+      "name": "1421 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1424_aluminium_alloy",
+      "name": "1424 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1430_aluminium_alloy",
+      "name": "1430 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1440_aluminium_alloy",
+      "name": "1440 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1441_aluminium_alloy",
+      "name": "1441 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1445_aluminium_alloy",
+      "name": "1445 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1450_aluminium_alloy",
+      "name": "1450 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1460_aluminium_alloy",
+      "name": "1460 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1461_aluminium_alloy",
+      "name": "1461 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1464_aluminium_alloy",
+      "name": "1464 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1469_aluminium_alloy",
+      "name": "1469 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2004_aluminium_alloy",
+      "name": "2004 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2011_aluminium_alloy",
+      "name": "2011 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2014_aluminium_alloy",
+      "name": "2014 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2017_aluminium_alloy",
+      "name": "2017 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2020_aluminium_alloy",
+      "name": "2020 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2021–2022_global_energy_crisis",
+      "name": "2021–2022 global energy crisis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2024_aluminium_alloy",
+      "name": "2024 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2025_aluminium_alloy",
+      "name": "2025 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2029_aluminium_alloy",
+      "name": "2029 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2036_aluminium_alloy",
+      "name": "2036 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2048_aluminium_alloy",
+      "name": "2048 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2055_aluminium_alloy",
+      "name": "2055 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2080_aluminium_alloy",
+      "name": "2080 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2090_aluminium_alloy",
+      "name": "2090 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2091_aluminium_alloy",
+      "name": "2091 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2094_aluminium_alloy",
+      "name": "2094 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2095_aluminium_alloy",
+      "name": "2095 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2097_aluminium_alloy",
+      "name": "2097 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2098_aluminium_alloy",
+      "name": "2098 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2099_aluminium_alloy",
+      "name": "2099 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2124_aluminium_alloy",
+      "name": "2124 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2195_aluminium_alloy",
+      "name": "2195 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2196_aluminium_alloy",
+      "name": "2196 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2197_aluminium_alloy",
+      "name": "2197 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2198_aluminium_alloy",
+      "name": "2198 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2218_aluminium_alloy",
+      "name": "2218 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2219_aluminium_alloy",
+      "name": "2219 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2224&2324_aluminium_alloy",
+      "name": "2224&2324 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2297_aluminium_alloy",
+      "name": "2297 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2319_aluminium_alloy",
+      "name": "2319 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2397_aluminium_alloy",
+      "name": "2397 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2519_aluminium_alloy",
+      "name": "2519 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2524_aluminium_alloy",
+      "name": "2524 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2618_aluminium_alloy",
+      "name": "2618 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-3003_aluminium_alloy",
+      "name": "3003 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-3004_aluminium_alloy",
+      "name": "3004 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-3005_aluminium_alloy",
+      "name": "3005 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-3102_aluminium_alloy",
+      "name": "3102 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-3103&3303_aluminium_alloy",
+      "name": "3103&3303 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-3105_aluminium_alloy",
+      "name": "3105 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-3203_aluminium_alloy",
+      "name": "3203 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-4006_aluminium_alloy",
+      "name": "4006 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-4007_aluminium_alloy",
+      "name": "4007 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-4015_aluminium_alloy",
+      "name": "4015 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-4032_aluminium_alloy",
+      "name": "4032 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-4043_aluminium_alloy",
+      "name": "4043 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-4047_aluminium_alloy",
+      "name": "4047 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-4543_aluminium_alloy",
+      "name": "4543 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-5005_aluminium_alloy",
+      "name": "5005 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-5010_aluminium_alloy",
+      "name": "5010 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-5019_aluminium_alloy",
+      "name": "5019 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-5024_aluminium_alloy",
+      "name": "5024 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-5026_aluminium_alloy",
+      "name": "5026 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-5050_aluminium_alloy",
+      "name": "5050 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-5052_aluminium_alloy",
+      "name": "5052 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-5056_aluminium_alloy",
+      "name": "5056 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-5059_aluminium_alloy",
+      "name": "5059 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-5083_aluminium_alloy",
+      "name": "5083 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-5086_aluminium_alloy",
+      "name": "5086 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-5154_aluminium_alloy",
+      "name": "5154 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-5182_aluminium_alloy",
+      "name": "5182 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-5252_aluminium_alloy",
+      "name": "5252 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-5356_aluminium_alloy",
+      "name": "5356 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-5454_aluminium_alloy",
+      "name": "5454 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-5456_aluminium_alloy",
+      "name": "5456 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-5457_aluminium_alloy",
+      "name": "5457 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-5557_aluminium_alloy",
+      "name": "5557 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-5754_aluminium_alloy",
+      "name": "5754 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-6005a_aluminium_alloy",
+      "name": "6005A aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-6005_aluminium_alloy",
+      "name": "6005 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-6009_aluminium_alloy",
+      "name": "6009 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-6010_aluminium_alloy",
+      "name": "6010 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-6013_aluminium_alloy",
+      "name": "6013 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-6022_aluminium_alloy",
+      "name": "6022 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-6060_aluminium_alloy",
+      "name": "6060 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-6061_aluminium_alloy",
+      "name": "6061 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-6063_aluminium_alloy",
+      "name": "6063 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-6065_aluminium_alloy",
+      "name": "6065 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-6066_aluminium_alloy",
+      "name": "6066 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-6070_aluminium_alloy",
+      "name": "6070 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-6081_aluminium_alloy",
+      "name": "6081 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-6082_aluminium_alloy",
+      "name": "6082 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-6101_aluminium_alloy",
+      "name": "6101 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-6105_aluminium_alloy",
+      "name": "6105 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-6113_aluminium_alloy",
+      "name": "6113 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-6151_aluminium_alloy",
+      "name": "6151 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-6162_aluminium_alloy",
+      "name": "6162 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-6201_aluminium_alloy",
+      "name": "6201 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-6205_aluminium_alloy",
+      "name": "6205 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-6262_aluminium_alloy",
+      "name": "6262 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-6351_aluminium_alloy",
+      "name": "6351 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-6463_aluminium_alloy",
+      "name": "6463 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-6951_aluminium_alloy",
+      "name": "6951 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-7005_aluminium_alloy",
+      "name": "7005 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-7010_aluminium_alloy",
+      "name": "7010 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-7022_aluminium_alloy",
+      "name": "7022 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-7034_aluminium_alloy",
+      "name": "7034 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-7039_aluminium_alloy",
+      "name": "7039 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-7049_aluminium_alloy",
+      "name": "7049 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-7050_aluminium_alloy",
+      "name": "7050 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-7055_aluminium_alloy",
+      "name": "7055 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-7065_aluminium_alloy",
+      "name": "7065 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-7068_aluminium_alloy",
+      "name": "7068 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-7072_aluminium_alloy",
+      "name": "7072 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-7075_aluminium_alloy",
+      "name": "7075 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-7079_aluminium_alloy",
+      "name": "7079 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-7085_aluminium_alloy",
+      "name": "7085 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-7090_aluminium_alloy",
+      "name": "7090 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-7091_aluminium_alloy",
+      "name": "7091 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-7093_aluminium_alloy",
+      "name": "7093 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-7116_aluminium_alloy",
+      "name": "7116 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-7129_aluminium_alloy",
+      "name": "7129 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-7150_aluminium_alloy",
+      "name": "7150 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-7178_aluminium_alloy",
+      "name": "7178 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-7255_aluminium_alloy",
+      "name": "7255 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-7475_aluminium_alloy",
+      "name": "7475 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-8006_aluminium_alloy",
+      "name": "8006 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-8009_aluminium_alloy",
+      "name": "8009 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-8011_aluminium_alloy",
+      "name": "8011 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-8014_aluminium_alloy",
+      "name": "8014 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-8019_aluminium_alloy",
+      "name": "8019 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-8025_aluminium_alloy",
+      "name": "8025 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-8030_aluminium_alloy",
+      "name": "8030 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-8090_aluminium_alloy",
+      "name": "8090 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-8091_aluminium_alloy",
+      "name": "8091 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-8093_aluminium_alloy",
+      "name": "8093 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-8176_aluminium_alloy",
+      "name": "8176 aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-abundance_of_elements_in_earth's_crust",
+      "name": "Abundance of elements in Earth's crust",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-abundance_of_the_chemical_elements",
+      "name": "Abundance of the chemical elements",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acetylene",
+      "name": "Acetylene",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acid_dissociation_constant",
+      "name": "Acid dissociation constant",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-actinium",
+      "name": "Actinium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-active_transport",
+      "name": "Active transport",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-adaptation",
+      "name": "Adaptation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-addition_compound",
+      "name": "Addition compound",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-adduct",
+      "name": "Adduct",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-adsorption",
+      "name": "Adsorption",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aerospace",
+      "name": "Aerospace",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-agency_for_toxic_substances_and_disease_registry",
+      "name": "Agency for Toxic Substances and Disease Registry",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-al-ca_composite",
+      "name": "Al-Ca composite",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-albemet",
+      "name": "AlBeMet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alsi10mg",
+      "name": "AlSi10Mg",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alsic",
+      "name": "AlSiC",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alclad",
+      "name": "Alclad",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alkali_metal",
+      "name": "Alkali metal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alkali_metals",
+      "name": "Alkali metals",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alkaline_earth_metal",
+      "name": "Alkaline earth metal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alkylation",
+      "name": "Alkylation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-allergy",
+      "name": "Allergy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alloying",
+      "name": "Alloying",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alnico",
+      "name": "Alnico",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alum",
+      "name": "Alum",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alumel",
+      "name": "Alumel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alumina",
+      "name": "Alumina",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminate",
+      "name": "Aluminate",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminates",
+      "name": "Aluminates",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium(i)",
+      "name": "Aluminium(I)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium(i)_oxide",
+      "name": "Aluminium(I) oxide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium(ii)_oxide",
+      "name": "Aluminium(II) oxide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium-26",
+      "name": "Aluminium-26",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium:_the_thirteenth_element",
+      "name": "Aluminium: The Thirteenth Element",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_(disambiguation)",
+      "name": "Aluminium (disambiguation)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_8000_alloys",
+      "name": "Aluminium 8000 alloys",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_acetate",
+      "name": "Aluminium acetate",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_acetylacetonate",
+      "name": "Aluminium acetylacetonate",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_alloy",
+      "name": "Aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_alloys",
+      "name": "Aluminium alloys",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_antimonide",
+      "name": "Aluminium antimonide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_arsenate",
+      "name": "Aluminium arsenate",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_arsenide",
+      "name": "Aluminium arsenide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_borohydride",
+      "name": "Aluminium borohydride",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_bromide",
+      "name": "Aluminium bromide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_bronze",
+      "name": "Aluminium bronze",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_can",
+      "name": "Aluminium can",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_carbide",
+      "name": "Aluminium carbide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_carbonate",
+      "name": "Aluminium carbonate",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_chloride",
+      "name": "Aluminium chloride",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_compounds",
+      "name": "Aluminium compounds",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_cyanide",
+      "name": "Aluminium cyanide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_diacetate",
+      "name": "Aluminium diacetate",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_diboride",
+      "name": "Aluminium diboride",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_dodecaboride",
+      "name": "Aluminium dodecaboride",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_dross_recycling",
+      "name": "Aluminium dross recycling",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_fluoride",
+      "name": "Aluminium fluoride",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_foil",
+      "name": "Aluminium foil",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_granules",
+      "name": "Aluminium granules",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_hydride",
+      "name": "Aluminium hydride",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_hydroxide",
+      "name": "Aluminium hydroxide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_hydroxide_oxide",
+      "name": "Aluminium hydroxide oxide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_iodide",
+      "name": "Aluminium iodide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_joining",
+      "name": "Aluminium joining",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_lactate",
+      "name": "Aluminium lactate",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_laurate",
+      "name": "Aluminium laurate",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_molybdate",
+      "name": "Aluminium molybdate",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_monoacetate",
+      "name": "Aluminium monoacetate",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_monobromide",
+      "name": "Aluminium monobromide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_monochloride",
+      "name": "Aluminium monochloride",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_monofluoride",
+      "name": "Aluminium monofluoride",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_monohydroxide",
+      "name": "Aluminium monohydroxide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_monoiodide",
+      "name": "Aluminium monoiodide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_monostearate",
+      "name": "Aluminium monostearate",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_monoxide",
+      "name": "Aluminium monoxide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_nitrate",
+      "name": "Aluminium nitrate",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_nitride",
+      "name": "Aluminium nitride",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_oxide",
+      "name": "Aluminium oxide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_permanganate",
+      "name": "Aluminium permanganate",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_phosphate",
+      "name": "Aluminium phosphate",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_phosphide",
+      "name": "Aluminium phosphide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_recycling",
+      "name": "Aluminium recycling",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_salt",
+      "name": "Aluminium salt",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_selenide",
+      "name": "Aluminium selenide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_silicate",
+      "name": "Aluminium silicate",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_smelting",
+      "name": "Aluminium smelting",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_sulfacetate",
+      "name": "Aluminium sulfacetate",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_sulfate",
+      "name": "Aluminium sulfate",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_sulfide",
+      "name": "Aluminium sulfide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_telluride",
+      "name": "Aluminium telluride",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_triacetate",
+      "name": "Aluminium triacetate",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_tribromide",
+      "name": "Aluminium tribromide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_trichloride",
+      "name": "Aluminium trichloride",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_triiodide",
+      "name": "Aluminium triiodide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium–air_battery",
+      "name": "Aluminium–air battery",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium–copper_alloys",
+      "name": "Aluminium–copper alloys",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium–lithium_alloys",
+      "name": "Aluminium–lithium alloys",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium–magnesium_alloys",
+      "name": "Aluminium–magnesium alloys",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium–magnesium–silicon_alloys",
+      "name": "Aluminium–magnesium–silicon alloys",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium–manganese_alloys",
+      "name": "Aluminium–manganese alloys",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium–scandium_alloys",
+      "name": "Aluminium–scandium alloys",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium–silicon_alloys",
+      "name": "Aluminium–silicon alloys",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium–zinc_alloys",
+      "name": "Aluminium–zinc alloys",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminized_cloth",
+      "name": "Aluminized cloth",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminized_mylar",
+      "name": "Aluminized mylar",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminized_screen",
+      "name": "Aluminized screen",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminized_steel",
+      "name": "Aluminized steel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminum_powder",
+      "name": "Aluminum powder",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alusil",
+      "name": "Alusil",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alusuisse",
+      "name": "Alusuisse",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alzheimer's_disease",
+      "name": "Alzheimer's disease",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-amalgam_(chemistry)",
+      "name": "Amalgam (chemistry)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-american_chemical_society",
+      "name": "American Chemical Society",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-americium",
+      "name": "Americium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-amine",
+      "name": "Amine",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ammonia",
+      "name": "Ammonia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ammonium_alum",
+      "name": "Ammonium alum",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-amphoterism",
+      "name": "Amphoterism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ancient_greece",
+      "name": "Ancient Greece",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-andreas_libavius",
+      "name": "Andreas Libavius",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-andreas_sigismund_marggraf",
+      "name": "Andreas Sigismund Marggraf",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-angew._chem._int._ed.",
+      "name": "Angew. Chem. Int. Ed.",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-angewandte_chemie_international_edition",
+      "name": "Angewandte Chemie International Edition",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-annalen_der_physik",
+      "name": "Annalen der Physik",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-annalen_der_physik_und_chemie",
+      "name": "Annalen der Physik und Chemie",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-annals_of_philosophy",
+      "name": "Annals of Philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-annealing_(metallurgy)",
+      "name": "Annealing (metallurgy)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-annular_dark-field_imaging",
+      "name": "Annular dark-field imaging",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anodization",
+      "name": "Anodization",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-antacid",
+      "name": "Antacid",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anteros",
+      "name": "Anteros",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anthracite",
+      "name": "Anthracite",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anthraquinone",
+      "name": "Anthraquinone",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-antimony",
+      "name": "Antimony",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-antiperspirants",
+      "name": "Antiperspirants",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-antoine_lavoisier",
+      "name": "Antoine Lavoisier",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aqua_regia",
+      "name": "Aqua regia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-argon",
+      "name": "Argon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-arsenic",
+      "name": "Arsenic",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-asphalt_concrete",
+      "name": "Asphalt concrete",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-astatine",
+      "name": "Astatine",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-asteroids",
+      "name": "Asteroids",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-astringent",
+      "name": "Astringent",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-atomic_number",
+      "name": "Atomic number",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-atomic_radius",
+      "name": "Atomic radius",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-austin_a40_sports",
+      "name": "Austin A40 Sports",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-australia",
+      "name": "Australia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-automobile",
+      "name": "Automobile",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-avgas",
+      "name": "Avgas",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aviation",
+      "name": "Aviation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bric_(economics_term)",
+      "name": "BRIC (economics term)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bacteria",
+      "name": "Bacteria",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bar_stock",
+      "name": "Bar stock",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-barium",
+      "name": "Barium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bauxite",
+      "name": "Bauxite",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bauxite_tailings",
+      "name": "Bauxite tailings",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bayer_process",
+      "name": "Bayer process",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bayerite",
+      "name": "Bayerite",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-berkelium",
+      "name": "Berkelium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-beryl",
+      "name": "Beryl",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-beryllium",
+      "name": "Beryllium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-beryllium-10",
+      "name": "Beryllium-10",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-beta_plus_decay",
+      "name": "Beta plus decay",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-beverage_can",
+      "name": "Beverage can",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bibcode_(identifier)",
+      "name": "Bibcode (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bicycle",
+      "name": "Bicycle",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-birmabright",
+      "name": "Birmabright",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bismuth",
+      "name": "Bismuth",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-block_(periodic_table)",
+      "name": "Block (periodic table)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-blood_plasma",
+      "name": "Blood plasma",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-body_weight",
+      "name": "Body weight",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-boehmite",
+      "name": "Boehmite",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bohrium",
+      "name": "Bohrium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-boiling_point",
+      "name": "Boiling point",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-boron",
+      "name": "Boron",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-boron_group",
+      "name": "Boron group",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-boron_hydride",
+      "name": "Boron hydride",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-boron_trichloride",
+      "name": "Boron trichloride",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-breast_cancer",
+      "name": "Breast cancer",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-brinell_hardness_test",
+      "name": "Brinell hardness test",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-british_aluminium",
+      "name": "British Aluminium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-british_geological_survey",
+      "name": "British Geological Survey",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bromine",
+      "name": "Bromine",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bulk_modulus",
+      "name": "Bulk modulus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-butterworth-heinemann",
+      "name": "Butterworth-Heinemann",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cas_registry_number",
+      "name": "CAS Registry Number",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-crc_handbook_of_chemistry_and_physics",
+      "name": "CRC Handbook of Chemistry and Physics",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-crc_press",
+      "name": "CRC Press",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cadmium",
+      "name": "Cadmium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-caesium",
+      "name": "Caesium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-calcium",
+      "name": "Calcium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-calcium_fluoride",
+      "name": "Calcium fluoride",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-californium",
+      "name": "Californium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-camelford",
+      "name": "Camelford",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-camelford_water_pollution_incident",
+      "name": "Camelford water pollution incident",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-canada",
+      "name": "Canada",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-carbon",
+      "name": "Carbon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-carbon_dioxide",
+      "name": "Carbon dioxide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-carbon_group",
+      "name": "Carbon group",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-carl_josef_bayer",
+      "name": "Carl Josef Bayer",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cartel",
+      "name": "Cartel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-casting_(metalworking)",
+      "name": "Casting (metalworking)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-catalysis",
+      "name": "Catalysis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-catalyst_support",
+      "name": "Catalyst support",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cation",
+      "name": "Cation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cations",
+      "name": "Cations",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cement",
+      "name": "Cement",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-centers_for_disease_control_and_prevention",
+      "name": "Centers for Disease Control and Prevention",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ceramics",
+      "name": "Ceramics",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cerium",
+      "name": "Cerium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chalcogen",
+      "name": "Chalcogen",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chalcogenide",
+      "name": "Chalcogenide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-charles_martin_hall",
+      "name": "Charles Martin Hall",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chelation_therapy",
+      "name": "Chelation therapy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chemical_affinity",
+      "name": "Chemical affinity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chemical_bond",
+      "name": "Chemical bond",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chemical_element",
+      "name": "Chemical element",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chemical_formula",
+      "name": "Chemical formula",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chemical_polarity",
+      "name": "Chemical polarity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chemical_symbol",
+      "name": "Chemical symbol",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-china",
+      "name": "China",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chlorides",
+      "name": "Chlorides",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chlorine",
+      "name": "Chlorine",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chromium",
+      "name": "Chromium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cladosporium_resinae",
+      "name": "Cladosporium resinae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-claus_process",
+      "name": "Claus process",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cobalt",
+      "name": "Cobalt",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-coefficient_of_thermal_expansion",
+      "name": "Coefficient of thermal expansion",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cold_seep",
+      "name": "Cold seep",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-commission_on_isotopic_abundances_and_atomic_weights",
+      "name": "Commission on Isotopic Abundances and Atomic Weights",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-commodities_market",
+      "name": "Commodities market",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-compact_disc",
+      "name": "Compact disc",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-compounds_of_aluminium",
+      "name": "Compounds of aluminium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-concrete",
+      "name": "Concrete",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-continental_slope",
+      "name": "Continental slope",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cooking_utensil",
+      "name": "Cooking utensil",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-coordination_number",
+      "name": "Coordination number",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-copernicium",
+      "name": "Copernicium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-copper",
+      "name": "Copper",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-corundum",
+      "name": "Corundum",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cosmetics",
+      "name": "Cosmetics",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cosmic_ray",
+      "name": "Cosmic ray",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-covalent_bond",
+      "name": "Covalent bond",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-covalent_radius",
+      "name": "Covalent radius",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-crosslink",
+      "name": "Crosslink",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-crusades",
+      "name": "Crusades",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cryolite",
+      "name": "Cryolite",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-crystal_structure",
+      "name": "Crystal structure",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cubic_crystal_system",
+      "name": "Cubic crystal system",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-curium",
+      "name": "Curium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-czech_language",
+      "name": "Czech language",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-d-block",
+      "name": "D-block",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-d-block_contraction",
+      "name": "D-block contraction",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-darmstadtium",
+      "name": "Darmstadtium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-decay_product",
+      "name": "Decay product",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-declension",
+      "name": "Declension",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-deferoxamine_mesylate",
+      "name": "Deferoxamine mesylate",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-density",
+      "name": "Density",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-devarda's_alloy",
+      "name": "Devarda's alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-diagonal_relationship",
+      "name": "Diagonal relationship",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-diaspore",
+      "name": "Diaspore",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-diethylaluminium_chloride",
+      "name": "Diethylaluminium chloride",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-diethylaluminium_cyanide",
+      "name": "Diethylaluminium cyanide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-diffuse_reflection",
+      "name": "Diffuse reflection",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-diisobutylaluminium_hydride",
+      "name": "Diisobutylaluminium hydride",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dimer_(chemistry)",
+      "name": "Dimer (chemistry)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-doi_(identifier)",
+      "name": "Doi (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-door",
+      "name": "Door",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-drawing_(metalworking)",
+      "name": "Drawing (metalworking)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dross",
+      "name": "Dross",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dubnium",
+      "name": "Dubnium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ductility",
+      "name": "Ductility",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-duralumin",
+      "name": "Duralumin",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dutch_language",
+      "name": "Dutch language",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dysprosium",
+      "name": "Dysprosium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-earth's_atmosphere",
+      "name": "Earth's atmosphere",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-earth's_crust",
+      "name": "Earth's crust",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eddy_currents",
+      "name": "Eddy currents",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-einsteinium",
+      "name": "Einsteinium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-electrical_conductor",
+      "name": "Electrical conductor",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-electrical_resistivity",
+      "name": "Electrical resistivity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-electrical_resistivity_and_conductivity",
+      "name": "Electrical resistivity and conductivity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-electrolysis",
+      "name": "Electrolysis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-electron_capture",
+      "name": "Electron capture",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-electron_configuration",
+      "name": "Electron configuration",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-electronegativity",
+      "name": "Electronegativity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-electrostatically",
+      "name": "Electrostatically",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-encyclopedia_britannica",
+      "name": "Encyclopedia Britannica",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-encyclopædia_britannica",
+      "name": "Encyclopædia Britannica",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-endocytosis",
+      "name": "Endocytosis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-endothelia",
+      "name": "Endothelia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-enthalpy_of_fusion",
+      "name": "Enthalpy of fusion",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-enthalpy_of_vaporization",
+      "name": "Enthalpy of vaporization",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-erbium",
+      "name": "Erbium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-erythropoietin",
+      "name": "Erythropoietin",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-estrogen",
+      "name": "Estrogen",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ethene",
+      "name": "Ethene",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ethylaluminium_sesquichloride",
+      "name": "Ethylaluminium sesquichloride",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-europium",
+      "name": "Europium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-even_and_odd_atomic_nuclei",
+      "name": "Even and odd atomic nuclei",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-extinct_radionuclide",
+      "name": "Extinct radionuclide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-extrusion",
+      "name": "Extrusion",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-f-block",
+      "name": "F-block",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fajans'_rules",
+      "name": "Fajans' rules",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-feldspar",
+      "name": "Feldspar",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fermium",
+      "name": "Fermium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fish",
+      "name": "Fish",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-flerovium",
+      "name": "Flerovium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fluorine",
+      "name": "Fluorine",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fluorocarbon",
+      "name": "Fluorocarbon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-food_and_chemical_toxicology",
+      "name": "Food and Chemical Toxicology",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-francium",
+      "name": "Francium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-free_element",
+      "name": "Free element",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-french_language",
+      "name": "French language",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-friedel–crafts_reaction",
+      "name": "Friedel–Crafts reaction",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-friedrich_hoffmann",
+      "name": "Friedrich Hoffmann",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-friedrich_wöhler",
+      "name": "Friedrich Wöhler",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fugacity",
+      "name": "Fugacity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-furniture",
+      "name": "Furniture",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-futures_contract",
+      "name": "Futures contract",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gadolinium",
+      "name": "Gadolinium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gallium",
+      "name": "Gallium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-galvanic_cell",
+      "name": "Galvanic cell",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gamma-ray_astronomy",
+      "name": "Gamma-ray astronomy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gamma_decay",
+      "name": "Gamma decay",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gamma_ray",
+      "name": "Gamma ray",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-garnet",
+      "name": "Garnet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gauss_(unit)",
+      "name": "Gauss (unit)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gemstone",
+      "name": "Gemstone",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gene_expression",
+      "name": "Gene expression",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-george_seldes",
+      "name": "George Seldes",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-geotrichum_candidum",
+      "name": "Geotrichum candidum",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-german_language",
+      "name": "German language",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-germanium",
+      "name": "Germanium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gibbsite",
+      "name": "Gibbsite",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gill",
+      "name": "Gill",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gold",
+      "name": "Gold",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-greek_language",
+      "name": "Greek language",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-greenhouse_gas_emissions",
+      "name": "Greenhouse gas emissions",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-group_(periodic_table)",
+      "name": "Group (periodic table)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-group_10_element",
+      "name": "Group 10 element",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-group_11_element",
+      "name": "Group 11 element",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-group_12_element",
+      "name": "Group 12 element",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-group_13_element",
+      "name": "Group 13 element",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-group_3_element",
+      "name": "Group 3 element",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-group_4_element",
+      "name": "Group 4 element",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-group_5_element",
+      "name": "Group 5 element",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-group_6_element",
+      "name": "Group 6 element",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-group_7_element",
+      "name": "Group 7 element",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-group_8_element",
+      "name": "Group 8 element",
+      "relevance": 0,
+      "tags": []
+    }
+  ]
+}

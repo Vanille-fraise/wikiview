@@ -1,0 +1,195 @@
+{
+  "id": "681781",
+  "name": "Magnetic particle inspection",
+  "description": "Magnetic particle inspection (MPI) is a nondestructive testing process where a magnetic field is used for detecting surface, and shallow subsurface, discontinuities in ferromagnetic materials. Examples of ferromagnetic materials include iron, nickel, cobalt, and some of their alloys. The process puts a magnetic field into the part. The piece can be magnetized by direct or indirect magnetization. Direct magnetization occurs when the electric current is passed through the test object and a magnetic field is formed in the material. The magnetic lines of force are perpendicular to the direction of the electric current, which may be either alternating current (AC) or some form of direct current (DC) (rectified AC). Indirect magnetization occurs when no electric current is passed through the test object, but a magnetic field is applied from an outside source.\nThe presence of a surface or subsurface discontinuity in the material allows the magnetic flux to leak, since air cannot support as much magnetic field per unit volume as metals. \nTo identify a leak, ferrous particles, either dry or in a wet suspension, are applied to a part. These are attracted to an area of flux leakage and form what is known as an indication, which is evaluated to determine its nature, cause,  and course of action, if any.",
+  "descImg": "https://upload.wikimedia.org/wikipedia/commons/5/57/Wet_magnetic_particle_testing_on_a_pipeline.jpg",
+  "audio": null,
+  "links": [
+    {
+      "id": "l-alloys",
+      "name": "Alloys",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alternating_current",
+      "name": "Alternating current",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-american_society_for_nondestructive_testing",
+      "name": "American Society for Nondestructive Testing",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-american_society_of_testing_and_materials",
+      "name": "American Society of Testing and Materials",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-canadian_standards_association",
+      "name": "Canadian Standards Association",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cobalt",
+      "name": "Cobalt",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-crankshaft",
+      "name": "Crankshaft",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-darkroom",
+      "name": "Darkroom",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-direct_current",
+      "name": "Direct current",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-electromagnet",
+      "name": "Electromagnet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-european_committee_for_standardization",
+      "name": "European Committee for Standardization",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ferromagnetic_materials",
+      "name": "Ferromagnetic materials",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-isbn_(identifier)",
+      "name": "ISBN (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-international_organization_for_standardization",
+      "name": "International Organization for Standardization",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iron",
+      "name": "Iron",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iron_oxide",
+      "name": "Iron oxide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-magnetic_field",
+      "name": "Magnetic field",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-magnetic_flux",
+      "name": "Magnetic flux",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mineral_spirits",
+      "name": "Mineral spirits",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nanometer",
+      "name": "Nanometer",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nickel",
+      "name": "Nickel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nondestructive_testing",
+      "name": "Nondestructive testing",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pipeline_transport",
+      "name": "Pipeline transport",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pulsating_dc",
+      "name": "Pulsating DC",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-rectifier",
+      "name": "Rectifier",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-skin_effect",
+      "name": "Skin effect",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-society_of_automotive_engineers",
+      "name": "Society of Automotive Engineers",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-stress_corrosion_cracking",
+      "name": "Stress corrosion cracking",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ultraviolet",
+      "name": "Ultraviolet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-united_states_military_standard",
+      "name": "United States Military Standard",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-weld_inspection",
+      "name": "Weld inspection",
+      "relevance": 0,
+      "tags": []
+    }
+  ]
+}

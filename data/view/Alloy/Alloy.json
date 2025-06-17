@@ -1,0 +1,1587 @@
+{
+  "id": "1187",
+  "name": "Alloy",
+  "description": "An alloy is a mixture of chemical elements of which in most cases at least one is a metallic element, although it is also sometimes used for mixtures of elements; herein only metallic alloys are described. Metallic alloys often have properties that differ from those of the pure elements from which they are made. \nThe vast majority of metals used for commercial purposes are alloyed to improve their properties or behavior, such as increased strength, hardness or corrosion resistance. Metals may also be alloyed to reduce their overall cost, for instance alloys of gold and copper.\nA typical example of an alloy is 304 grade stainless steel which is commonly used for kitchen utensils, pans, knives and forks. Sometime also known as 18/8, it as an alloy consisting broadly of 74% iron, 18% chromium and 8% nickel. The chromium and nickel alloying elements add strength and hardness to the majority iron element, but their main function is to make it resistant to rust/corrosion.\nIn an alloy, the atoms are joined by metallic bonding rather than by covalent bonds typically found in chemical compounds. The alloy constituents are usually measured by mass percentage for practical applications, and in atomic fraction for basic science studies. Alloys are usually classified as substitutional or interstitial alloys, depending on the atomic arrangement that forms the alloy. They can be further classified as homogeneous (consisting of a single phase), or heterogeneous (consisting of two or more phases) or intermetallic. An alloy may be a solid solution of metal elements (a single phase, where all metallic grains (crystals) are of the same composition) or a mixture of metallic phases (two or more solutions, forming a microstructure of different crystals within the metal).\nExamples of alloys include red gold (gold and copper), white gold (gold and silver), sterling silver (silver and copper), steel or silicon steel (iron with non-metallic carbon or silicon respectively), solder, brass, pewter, duralumin, bronze, and amalgams.\nAlloys are used in a wide variety of applications, from the steel alloys, used in everything from buildings to automobiles to surgical tools, to exotic titanium alloys used in the aerospace industry, to beryllium-copper alloys for non-sparking tools.\n\n",
+  "descImg": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Alloy_and_metal_samples_-_Beryllium-Copper%2C_Inconel%2C_Steel%2C_Titanium%2C_Aluminum%2C_Magnesium.jpg",
+  "audio": null,
+  "links": [
+    {
+      "id": "l-acid_dissociation_constant",
+      "name": "Acid dissociation constant",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-adolf_martens",
+      "name": "Adolf Martens",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-age_of_enlightenment",
+      "name": "Age of Enlightenment",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aircraft",
+      "name": "Aircraft",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aircraft_skin",
+      "name": "Aircraft skin",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-airframe",
+      "name": "Airframe",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alfred_wilm",
+      "name": "Alfred Wilm",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-allotropes_of_iron",
+      "name": "Allotropes of iron",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-allotropy",
+      "name": "Allotropy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alloy_(disambiguation)",
+      "name": "Alloy (disambiguation)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alloy_broadening",
+      "name": "Alloy broadening",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alloy_steel",
+      "name": "Alloy steel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alloy_wheel",
+      "name": "Alloy wheel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alpha_iron",
+      "name": "Alpha iron",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium",
+      "name": "Aluminium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aluminium_alloy",
+      "name": "Aluminium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-amalgam_(chemistry)",
+      "name": "Amalgam (chemistry)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-amphiphile",
+      "name": "Amphiphile",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anatolia",
+      "name": "Anatolia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-annealing_(metallurgy)",
+      "name": "Annealing (metallurgy)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-antimony",
+      "name": "Antimony",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-apparent_molar_property",
+      "name": "Apparent molar property",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aqueous_solution",
+      "name": "Aqueous solution",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-archimedes",
+      "name": "Archimedes",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-archimedes'_principle",
+      "name": "Archimedes' principle",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-armor",
+      "name": "Armor",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-atom",
+      "name": "Atom",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-atomic_ratio",
+      "name": "Atomic ratio",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-austenite",
+      "name": "Austenite",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bauxite",
+      "name": "Bauxite",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-benjamin_huntsman",
+      "name": "Benjamin Huntsman",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-beryllium_copper",
+      "name": "Beryllium copper",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bessemer_process",
+      "name": "Bessemer process",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bibcode_(identifier)",
+      "name": "Bibcode (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bismuth",
+      "name": "Bismuth",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-blast_furnace",
+      "name": "Blast furnace",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-blister_steel",
+      "name": "Blister steel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bloomery",
+      "name": "Bloomery",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-brass",
+      "name": "Brass",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bronze",
+      "name": "Bronze",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bronze_age",
+      "name": "Bronze Age",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-buffer_solution",
+      "name": "Buffer solution",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-calphad",
+      "name": "CALPHAD",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-calcium",
+      "name": "Calcium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-carbide",
+      "name": "Carbide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-carbon",
+      "name": "Carbon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-carbon_steel",
+      "name": "Carbon steel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-carbonitriding",
+      "name": "Carbonitriding",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-case_hardening",
+      "name": "Case hardening",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cast-iron",
+      "name": "Cast-iron",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cementation_process",
+      "name": "Cementation process",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cementite",
+      "name": "Cementite",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chemical_element",
+      "name": "Chemical element",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chemical_polarity",
+      "name": "Chemical polarity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chromium",
+      "name": "Chromium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cinnabar",
+      "name": "Cinnabar",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cobalt",
+      "name": "Cobalt",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cold_working",
+      "name": "Cold working",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-colloid",
+      "name": "Colloid",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-colored_gold",
+      "name": "Colored gold",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-concentration",
+      "name": "Concentration",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-copper",
+      "name": "Copper",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-copper(ii)_sulfate",
+      "name": "Copper(II) sulfate",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-corrosion",
+      "name": "Corrosion",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-covalent_bond",
+      "name": "Covalent bond",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-crucible",
+      "name": "Crucible",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-crucible_steel",
+      "name": "Crucible steel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-density",
+      "name": "Density",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-diffusion",
+      "name": "Diffusion",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-diffusionless_transformation",
+      "name": "Diffusionless transformation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dilution_(equation)",
+      "name": "Dilution (equation)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-doi_(identifier)",
+      "name": "Doi (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ductile",
+      "name": "Ductile",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-duralumin",
+      "name": "Duralumin",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-edgar_bain",
+      "name": "Edgar Bain",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-egypt",
+      "name": "Egypt",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-electric_arc",
+      "name": "Electric arc",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-electrical_conductivity",
+      "name": "Electrical conductivity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-electrum",
+      "name": "Electrum",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-encyclopædia_britannica_eleventh_edition",
+      "name": "Encyclopædia Britannica Eleventh Edition",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-enthalpy_change_of_solution",
+      "name": "Enthalpy change of solution",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-equivalent_concentration",
+      "name": "Equivalent concentration",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eutectic",
+      "name": "Eutectic",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eutectic_system",
+      "name": "Eutectic system",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-extractive_metallurgy",
+      "name": "Extractive metallurgy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ferrite_(magnet)",
+      "name": "Ferrite (magnet)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ferromagnetic",
+      "name": "Ferromagnetic",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-flory–huggins_solution_theory",
+      "name": "Flory–Huggins solution theory",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-flux_(metallurgy)",
+      "name": "Flux (metallurgy)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gamma_iron",
+      "name": "Gamma iron",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gilding",
+      "name": "Gilding",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gold",
+      "name": "Gold",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-greenland",
+      "name": "Greenland",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hardness",
+      "name": "Hardness",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hastelloy",
+      "name": "Hastelloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-heat_treatment",
+      "name": "Heat treatment",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-henry's_law",
+      "name": "Henry's law",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-henry_bessemer",
+      "name": "Henry Bessemer",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-henry_ford",
+      "name": "Henry Ford",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-high-speed_steel",
+      "name": "High-speed steel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-history_of_china",
+      "name": "History of China",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-humphry_davy",
+      "name": "Humphry Davy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hydrophile",
+      "name": "Hydrophile",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hydrophobe",
+      "name": "Hydrophobe",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-isbn_(identifier)",
+      "name": "ISBN (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ideal_mixture",
+      "name": "Ideal mixture",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ideal_solution",
+      "name": "Ideal solution",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-incoloy",
+      "name": "Incoloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-inconel",
+      "name": "Inconel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-industrial_espionage",
+      "name": "Industrial espionage",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-inorganic_nonaqueous_solvent",
+      "name": "Inorganic nonaqueous solvent",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-insoluble",
+      "name": "Insoluble",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-intermetallic",
+      "name": "Intermetallic",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-interstitial_alloy",
+      "name": "Interstitial alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-interstitial_site",
+      "name": "Interstitial site",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-inuit",
+      "name": "Inuit",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iridium",
+      "name": "Iridium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iron",
+      "name": "Iron",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iron_meteorite",
+      "name": "Iron meteorite",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iron_ore",
+      "name": "Iron ore",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-iron_sulfide",
+      "name": "Iron sulfide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-jstor_(identifier)",
+      "name": "JSTOR (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-japanese_swordsmithing",
+      "name": "Japanese swordsmithing",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lattice_energy",
+      "name": "Lattice energy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lead",
+      "name": "Lead",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lipophilicity",
+      "name": "Lipophilicity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-liquid",
+      "name": "Liquid",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-liquidus",
+      "name": "Liquidus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-list_of_alloys",
+      "name": "List of alloys",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-list_of_boiling_and_freezing_information_of_solvents",
+      "name": "List of boiling and freezing information of solvents",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lithium",
+      "name": "Lithium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lyate_ion",
+      "name": "Lyate ion",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lyonium_ion",
+      "name": "Lyonium ion",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-magnesium",
+      "name": "Magnesium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-magnesium_alloy",
+      "name": "Magnesium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-malleable",
+      "name": "Malleable",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mangalloy",
+      "name": "Mangalloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-manganese",
+      "name": "Manganese",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-martensite",
+      "name": "Martensite",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mass_concentration_(chemistry)",
+      "name": "Mass concentration (chemistry)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mass_fraction_(chemistry)",
+      "name": "Mass fraction (chemistry)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-melting_point",
+      "name": "Melting point",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mercury_(element)",
+      "name": "Mercury (element)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-metal",
+      "name": "Metal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-metal_oxide",
+      "name": "Metal oxide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-metallic_bonding",
+      "name": "Metallic bonding",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-meteoric_iron",
+      "name": "Meteoric iron",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-meteorite",
+      "name": "Meteorite",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-microstructure",
+      "name": "Microstructure",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mild_steel",
+      "name": "Mild steel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mirror",
+      "name": "Mirror",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-miscibility",
+      "name": "Miscibility",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-miscibility_gap",
+      "name": "Miscibility gap",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mixing_ratio",
+      "name": "Mixing ratio",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mixture",
+      "name": "Mixture",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-model_t_ford",
+      "name": "Model T Ford",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-molality",
+      "name": "Molality",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-molar_concentration",
+      "name": "Molar concentration",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mole_fraction",
+      "name": "Mole fraction",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-molybdenum",
+      "name": "Molybdenum",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mycenae",
+      "name": "Mycenae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-native_iron",
+      "name": "Native iron",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-natural_abundance",
+      "name": "Natural abundance",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nickel",
+      "name": "Nickel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nickel_alloys",
+      "name": "Nickel alloys",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nitriding",
+      "name": "Nitriding",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nucleating",
+      "name": "Nucleating",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-number_density",
+      "name": "Number density",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ore",
+      "name": "Ore",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-oxidation",
+      "name": "Oxidation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-oxygen",
+      "name": "Oxygen",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pmid_(identifier)",
+      "name": "PMID (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-partition_coefficient",
+      "name": "Partition coefficient",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pattern_welding",
+      "name": "Pattern welding",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pearlite",
+      "name": "Pearlite",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pewter",
+      "name": "Pewter",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-phase_(matter)",
+      "name": "Phase (matter)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-phase_diagram",
+      "name": "Phase diagram",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-phase_separation",
+      "name": "Phase separation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-phosphorus",
+      "name": "Phosphorus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pig_iron",
+      "name": "Pig iron",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-plastic_deformation",
+      "name": "Plastic deformation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-platinum",
+      "name": "Platinum",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-polar_aprotic_solvent",
+      "name": "Polar aprotic solvent",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pot_metal",
+      "name": "Pot metal",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-precipitate",
+      "name": "Precipitate",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-precipitation_hardening",
+      "name": "Precipitation hardening",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-protic_solvent",
+      "name": "Protic solvent",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-puddling_(metallurgy)",
+      "name": "Puddling (metallurgy)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-qin_dynasty",
+      "name": "Qin dynasty",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-quenched",
+      "name": "Quenched",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-raoult's_law",
+      "name": "Raoult's law",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-reactivity_(chemistry)",
+      "name": "Reactivity (chemistry)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-recrystallization_(metallurgy)",
+      "name": "Recrystallization (metallurgy)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-red_gold",
+      "name": "Red gold",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-robert_forester_mushet",
+      "name": "Robert Forester Mushet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-robert_hadfield",
+      "name": "Robert Hadfield",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-sae_304_stainless_steel",
+      "name": "SAE 304 stainless steel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-saturated_solution",
+      "name": "Saturated solution",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-saturation_concentration",
+      "name": "Saturation concentration",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-serial_dilution",
+      "name": "Serial dilution",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-shear_steel",
+      "name": "Shear steel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-shear_strength",
+      "name": "Shear strength",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-sheffield",
+      "name": "Sheffield",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-shinto",
+      "name": "Shinto",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-silicon",
+      "name": "Silicon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-silicon_steel",
+      "name": "Silicon steel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-silver",
+      "name": "Silver",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-slag",
+      "name": "Slag",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-smelting",
+      "name": "Smelting",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-sodium",
+      "name": "Sodium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-solder",
+      "name": "Solder",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-solid",
+      "name": "Solid",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-solid_solution",
+      "name": "Solid solution",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-solidus_(chemistry)",
+      "name": "Solidus (chemistry)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-solubility",
+      "name": "Solubility",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-solubility_chart",
+      "name": "Solubility chart",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-solubility_equilibrium",
+      "name": "Solubility equilibrium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-solubility_table",
+      "name": "Solubility table",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-soluble",
+      "name": "Soluble",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-solution_(chemistry)",
+      "name": "Solution (chemistry)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-solvation",
+      "name": "Solvation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-solvation_shell",
+      "name": "Solvation shell",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-solvent",
+      "name": "Solvent",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-spiegeleisen",
+      "name": "Spiegeleisen",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-spring_steel",
+      "name": "Spring steel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-stainless_steel",
+      "name": "Stainless steel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-steel",
+      "name": "Steel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-sterling_silver",
+      "name": "Sterling silver",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-strength_of_materials",
+      "name": "Strength of materials",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-structural_integrity",
+      "name": "Structural integrity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-sulfur",
+      "name": "Sulfur",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-superalloy",
+      "name": "Superalloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-supersaturated",
+      "name": "Supersaturated",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-supersaturation",
+      "name": "Supersaturation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-suspension_(chemistry)",
+      "name": "Suspension (chemistry)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-syracuse,_sicily",
+      "name": "Syracuse, Sicily",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-temperature",
+      "name": "Temperature",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-tensile_strength",
+      "name": "Tensile strength",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ternary_plot",
+      "name": "Ternary plot",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-the_american_cyclopædia",
+      "name": "The American Cyclopædia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-thermal_conductivity",
+      "name": "Thermal conductivity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-tin",
+      "name": "Tin",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-titanium",
+      "name": "Titanium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-titanium_alloy",
+      "name": "Titanium alloy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-tool_steel",
+      "name": "Tool steel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-total_dissolved_solids",
+      "name": "Total dissolved solids",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-toughness",
+      "name": "Toughness",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-tungsten",
+      "name": "Tungsten",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-tungsten_carbide",
+      "name": "Tungsten carbide",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-vanadium",
+      "name": "Vanadium",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-volume_fraction",
+      "name": "Volume fraction",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-wayback_machine",
+      "name": "Wayback Machine",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-white_gold",
+      "name": "White gold",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-widmanstätten_pattern",
+      "name": "Widmanstätten pattern",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-william_chandler_roberts-austen",
+      "name": "William Chandler Roberts-Austen",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-work_hardened",
+      "name": "Work hardened",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-work_hardening",
+      "name": "Work hardening",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-wright_brothers",
+      "name": "Wright brothers",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-wrought_iron",
+      "name": "Wrought iron",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-young's_modulus",
+      "name": "Young's modulus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-zeppelin",
+      "name": "Zeppelin",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-zinc",
+      "name": "Zinc",
+      "relevance": 0,
+      "tags": []
+    }
+  ]
+}

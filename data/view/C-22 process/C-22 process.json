@@ -1,0 +1,45 @@
+{
+  "id": "5298713",
+  "name": "C-22 process",
+  "description": "Introduced by Kodak in 1956, C-22 is an obsolete process for developing color film, superseded by the C-41 process in 1972 for the launch of 110 film and in 1974 for all other formats.\nThe development of the film material is carried out at temperatures of around 75°F (24°C), making the process incompatible with the more modern C-41 process, which uses a temperature of 100°F (38°C).  C-22 uses Color Developing Agent 3, unlike C-41, which uses Color Developing Agent 4.\nThe most common film requiring this process is Kodacolor-X.\nC-22 film can still (as of 2020) be developed in black and white.",
+  "descImg": "",
+  "audio": null,
+  "links": [
+    {
+      "id": "l-110_film",
+      "name": "110 film",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-c-41_process",
+      "name": "C-41 process",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-color_developing_agent_3",
+      "name": "Color Developing Agent 3",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-color_developing_agent_4",
+      "name": "Color Developing Agent 4",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-kodacolor_(still_photography)",
+      "name": "Kodacolor (still photography)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-kodak",
+      "name": "Kodak",
+      "relevance": 0,
+      "tags": []
+    }
+  ]
+}

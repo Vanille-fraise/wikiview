@@ -6,22 +6,37 @@
     "dev": "next dev --turbopack",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "data:init": "ts-node -r tsconfig-paths/register --compiler-options '{\"module\":\"CommonJS\"}' code/scripts/dataInit.ts"
   },
   "dependencies": {
+    "@google/genai": "^1.4.0",
+    "@google/generative-ai": "^0.24.1",
     "@xyflow/react": "^12.6.4",
     "axios": "^1.9.0",
+    "better-sqlite3": "^11.10.0",
     "dotenv": "^16.5.0",
-    "next": "15.3.3",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "drizzle-orm": "^0.44.2",
+    "elkjs": "^0.10.0",
+    "generative-ai": "^0.1.4",
+    "next": "^15.3.3",
+    "pg": "^8.16.0",
+    "postgres-array": "^3.0.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
-    "@types/node": "^20",
+    "@types/better-sqlite3": "^7.6.13",
+    "@types/node": "^20.19.0",
+    "@types/pg": "^8.15.4",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "drizzle-kit": "^0.31.1",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "ts-node": "^10.9.2",
+    "tsconfig-paths": "^4.2.0",
+    "tsx": "^4.20.2",
+    "typescript": "^5.8.3"
   }
 }

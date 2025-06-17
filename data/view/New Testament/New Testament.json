@@ -1,0 +1,3009 @@
+{
+  "id": "21433",
+  "name": "New Testament",
+  "description": "The New Testament (NT) is the second division of the Christian biblical canon. It discusses the teachings and person of Jesus, as well as events relating to first-century Christianity. The New Testament's background, the first division of the Christian Bible, is called the Old Testament, which is based primarily upon the Hebrew Bible; together they are regarded as Sacred Scripture by Christians.\nThe New Testament is a collection of 27 Christian texts written in Koine Greek by various authors, forming the second major division of the Christian Bible. It includes four gospels, the Acts of the Apostles, epistles attributed to Paul and other authors, and the Book of Revelation. The New Testament canon developed gradually over the first few centuries of Christianity through a complex process of debate, rejection of heretical texts, and recognition of writings deemed apostolic, culminating in the formalization of the 27-book canon by the late 4th century.  It has been widely accepted across Christian traditions since Late Antiquity.\nLiterary analysis suggests many of its texts were written in the mid-to-late first century. There is no scholarly consensus on the date of composition of the latest New Testament text. The earliest New Testament manuscripts date from the late second to early third centuries AD, with the possible exception of Papyrus 52.\nThe New Testament was transmitted through thousands of manuscripts in various languages and church quotations and contains variants. Textual criticism uses surviving manuscripts to reconstruct the oldest version feasible and to chart the history of the written tradition. It has varied reception among Christians today. It is viewed as a holy scripture alongside Sacred Tradition among Catholics and Orthodox, while Evangelicals and some other Protestants view it as the inspired word of God without tradition.\n\n",
+  "descImg": "",
+  "audio": null,
+  "links": [
+    {
+      "id": "l-1_clement",
+      "name": "1 Clement",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1_esdras",
+      "name": "1 Esdras",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-1_maccabees",
+      "name": "1 Maccabees",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2_baruch",
+      "name": "2 Baruch",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2_clement",
+      "name": "2 Clement",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2_esdras",
+      "name": "2 Esdras",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-2_maccabees",
+      "name": "2 Maccabees",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-3_maccabees",
+      "name": "3 Maccabees",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-4_maccabees",
+      "name": "4 Maccabees",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-7q5",
+      "name": "7Q5",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-a.d._(miniseries)",
+      "name": "A.D. (miniseries)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-a._t._jones",
+      "name": "A. T. Jones",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-a_new_testament_(disambiguation)",
+      "name": "A New Testament (disambiguation)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-abaddon",
+      "name": "Abaddon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-abgar_v",
+      "name": "Abgar V",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-abijah",
+      "name": "Abijah",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-abilene_(biblical)",
+      "name": "Abilene (biblical)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ablution_in_christianity",
+      "name": "Ablution in Christianity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-achaicus_of_corinth",
+      "name": "Achaicus of Corinth",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_1",
+      "name": "Acts 1",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_10",
+      "name": "Acts 10",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_11",
+      "name": "Acts 11",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_12",
+      "name": "Acts 12",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_13",
+      "name": "Acts 13",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_14",
+      "name": "Acts 14",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_15",
+      "name": "Acts 15",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_16",
+      "name": "Acts 16",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_17",
+      "name": "Acts 17",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_18",
+      "name": "Acts 18",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_19",
+      "name": "Acts 19",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_2",
+      "name": "Acts 2",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_20",
+      "name": "Acts 20",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_21",
+      "name": "Acts 21",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_22",
+      "name": "Acts 22",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_23",
+      "name": "Acts 23",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_24",
+      "name": "Acts 24",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_25",
+      "name": "Acts 25",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_26",
+      "name": "Acts 26",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_27",
+      "name": "Acts 27",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_28",
+      "name": "Acts 28",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_3",
+      "name": "Acts 3",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_4",
+      "name": "Acts 4",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_5",
+      "name": "Acts 5",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_6",
+      "name": "Acts 6",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_7",
+      "name": "Acts 7",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_8",
+      "name": "Acts 8",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_9",
+      "name": "Acts 9",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_of_andrew",
+      "name": "Acts of Andrew",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_of_john",
+      "name": "Acts of John",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_of_paul",
+      "name": "Acts of Paul",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_of_paul_and_thecla",
+      "name": "Acts of Paul and Thecla",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_of_thaddeus",
+      "name": "Acts of Thaddeus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_of_the_apostles",
+      "name": "Acts of the Apostles",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-acts_of_the_apostles_(genre)",
+      "name": "Acts of the Apostles (genre)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-adam–god_doctrine",
+      "name": "Adam–God doctrine",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-additions_to_daniel",
+      "name": "Additions to Daniel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-adolf_von_harnack",
+      "name": "Adolf von Harnack",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-adoration_of_the_shepherds",
+      "name": "Adoration of the Shepherds",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-adventism",
+      "name": "Adventism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-adventist_theological_society",
+      "name": "Adventist Theological Society",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aeneas_(biblical_figure)",
+      "name": "Aeneas (biblical figure)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-agabus",
+      "name": "Agabus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-against_heresies_(irenaeus)",
+      "name": "Against Heresies (Irenaeus)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-age_of_enlightenment",
+      "name": "Age of Enlightenment",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-agency_in_mormonism",
+      "name": "Agency in Mormonism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-agony_in_the_garden",
+      "name": "Agony in the Garden",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-akhmimic",
+      "name": "Akhmimic",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alaşehir",
+      "name": "Alaşehir",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alcohol_in_the_bible",
+      "name": "Alcohol in the Bible",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alexander_(ephesian)",
+      "name": "Alexander (Ephesian)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alexander_souter",
+      "name": "Alexander Souter",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alexander_the_coppersmith",
+      "name": "Alexander the Coppersmith",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alexandria",
+      "name": "Alexandria",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alexandrian_text-type",
+      "name": "Alexandrian text-type",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alexius_aristenus",
+      "name": "Alexius Aristenus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alfred_rahlfs'_edition_of_the_septuagint",
+      "name": "Alfred Rahlfs' edition of the Septuagint",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-allegorical_interpretation_of_the_bible",
+      "name": "Allegorical interpretation of the Bible",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alpha_and_omega",
+      "name": "Alpha and Omega",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alphaeus",
+      "name": "Alphaeus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-alpheus_cutler",
+      "name": "Alpheus Cutler",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-amanuensis",
+      "name": "Amanuensis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-amboy_conference",
+      "name": "Amboy Conference",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ambrosian_hymns",
+      "name": "Ambrosian hymns",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-amy-jill_levine",
+      "name": "Amy-Jill Levine",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anabaptism",
+      "name": "Anabaptism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ananias_and_sapphira",
+      "name": "Ananias and Sapphira",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ananias_of_damascus",
+      "name": "Ananias of Damascus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ananias_son_of_nedebeus",
+      "name": "Ananias son of Nedebeus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anatolia",
+      "name": "Anatolia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anchor_bible",
+      "name": "Anchor Bible",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anchor_bible_dictionary",
+      "name": "Anchor Bible Dictionary",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ancient_church_orders",
+      "name": "Ancient Church Orders",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ancient_greek_language",
+      "name": "Ancient Greek language",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ancient_history",
+      "name": "Ancient history",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-andrew_t._lincoln",
+      "name": "Andrew T. Lincoln",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-andrew_the_apostle",
+      "name": "Andrew the Apostle",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-andronicus_of_pannonia",
+      "name": "Andronicus of Pannonia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-angel",
+      "name": "Angel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-angel_moroni",
+      "name": "Angel Moroni",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-angels",
+      "name": "Angels",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-angels_in_christianity",
+      "name": "Angels in Christianity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anglican_communion",
+      "name": "Anglican Communion",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anglicanism",
+      "name": "Anglicanism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anna_the_prophetess",
+      "name": "Anna the Prophetess",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-annas",
+      "name": "Annas",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-annunciation",
+      "name": "Annunciation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-annunciation_to_the_shepherds",
+      "name": "Annunciation to the shepherds",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anointing_of_jesus",
+      "name": "Anointing of Jesus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anointing_of_the_sick",
+      "name": "Anointing of the sick",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anonymous_work",
+      "name": "Anonymous work",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ante-nicene_fathers_(book)",
+      "name": "Ante-Nicene Fathers (book)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anthony_kenny",
+      "name": "Anthony Kenny",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anti-christian_sentiment",
+      "name": "Anti-Christian sentiment",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anti-mormonism",
+      "name": "Anti-Mormonism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-antilegomena",
+      "name": "Antilegomena",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-antipas_of_pergamum",
+      "name": "Antipas of Pergamum",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-antonius_felix",
+      "name": "Antonius Felix",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-apocalypse",
+      "name": "Apocalypse",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-apocalypse_of_peter",
+      "name": "Apocalypse of Peter",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-apocalyptic_literature",
+      "name": "Apocalyptic literature",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-apocryphon_of_john",
+      "name": "Apocryphon of John",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-apollos",
+      "name": "Apollos",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-apostle",
+      "name": "Apostle",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-apostle_john",
+      "name": "Apostle John",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-apostles'_creed",
+      "name": "Apostles' Creed",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-apostles_in_the_new_testament",
+      "name": "Apostles in the New Testament",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-apostolic_age",
+      "name": "Apostolic Age",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-apostolic_canons",
+      "name": "Apostolic Canons",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-apostolic_constitutions",
+      "name": "Apostolic Constitutions",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-apostolic_fathers",
+      "name": "Apostolic Fathers",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-apostolic_united_brethren",
+      "name": "Apostolic United Brethren",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aramaic_matthew",
+      "name": "Aramaic Matthew",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aramaic_of_jesus",
+      "name": "Aramaic of Jesus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-archaeology_and_the_book_of_mormon",
+      "name": "Archaeology and the Book of Mormon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-archippus",
+      "name": "Archippus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-architecture_of_cathedrals_and_great_churches",
+      "name": "Architecture of cathedrals and great churches",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-areopagus_sermon",
+      "name": "Areopagus sermon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aretas_iv_philopatris",
+      "name": "Aretas IV Philopatris",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aristarchus_of_thessalonica",
+      "name": "Aristarchus of Thessalonica",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-aristophanes",
+      "name": "Aristophanes",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-arma_christi",
+      "name": "Arma Christi",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-armageddon",
+      "name": "Armageddon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-armenian_language",
+      "name": "Armenian language",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-arrest_of_jesus",
+      "name": "Arrest of Jesus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-artemas_(saint)",
+      "name": "Artemas (saint)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-arthur_võõbus",
+      "name": "Arthur Võõbus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-articles_of_faith_(latter_day_saints)",
+      "name": "Articles of Faith (Latter Day Saints)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ascension_of_jesus",
+      "name": "Ascension of Jesus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-asher",
+      "name": "Asher",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ashgate_publishing",
+      "name": "Ashgate Publishing",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-association_for_mormon_letters",
+      "name": "Association for Mormon Letters",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-athanasius",
+      "name": "Athanasius",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-athanasius_of_alexandria",
+      "name": "Athanasius of Alexandria",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-atonement",
+      "name": "Atonement",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-atonement_in_christianity",
+      "name": "Atonement in Christianity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-atthakatha",
+      "name": "Atthakatha",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-augsburg_confession",
+      "name": "Augsburg Confession",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-augustine_of_hippo",
+      "name": "Augustine of Hippo",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-augustinian_hypothesis",
+      "name": "Augustinian hypothesis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-augustus",
+      "name": "Augustus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-authorized_king_james_version",
+      "name": "Authorized King James Version",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-authorship_of_luke–acts",
+      "name": "Authorship of Luke–Acts",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-authorship_of_the_bible",
+      "name": "Authorship of the Bible",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-authorship_of_the_epistle_to_the_hebrews",
+      "name": "Authorship of the Epistle to the Hebrews",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-authorship_of_the_johannine_works",
+      "name": "Authorship of the Johannine works",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-authorship_of_the_new_testament",
+      "name": "Authorship of the New Testament",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-authorship_of_the_pauline_epistles",
+      "name": "Authorship of the Pauline epistles",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-authorship_of_the_petrine_epistles",
+      "name": "Authorship of the Petrine epistles",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-auto-da-fé",
+      "name": "Auto-da-fé",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-avesta",
+      "name": "Avesta",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-babylon",
+      "name": "Babylon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-balaam",
+      "name": "Balaam",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-balak",
+      "name": "Balak",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-baptism",
+      "name": "Baptism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-baptism_of_jesus",
+      "name": "Baptism of Jesus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-baptists",
+      "name": "Baptists",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-barabbas",
+      "name": "Barabbas",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-barahin-e-ahmadiyya",
+      "name": "Barahin-e-Ahmadiyya",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-barnabas",
+      "name": "Barnabas",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-barnabas_lindars",
+      "name": "Barnabas Lindars",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bart_d._ehrman",
+      "name": "Bart D. Ehrman",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bartholomew_the_apostle",
+      "name": "Bartholomew the Apostle",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-beatitudes",
+      "name": "Beatitudes",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bel_and_the_dragon",
+      "name": "Bel and the Dragon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ben_witherington",
+      "name": "Ben Witherington",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-benedictus_(song_of_zechariah)",
+      "name": "Benedictus (Song of Zechariah)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-benjamin",
+      "name": "Benjamin",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-berenice_(daughter_of_herod_agrippa)",
+      "name": "Berenice (daughter of Herod Agrippa)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bernard_jackson_(professor)",
+      "name": "Bernard Jackson (professor)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-beta_israel",
+      "name": "Beta Israel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bethabara",
+      "name": "Bethabara",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bethany",
+      "name": "Bethany",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bethany_(biblical_village)",
+      "name": "Bethany (biblical village)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bethlehem",
+      "name": "Bethlehem",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bethsaida",
+      "name": "Bethsaida",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bhagavad_gita",
+      "name": "Bhagavad Gita",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bible",
+      "name": "Bible",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bible_prophecy",
+      "name": "Bible prophecy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bible_translations",
+      "name": "Bible translations",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bible_translations_into_arabic",
+      "name": "Bible translations into Arabic",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bible_translations_into_armenian",
+      "name": "Bible translations into Armenian",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bible_translations_into_church_slavonic",
+      "name": "Bible translations into Church Slavonic",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bible_translations_into_coptic",
+      "name": "Bible translations into Coptic",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bible_translations_into_english",
+      "name": "Bible translations into English",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bible_translations_into_georgian",
+      "name": "Bible translations into Georgian",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bible_translations_into_nubian",
+      "name": "Bible translations into Nubian",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bible_translations_into_persian",
+      "name": "Bible translations into Persian",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bible_translations_into_sogdian",
+      "name": "Bible translations into Sogdian",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bible_version_debate",
+      "name": "Bible version debate",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-biblia_hebraica_stuttgartensia",
+      "name": "Biblia Hebraica Stuttgartensia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-biblical_magi",
+      "name": "Biblical Magi",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-biblical_and_quranic_narratives",
+      "name": "Biblical and Quranic narratives",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-biblical_apocrypha",
+      "name": "Biblical apocrypha",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-biblical_archaeology",
+      "name": "Biblical archaeology",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-biblical_authority",
+      "name": "Biblical authority",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-biblical_canon",
+      "name": "Biblical canon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-biblical_conspiracy_theory",
+      "name": "Biblical conspiracy theory",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-biblical_criticism",
+      "name": "Biblical criticism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-biblical_hermeneutics",
+      "name": "Biblical hermeneutics",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-biblical_inerrancy",
+      "name": "Biblical inerrancy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-biblical_infallibility",
+      "name": "Biblical infallibility",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-biblical_inspiration",
+      "name": "Biblical inspiration",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-biblical_literalism",
+      "name": "Biblical literalism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-biblical_manuscript",
+      "name": "Biblical manuscript",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-biblical_narratives_in_the_quran",
+      "name": "Biblical narratives in the Quran",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-biblical_paraphrase",
+      "name": "Biblical paraphrase",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-biblical_studies",
+      "name": "Biblical studies",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bibliography_of_books_critical_of_mormonism",
+      "name": "Bibliography of books critical of Mormonism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bibliography_of_the_latter_day_saint_movement",
+      "name": "Bibliography of the Latter Day Saint movement",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bishop_of_rome",
+      "name": "Bishop of Rome",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bishops",
+      "name": "Bishops",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-black_people_and_mormonism",
+      "name": "Black people and Mormonism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-black_people_and_early_mormonism",
+      "name": "Black people and early Mormonism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-blastus",
+      "name": "Blastus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-blind_man_of_bethsaida",
+      "name": "Blind man of Bethsaida",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-body_of_christ",
+      "name": "Body of Christ",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bohairic",
+      "name": "Bohairic",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_burning_at_ephesus",
+      "name": "Book burning at Ephesus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_abraham",
+      "name": "Book of Abraham",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_amos",
+      "name": "Book of Amos",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_baruch",
+      "name": "Book of Baruch",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_common_prayer",
+      "name": "Book of Common Prayer",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_daniel",
+      "name": "Book of Daniel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_deuteronomy",
+      "name": "Book of Deuteronomy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_enoch",
+      "name": "Book of Enoch",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_esther",
+      "name": "Book of Esther",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_exodus",
+      "name": "Book of Exodus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_ezekiel",
+      "name": "Book of Ezekiel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_ezra",
+      "name": "Book of Ezra",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_genesis",
+      "name": "Book of Genesis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_glory",
+      "name": "Book of Glory",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_habakkuk",
+      "name": "Book of Habakkuk",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_haggai",
+      "name": "Book of Haggai",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_hosea",
+      "name": "Book of Hosea",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_isaiah",
+      "name": "Book of Isaiah",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_jeremiah",
+      "name": "Book of Jeremiah",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_job",
+      "name": "Book of Job",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_joel",
+      "name": "Book of Joel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_jonah",
+      "name": "Book of Jonah",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_joshua",
+      "name": "Book of Joshua",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_jubilees",
+      "name": "Book of Jubilees",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_judges",
+      "name": "Book of Judges",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_judith",
+      "name": "Book of Judith",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_lamentations",
+      "name": "Book of Lamentations",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_leviticus",
+      "name": "Book of Leviticus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_life",
+      "name": "Book of Life",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_malachi",
+      "name": "Book of Malachi",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_micah",
+      "name": "Book of Micah",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_mormon",
+      "name": "Book of Mormon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_mormon:_another_testament_of_jesus_christ",
+      "name": "Book of Mormon: Another Testament of Jesus Christ",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_moses",
+      "name": "Book of Moses",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_nahum",
+      "name": "Book of Nahum",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_nehemiah",
+      "name": "Book of Nehemiah",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_numbers",
+      "name": "Book of Numbers",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_obadiah",
+      "name": "Book of Obadiah",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_odes_(bible)",
+      "name": "Book of Odes (Bible)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_proverbs",
+      "name": "Book of Proverbs",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_revelation",
+      "name": "Book of Revelation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_ruth",
+      "name": "Book of Ruth",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_shadows",
+      "name": "Book of Shadows",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_signs",
+      "name": "Book of Signs",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_sirach",
+      "name": "Book of Sirach",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_tobit",
+      "name": "Book of Tobit",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_wisdom",
+      "name": "Book of Wisdom",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_zechariah",
+      "name": "Book of Zechariah",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_zephaniah",
+      "name": "Book of Zephaniah",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-book_of_the_law_of_the_lord",
+      "name": "Book of the Law of the Lord",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-books_of_chronicles",
+      "name": "Books of Chronicles",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-books_of_kings",
+      "name": "Books of Kings",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-books_of_samuel",
+      "name": "Books of Samuel",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-born_again",
+      "name": "Born again",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bread_of_life_discourse",
+      "name": "Bread of Life Discourse",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-brest_bible",
+      "name": "Brest Bible",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-brigham_young",
+      "name": "Brigham Young",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-brothers_of_jesus",
+      "name": "Brothers of Jesus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bruce_m._metzger",
+      "name": "Bruce M. Metzger",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bruce_metzger",
+      "name": "Bruce Metzger",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-burial_of_jesus",
+      "name": "Burial of Jesus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-burton_l._mack",
+      "name": "Burton L. Mack",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-byzantine",
+      "name": "Byzantine",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-caiaphas",
+      "name": "Caiaphas",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-calling_of_matthew",
+      "name": "Calling of Matthew",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-calming_the_storm",
+      "name": "Calming the storm",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-calvinism",
+      "name": "Calvinism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cana",
+      "name": "Cana",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-canon_law",
+      "name": "Canon law",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-canon_of_trent",
+      "name": "Canon of Trent",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-canon_of_the_new_testament",
+      "name": "Canon of the New Testament",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-canonical_gospels",
+      "name": "Canonical Gospels",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-canonical_criticism",
+      "name": "Canonical criticism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-canonical_gospels",
+      "name": "Canonical gospels",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-capernaum",
+      "name": "Capernaum",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-capital_punishment_in_the_bible",
+      "name": "Capital punishment in the Bible",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-carpus_of_beroea",
+      "name": "Carpus of Beroea",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-catalogue_of_vices_and_virtues",
+      "name": "Catalogue of Vices and Virtues",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-catechesis",
+      "name": "Catechesis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-catechism",
+      "name": "Catechism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-catechism_of_the_catholic_church",
+      "name": "Catechism of the Catholic Church",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-categories_of_new_testament_manuscripts",
+      "name": "Categories of New Testament manuscripts",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-catholic_apostolic_church",
+      "name": "Catholic Apostolic Church",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-catholic_bible",
+      "name": "Catholic Bible",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-catholic_church",
+      "name": "Catholic Church",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-catholic_church_and_the_age_of_discovery",
+      "name": "Catholic Church and the Age of Discovery",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-catholic_encyclopedia",
+      "name": "Catholic Encyclopedia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-catholic_epistles",
+      "name": "Catholic Epistles",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-catholic_epistles",
+      "name": "Catholic epistles",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-catholic_liturgy",
+      "name": "Catholic liturgy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-celidonius",
+      "name": "Celidonius",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-census_of_quirinius",
+      "name": "Census of Quirinius",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-centennial_park_group",
+      "name": "Centennial Park group",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chant",
+      "name": "Chant",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chapters_and_verses_of_the_bible",
+      "name": "Chapters and verses of the Bible",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-charismatic_christianity",
+      "name": "Charismatic Christianity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-charismatic_movement",
+      "name": "Charismatic movement",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-charles_bigg",
+      "name": "Charles Bigg",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-charta_oecumenica",
+      "name": "Charta Oecumenica",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chicago_statement_on_biblical_inerrancy",
+      "name": "Chicago Statement on Biblical Inerrancy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chinese_buddhist_canon",
+      "name": "Chinese Buddhist canon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-choir",
+      "name": "Choir",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christ",
+      "name": "Christ",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christ's_death",
+      "name": "Christ's death",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christ_(title)",
+      "name": "Christ (title)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christ_child",
+      "name": "Christ Child",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christ_myth_theory",
+      "name": "Christ myth theory",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christadelphians",
+      "name": "Christadelphians",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christendom",
+      "name": "Christendom",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_bible",
+      "name": "Christian Bible",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_church",
+      "name": "Christian Church",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_flag",
+      "name": "Christian Flag",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_anarchism",
+      "name": "Christian anarchism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_apologetics",
+      "name": "Christian apologetics",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_art",
+      "name": "Christian art",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_biblical_canon",
+      "name": "Christian biblical canon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_biblical_canons",
+      "name": "Christian biblical canons",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_cross",
+      "name": "Christian cross",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_culture",
+      "name": "Christian culture",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_democracy",
+      "name": "Christian democracy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_demonology",
+      "name": "Christian demonology",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_denomination",
+      "name": "Christian denomination",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_ethics",
+      "name": "Christian ethics",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_existentialism",
+      "name": "Christian existentialism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_fellowships_of_\"the_remnants\"_movement",
+      "name": "Christian fellowships of \"the Remnants\" movement",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_fundamentalism",
+      "name": "Christian fundamentalism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_humanism",
+      "name": "Christian humanism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_influences_on_the_islamic_world",
+      "name": "Christian influences on the Islamic world",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_left",
+      "name": "Christian left",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_literature",
+      "name": "Christian literature",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_liturgy",
+      "name": "Christian liturgy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_martyr",
+      "name": "Christian martyr",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_mission",
+      "name": "Christian mission",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_monasticism",
+      "name": "Christian monasticism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_music",
+      "name": "Christian music",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_mysticism",
+      "name": "Christian mysticism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_mythology",
+      "name": "Christian mythology",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_pacifism",
+      "name": "Christian pacifism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_philosophy",
+      "name": "Christian philosophy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_pilgrimage",
+      "name": "Christian pilgrimage",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_prayer",
+      "name": "Christian prayer",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_right",
+      "name": "Christian right",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_supremacy",
+      "name": "Christian supremacy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_symbolism",
+      "name": "Christian symbolism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_terrorism",
+      "name": "Christian terrorism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_theology",
+      "name": "Christian theology",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_tradition",
+      "name": "Christian tradition",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_universalism",
+      "name": "Christian universalism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_values",
+      "name": "Christian values",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_views_on_alcohol",
+      "name": "Christian views on alcohol",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_views_on_environmentalism",
+      "name": "Christian views on environmentalism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_views_on_marriage",
+      "name": "Christian views on marriage",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_views_on_poverty_and_wealth",
+      "name": "Christian views on poverty and wealth",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_views_on_sin",
+      "name": "Christian views on sin",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_views_on_the_old_covenant",
+      "name": "Christian views on the Old Covenant",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_worldview",
+      "name": "Christian worldview",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christian_worship",
+      "name": "Christian worship",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christianity",
+      "name": "Christianity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christianity_and_islam",
+      "name": "Christianity and Islam",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christianity_and_homosexuality",
+      "name": "Christianity and homosexuality",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christianity_and_other_religions",
+      "name": "Christianity and other religions",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christianity_and_politics",
+      "name": "Christianity and politics",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christianity_and_science",
+      "name": "Christianity and science",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christianity_and_violence",
+      "name": "Christianity and violence",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christianity_as_the_roman_state_religion",
+      "name": "Christianity as the Roman state religion",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christianity_by_country",
+      "name": "Christianity by country",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christianity_in_late_antiquity",
+      "name": "Christianity in late antiquity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christianity_in_the_1st_century",
+      "name": "Christianity in the 1st century",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christianity_in_the_2nd_century",
+      "name": "Christianity in the 2nd century",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christianity_in_the_3rd_century",
+      "name": "Christianity in the 3rd century",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christianity_in_the_4th_century",
+      "name": "Christianity in the 4th century",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christianity_in_the_5th_century",
+      "name": "Christianity in the 5th century",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christianity_in_the_middle_ages",
+      "name": "Christianity in the Middle Ages",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christianity_in_the_ante-nicene_period",
+      "name": "Christianity in the ante-Nicene period",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christianity_in_the_modern_era",
+      "name": "Christianity in the modern era",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christianization",
+      "name": "Christianization",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christians",
+      "name": "Christians",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christmas",
+      "name": "Christmas",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-christology",
+      "name": "Christology",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chronology_of_jesus",
+      "name": "Chronology of Jesus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-chronology_of_the_bible",
+      "name": "Chronology of the Bible",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-church_(building)",
+      "name": "Church (building)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-church_(congregation)",
+      "name": "Church (congregation)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-church_fathers",
+      "name": "Church Fathers",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-church_architecture",
+      "name": "Church architecture",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-church_council",
+      "name": "Church council",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-church_discipline",
+      "name": "Church discipline",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-church_of_christ_(fettingite)",
+      "name": "Church of Christ (Fettingite)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-church_of_christ_(latter_day_saints)",
+      "name": "Church of Christ (Latter Day Saints)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-church_of_christ_(temple_lot)",
+      "name": "Church of Christ (Temple Lot)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-church_of_constantinople",
+      "name": "Church of Constantinople",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-church_of_england",
+      "name": "Church of England",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-church_of_jesus_christ_of_latter_day_saints_(strangite)",
+      "name": "Church of Jesus Christ of Latter Day Saints (Strangite)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-church_of_the_east",
+      "name": "Church of the East",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-church_of_the_holy_sepulchre",
+      "name": "Church of the Holy Sepulchre",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-church_of_the_nativity",
+      "name": "Church of the Nativity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-circumcision_of_jesus",
+      "name": "Circumcision of Jesus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-civil_rights_and_mormonism",
+      "name": "Civil rights and Mormonism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-classical_antiquity",
+      "name": "Classical antiquity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-classics",
+      "name": "Classics",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-claudius_lysias",
+      "name": "Claudius Lysias",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-clement_of_alexandria",
+      "name": "Clement of Alexandria",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cleopas",
+      "name": "Cleopas",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-clopas",
+      "name": "Clopas",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-codex_alexandrinus",
+      "name": "Codex Alexandrinus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-codex_bezae",
+      "name": "Codex Bezae",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-codex_claromontanus",
+      "name": "Codex Claromontanus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-codex_hierosolymitanus",
+      "name": "Codex Hierosolymitanus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-codex_laudianus",
+      "name": "Codex Laudianus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-codex_mutinensis",
+      "name": "Codex Mutinensis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-codex_nitriensis",
+      "name": "Codex Nitriensis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-codex_regius_(new_testament)",
+      "name": "Codex Regius (New Testament)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-codex_sinaiticus",
+      "name": "Codex Sinaiticus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-codex_vaticanus",
+      "name": "Codex Vaticanus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-codex_vaticanus_graecus_1209",
+      "name": "Codex Vaticanus Graecus 1209",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-codex_washingtonianus",
+      "name": "Codex Washingtonianus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-colin_henderson_roberts",
+      "name": "Colin Henderson Roberts",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-comma_johanneum",
+      "name": "Comma Johanneum",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-commissioning_of_the_twelve_apostles",
+      "name": "Commissioning of the Twelve Apostles",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-community_of_christ",
+      "name": "Community of Christ",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-composition_of_the_torah",
+      "name": "Composition of the Torah",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-confirmation",
+      "name": "Confirmation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-confirmation_(latter_day_saints)",
+      "name": "Confirmation (Latter Day Saints)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-constans",
+      "name": "Constans",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-constantin_von_tischendorf",
+      "name": "Constantin von Tischendorf",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-constantine_i_and_christianity",
+      "name": "Constantine I and Christianity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-constantine_the_great",
+      "name": "Constantine the Great",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-constantine_the_great_and_christianity",
+      "name": "Constantine the Great and Christianity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-contemporary_christian_music",
+      "name": "Contemporary Christian music",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-conversion_of_paul_the_apostle",
+      "name": "Conversion of Paul the Apostle",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-coptic_language",
+      "name": "Coptic language",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cornelius_the_centurion",
+      "name": "Cornelius the Centurion",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cosmic_christ",
+      "name": "Cosmic Christ",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-council_of_carthage_(397)",
+      "name": "Council of Carthage (397)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-council_of_carthage_(419)",
+      "name": "Council of Carthage (419)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-council_of_chalcedon",
+      "name": "Council of Chalcedon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-council_of_jerusalem",
+      "name": "Council of Jerusalem",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-council_of_rome",
+      "name": "Council of Rome",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-council_of_trent",
+      "name": "Council of Trent",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-counter-reformation",
+      "name": "Counter-Reformation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-counting_the_cost",
+      "name": "Counting the cost",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-covenant_(biblical)",
+      "name": "Covenant (biblical)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-craig_a._evans",
+      "name": "Craig A. Evans",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-craig_keener",
+      "name": "Craig Keener",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-crawford_aramaic_new_testament_manuscript",
+      "name": "Crawford Aramaic New Testament manuscript",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-creator_god",
+      "name": "Creator God",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-creed",
+      "name": "Creed",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-crescens",
+      "name": "Crescens",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-crime_and_punishment_in_the_torah",
+      "name": "Crime and punishment in the Torah",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-criticism_of_christianity",
+      "name": "Criticism of Christianity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-criticism_of_jesus",
+      "name": "Criticism of Jesus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-criticism_of_mormon_sacred_texts",
+      "name": "Criticism of Mormon sacred texts",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-criticism_of_the_bible",
+      "name": "Criticism of the Bible",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-criticism_of_the_book_of_abraham",
+      "name": "Criticism of the Book of Abraham",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-criticism_of_the_book_of_mormon",
+      "name": "Criticism of the Book of Mormon",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-criticism_of_the_church_of_jesus_christ_of_latter-day_saints",
+      "name": "Criticism of the Church of Jesus Christ of Latter-day Saints",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-crucifix",
+      "name": "Crucifix",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-crucifixion_in_the_arts",
+      "name": "Crucifixion in the arts",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-crucifixion_of_jesus",
+      "name": "Crucifixion of Jesus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-crusades",
+      "name": "Crusades",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-crusading_movement",
+      "name": "Crusading movement",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cultural_christians",
+      "name": "Cultural Christians",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cultural_and_historical_background_of_jesus",
+      "name": "Cultural and historical background of Jesus",
+      "relevance": 0,
+      "tags": []
+    }
+  ]
+}

@@ -1,0 +1,1167 @@
+{
+  "id": "4788",
+  "name": "Body mass index",
+  "description": "Body mass index (BMI) is a value derived from the mass (weight) and height of a person. The BMI is defined as the body mass divided by the square of the body height, and is expressed in units of kg/m2, resulting from mass in kilograms (kg) and height in metres (m).\nThe BMI may be determined first by measuring its components by means of a weighing scale and a stadiometer. The multiplication and division may be carried out directly, by hand or using a calculator, or indirectly using a lookup table (or chart). The table displays BMI as a function of mass and height and may show other units of measurement (converted to metric units for the calculation). The table may also show contour lines or colours for different BMI categories.\nThe BMI is a convenient rule of thumb used to broadly categorize a person as based on tissue mass (muscle, fat, and bone) and height. Major adult BMI classifications are underweight (under 18.5 kg/m2), normal weight (18.5 to 24.9), overweight (25 to 29.9), and obese (30 or more). When used to predict an individual's health, rather than as a statistical measurement for groups, the BMI has limitations that can make it less useful than some of the alternatives, especially when applied to individuals with abdominal obesity, short stature, or high muscle mass.\nBMIs under 20 and over 25 have been associated with higher all-cause mortality, with the risk increasing with distance from the 20–25 range.",
+  "descImg": "https://upload.wikimedia.org/wikipedia/commons/c/cc/BMI_chart.png",
+  "audio": null,
+  "links": [
+    {
+      "id": "l-abdominal_obesity",
+      "name": "Abdominal obesity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-active_mobility",
+      "name": "Active mobility",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-adipose_tissue",
+      "name": "Adipose tissue",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-adolphe_quetelet",
+      "name": "Adolphe Quetelet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-allometry",
+      "name": "Allometry",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ancel_keys",
+      "name": "Ancel Keys",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anorexia",
+      "name": "Anorexia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anorexia_nervosa",
+      "name": "Anorexia nervosa",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-anti-obesity_medication",
+      "name": "Anti-obesity medication",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-arteriosclerosis",
+      "name": "Arteriosclerosis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-asker_jeukendrup",
+      "name": "Asker Jeukendrup",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-astronomer",
+      "name": "Astronomer",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-atherosclerosis",
+      "name": "Atherosclerosis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bariatric_surgery",
+      "name": "Bariatric surgery",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bariatrics",
+      "name": "Bariatrics",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bibcode_(identifier)",
+      "name": "Bibcode (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-binge_eating_disorder",
+      "name": "Binge eating disorder",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-black_british_people",
+      "name": "Black British people",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-body_shape_index",
+      "name": "Body Shape Index",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-body_adiposity_index",
+      "name": "Body adiposity index",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-body_composition",
+      "name": "Body composition",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-body_fat",
+      "name": "Body fat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-body_fat_percentage",
+      "name": "Body fat percentage",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-body_roundness_index",
+      "name": "Body roundness index",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-body_shape",
+      "name": "Body shape",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-body_surface_area",
+      "name": "Body surface area",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-body_water",
+      "name": "Body water",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bodybuilding",
+      "name": "Bodybuilding",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bone",
+      "name": "Bone",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-breast_cancer",
+      "name": "Breast cancer",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-british_african-caribbean_people",
+      "name": "British African-Caribbean people",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-british_bangladeshis",
+      "name": "British Bangladeshis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-british_chinese",
+      "name": "British Chinese",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bulimia",
+      "name": "Bulimia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-caloric_deficit",
+      "name": "Caloric deficit",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-cardiovascular_disease",
+      "name": "Cardiovascular disease",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-carl_lavie",
+      "name": "Carl Lavie",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-centers_for_disease_control_and_prevention",
+      "name": "Centers for Disease Control and Prevention",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-childhood_obesity",
+      "name": "Childhood obesity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-classification_of_obesity",
+      "name": "Classification of obesity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-colon_cancer",
+      "name": "Colon cancer",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-comfort_food",
+      "name": "Comfort food",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-coronary_artery_disease",
+      "name": "Coronary artery disease",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-corpulence_index",
+      "name": "Corpulence index",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-criticism_of_fast_food",
+      "name": "Criticism of fast food",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-diabetes",
+      "name": "Diabetes",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-diabetes_mellitus",
+      "name": "Diabetes mellitus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-diabetes_mellitus_type_2",
+      "name": "Diabetes mellitus type 2",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-diet_(nutrition)",
+      "name": "Diet (nutrition)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dieting",
+      "name": "Dieting",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dimensionless_number",
+      "name": "Dimensionless number",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-doi_(identifier)",
+      "name": "Doi (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-dyslipidemia",
+      "name": "Dyslipidemia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eating_disorder",
+      "name": "Eating disorder",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-endometrial_cancer",
+      "name": "Endometrial cancer",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-epidemiology_of_childhood_obesity",
+      "name": "Epidemiology of childhood obesity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-epidemiology_of_metabolic_syndrome",
+      "name": "Epidemiology of metabolic syndrome",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-epidemiology_of_obesity",
+      "name": "Epidemiology of obesity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-eugenics",
+      "name": "Eugenics",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-exercise",
+      "name": "Exercise",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-exercise_paradox",
+      "name": "Exercise paradox",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-familial_amyloid_polyneuropathy",
+      "name": "Familial amyloid polyneuropathy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fast_food",
+      "name": "Fast food",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fat",
+      "name": "Fat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fat_acceptance_movement",
+      "name": "Fat acceptance movement",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fat_fetishism",
+      "name": "Fat fetishism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-fatty_liver_disease",
+      "name": "Fatty liver disease",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-food_addiction",
+      "name": "Food addiction",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-francis_galton",
+      "name": "Francis Galton",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gallbladder_disease",
+      "name": "Gallbladder disease",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gamma-glutamyl_transpeptidase",
+      "name": "Gamma-glutamyl transpeptidase",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gastroesophageal_reflux_disease",
+      "name": "Gastroesophageal reflux disease",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gendarmerie",
+      "name": "Gendarmerie",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-genetics_of_obesity",
+      "name": "Genetics of obesity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gestational_weight_gain",
+      "name": "Gestational weight gain",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-gynecomastia",
+      "name": "Gynecomastia",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hdl_(identifier)",
+      "name": "Hdl (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-health_promotion_board",
+      "name": "Health Promotion Board",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-health_at_every_size",
+      "name": "Health at Every Size",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-heart_disease",
+      "name": "Heart disease",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-height",
+      "name": "Height",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-history_of_anthropometry",
+      "name": "History of anthropometry",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hong_kong",
+      "name": "Hong Kong",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hospital_authority",
+      "name": "Hospital Authority",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-human_body_weight",
+      "name": "Human body weight",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-human_height",
+      "name": "Human height",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-human_serum_albumin",
+      "name": "Human serum albumin",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hunger",
+      "name": "Hunger",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hypertension",
+      "name": "Hypertension",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hyperthyroidism",
+      "name": "Hyperthyroidism",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-isbn_(identifier)",
+      "name": "ISBN (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-issn_(identifier)",
+      "name": "ISSN (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-inch",
+      "name": "Inch",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-infertility",
+      "name": "Infertility",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-jstor_(identifier)",
+      "name": "JSTOR (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-journal_of_chronic_diseases",
+      "name": "Journal of Chronic Diseases",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-journal_of_the_american_medical_association",
+      "name": "Journal of the American Medical Association",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-kilogram",
+      "name": "Kilogram",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-loinc",
+      "name": "LOINC",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lean_body_mass",
+      "name": "Lean body mass",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lipomatosis",
+      "name": "Lipomatosis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-liposuction",
+      "name": "Liposuction",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-list_of_countries_by_body_mass_index",
+      "name": "List of countries by body mass index",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-list_of_diets",
+      "name": "List of diets",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-lookup_table",
+      "name": "Lookup table",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-malnutrition",
+      "name": "Malnutrition",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-management_of_obesity",
+      "name": "Management of obesity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mass",
+      "name": "Mass",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mass_versus_weight",
+      "name": "Mass versus weight",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-medical_subject_headings",
+      "name": "Medical Subject Headings",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-medlineplus",
+      "name": "MedlinePlus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-metabolic_syndrome",
+      "name": "Metabolic syndrome",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-metabolically_healthy_obesity",
+      "name": "Metabolically healthy obesity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-metre",
+      "name": "Metre",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-metric_system",
+      "name": "Metric system",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-muscle",
+      "name": "Muscle",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-national_center_for_health_statistics",
+      "name": "National Center for Health Statistics",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-national_health_service",
+      "name": "National Health Service",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-national_health_and_nutrition_examination_survey",
+      "name": "National Health and Nutrition Examination Survey",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-national_heart,_lung,_and_blood_institute",
+      "name": "National Heart, Lung, and Blood Institute",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-national_institute_for_health_and_care_excellence",
+      "name": "National Institute for Health and Care Excellence",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-national_institutes_of_health",
+      "name": "National Institutes of Health",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-nick_trefethen",
+      "name": "Nick Trefethen",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-normal_weight_obesity",
+      "name": "Normal weight obesity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-oclc_(identifier)",
+      "name": "OCLC (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-obese",
+      "name": "Obese",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-obesity",
+      "name": "Obesity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-obesity-associated_morbidity",
+      "name": "Obesity-associated morbidity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-obesity_and_cancer",
+      "name": "Obesity and cancer",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-obesity_and_sexuality",
+      "name": "Obesity and sexuality",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-obesity_and_the_environment",
+      "name": "Obesity and the environment",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-obesity_medicine",
+      "name": "Obesity medicine",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-obesity_paradox",
+      "name": "Obesity paradox",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-osteoarthritis",
+      "name": "Osteoarthritis",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-outline_of_exercise",
+      "name": "Outline of exercise",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-overnutrition",
+      "name": "Overnutrition",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-overweight",
+      "name": "Overweight",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pcos",
+      "name": "PCOS",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pmc_(identifier)",
+      "name": "PMC (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pmid_(identifier)",
+      "name": "PMID (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-percentile",
+      "name": "Percentile",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ponderal_index",
+      "name": "Ponderal index",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-pound_(mass)",
+      "name": "Pound (mass)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-prediabetes",
+      "name": "Prediabetes",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-red-s",
+      "name": "RED-S",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-recommended_dietary_allowance",
+      "name": "Recommended Dietary Allowance",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-relative_fat_mass",
+      "name": "Relative Fat Mass",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-rule_of_thumb",
+      "name": "Rule of thumb",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-s2cid_(identifier)",
+      "name": "S2CID (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-satiety_value",
+      "name": "Satiety value",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-sedentary_lifestyle",
+      "name": "Sedentary lifestyle",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-sensitivity_and_specificity",
+      "name": "Sensitivity and specificity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-set_point_theory",
+      "name": "Set point theory",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-short_stature",
+      "name": "Short stature",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-slate_(magazine)",
+      "name": "Slate (magazine)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-sleep_apnea",
+      "name": "Sleep apnea",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-social_determinants_of_obesity",
+      "name": "Social determinants of obesity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-social_stigma_of_obesity",
+      "name": "Social stigma of obesity",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-sociologist",
+      "name": "Sociologist",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-somatotype_and_constitutional_psychology",
+      "name": "Somatotype and constitutional psychology",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-south_asians_in_the_united_kingdom",
+      "name": "South Asians in the United Kingdom",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-square_(algebra)",
+      "name": "Square (algebra)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-stadiometer",
+      "name": "Stadiometer",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-starvation",
+      "name": "Starvation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-starvation_response",
+      "name": "Starvation response",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-statistician",
+      "name": "Statistician",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-stone_(unit)",
+      "name": "Stone (unit)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-stroke",
+      "name": "Stroke",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-synonym",
+      "name": "Synonym",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-the_lancet",
+      "name": "The Lancet",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-the_new_york_times",
+      "name": "The New York Times",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-time_(magazine)",
+      "name": "Time (magazine)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-type_1_diabetes",
+      "name": "Type 1 diabetes",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-type_2_diabetes",
+      "name": "Type 2 diabetes",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-type_2_diabetes_mellitus",
+      "name": "Type 2 diabetes mellitus",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-underweight",
+      "name": "Underweight",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-units_of_measurement",
+      "name": "Units of measurement",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-university_of_oxford",
+      "name": "University of Oxford",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-visceral_fat",
+      "name": "Visceral fat",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-waist-to-height_ratio",
+      "name": "Waist-to-height ratio",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-waist-to-hip_ratio",
+      "name": "Waist-to-hip ratio",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-waist–hip_ratio",
+      "name": "Waist–hip ratio",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-weighing_scale",
+      "name": "Weighing scale",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-weight_class",
+      "name": "Weight class",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-weight_cutting",
+      "name": "Weight cutting",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-weight_gain",
+      "name": "Weight gain",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-weight_loss",
+      "name": "Weight loss",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-weight_loss_camp",
+      "name": "Weight loss camp",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-weight_loss_coaching",
+      "name": "Weight loss coaching",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-weight_management",
+      "name": "Weight management",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-western_world",
+      "name": "Western world",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-world_health_organization",
+      "name": "World Health Organization",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-yo-yo_effect",
+      "name": "Yo-yo effect",
+      "relevance": 0,
+      "tags": []
+    }
+  ]
+}

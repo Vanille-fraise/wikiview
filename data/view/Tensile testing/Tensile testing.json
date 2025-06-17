@@ -1,0 +1,303 @@
+{
+  "id": "28863594",
+  "name": "Tensile testing",
+  "description": "Tensile testing, also known as tension testing, is a fundamental materials science and engineering test in which a sample is subjected to a controlled tension until failure.  Properties that are directly measured via a tensile test are ultimate tensile strength, breaking strength, maximum elongation and reduction in area. From these measurements the following properties can also be determined: Young's modulus, Poisson's ratio, yield strength, and strain-hardening characteristics. Uniaxial tensile testing is the most commonly used for obtaining the mechanical characteristics of isotropic materials. Some materials use biaxial tensile testing. The main difference between these testing machines being how load is applied on the materials.",
+  "descImg": "https://upload.wikimedia.org/wikipedia/commons/2/22/Tensile_testing_on_a_coir_composite.jpg",
+  "audio": null,
+  "links": [
+    {
+      "id": "l-astm",
+      "name": "ASTM",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bar_stock",
+      "name": "Bar stock",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-bending",
+      "name": "Bending",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-biaxial_tensile_testing",
+      "name": "Biaxial tensile testing",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-breaking_strength",
+      "name": "Breaking strength",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-brittle",
+      "name": "Brittle",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-casting_(metalworking)",
+      "name": "Casting (metalworking)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-contract",
+      "name": "Contract",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-creep_(deformation)",
+      "name": "Creep (deformation)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-data",
+      "name": "Data",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-deformation_(engineering)",
+      "name": "Deformation (engineering)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-doi_(identifier)",
+      "name": "Doi (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-electromechanics",
+      "name": "Electromechanics",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-elongation_(materials_science)",
+      "name": "Elongation (materials science)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-engineering",
+      "name": "Engineering",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-evidence",
+      "name": "Evidence",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-extensometer",
+      "name": "Extensometer",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-force",
+      "name": "Force",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-forging",
+      "name": "Forging",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hdl_(identifier)",
+      "name": "Hdl (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-hydraulic_machinery",
+      "name": "Hydraulic machinery",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-isbn_(identifier)",
+      "name": "ISBN (identifier)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-international_organization_for_standardization",
+      "name": "International Organization for Standardization",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-isotropy",
+      "name": "Isotropy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-japanese_industrial_standards",
+      "name": "Japanese Industrial Standards",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-mpif",
+      "name": "MPIF",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-machining",
+      "name": "Machining",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-materials_science",
+      "name": "Materials science",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-new_product_development",
+      "name": "New product development",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-patent",
+      "name": "Patent",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-poisson's_ratio",
+      "name": "Poisson's ratio",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-precision_and_accuracy",
+      "name": "Precision and accuracy",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-proquest",
+      "name": "ProQuest",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-proof_of_concept",
+      "name": "Proof of concept",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-quality_assurance",
+      "name": "Quality assurance",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-regulation",
+      "name": "Regulation",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-specification",
+      "name": "Specification",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-strain-hardening",
+      "name": "Strain-hardening",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-strain_gauge",
+      "name": "Strain gauge",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-stress–strain_curve",
+      "name": "Stress–strain curve",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-technical_communication",
+      "name": "Technical communication",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-technical_standard",
+      "name": "Technical standard",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-tension_(physics)",
+      "name": "Tension (physics)",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-test_method",
+      "name": "Test method",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-u-joint",
+      "name": "U-joint",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-ultimate_tensile_strength",
+      "name": "Ultimate tensile strength",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-universal_testing_machine",
+      "name": "Universal testing machine",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-yield_strength",
+      "name": "Yield strength",
+      "relevance": 0,
+      "tags": []
+    },
+    {
+      "id": "l-young's_modulus",
+      "name": "Young's modulus",
+      "relevance": 0,
+      "tags": []
+    }
+  ]
+}

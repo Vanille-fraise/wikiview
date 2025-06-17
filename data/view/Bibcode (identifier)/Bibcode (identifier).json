@@ -1,0 +1,15 @@
+{
+  "id": "63434951",
+  "name": "Bibcode (identifier)",
+  "description": "",
+  "descImg": "",
+  "audio": null,
+  "links": [
+    {
+      "id": "l-bibcode",
+      "name": "Bibcode",
+      "relevance": 0,
+      "tags": []
+    }
+  ]
+}
