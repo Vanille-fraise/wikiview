@@ -22,9 +22,7 @@ export function fromView(view: View, activeFilters: string[]): GraphInfo {
     position: { x: 0, y: 0 },
     type: "centerNode",
     data: {
-      image: view.descImg,
-      title: view.pageName,
-      description: view.summary,
+      view,
     },
   };
   nodes.push(mainNode);

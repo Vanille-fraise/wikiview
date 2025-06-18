@@ -1,4 +1,5 @@
 import Color from "color";
+import { SUMMARY_LENGTH } from "./variables";
 
 export function shuffle<T>(array: T[]): T[] {
   const result = [...array];
@@ -27,4 +28,16 @@ export function sanitized(input: string): string {
     .replace(/[^a-zA-Z0-9_]/g, "");
   const lowercased = alphanumericAndUnderscoreOnly.toLowerCase();
   return lowercased;
+}
+
+export function cleanSummary(summary: string): string {
+  const words = summary
+    ? summary.split(/\s+/).filter((word) => word.length > 0)
+    : [];
+  const res =
+    words.length <= SUMMARY_LENGTH
+      ? summary
+      : summary.trim().split(/\s+/).slice(0, SUMMARY_LENGTH).join(" ") +
+        " [...]";
+  return res;
 }

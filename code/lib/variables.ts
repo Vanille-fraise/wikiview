@@ -8,3 +8,5 @@ export const CENTER_NODE_WIDTH = 500;
 export const CENTER_NODE_HEIGHT = 200;
 
 export const CENTER_NODE_Y_OFFSET = -30;
+
+export const SUMMARY_LENGTH = 36;

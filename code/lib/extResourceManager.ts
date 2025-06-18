@@ -1,4 +1,10 @@
-import { GoogleGenAI, EmbedContentResponse, Type } from "@google/genai";
+import {
+  GoogleGenAI,
+  EmbedContentResponse,
+  Type,
+  GenerateContentParameters,
+  GenerateContentConfig,
+} from "@google/genai";
 
 export const EMBEDDINGS_DIMENSIONS = 768;
 
@@ -25,6 +31,7 @@ const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const GEMINI_EMBEDDING_MODEL = "text-embedding-004";
 export const GEMINI_EMBEDDING_BATCH_LIMIT = 100;
 const GEMINI_TOPIC_MODEL = "gemini-2.0-flash";
+const GEMINIT_TTS_MODEL = "gemini-2.5-flash-preview-tts";
 
 const ai = new GoogleGenAI({ apiKey: GEMINI_API_KEY });
 
@@ -313,4 +320,26 @@ export async function makeEdgeInfo(
     }
     return null;
   }
+}
+
+export async function generateAudio(
+  text: string
+): Promise<Buffer<ArrayBufferLike> | null> {
+  const response = await ai.models.generateContent({
+    model: GEMINIT_TTS_MODEL,
+    contents: [{ parts: [{ text }] }],
+    config: {
+      responseModalities: ["AUDIO"],
+      speechConfig: {
+        voiceConfig: {
+          prebuiltVoiceConfig: { voiceName: "Kore" },
+        },
+      },
+    },
+  });
+  const data = response.candidates?.[0]?.content?.parts?.[0]?.inlineData?.data;
+  if (data) {
+    return Buffer.from(data, "base64");
+  }
+  return null;
 }
