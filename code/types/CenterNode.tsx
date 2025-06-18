@@ -63,7 +63,7 @@ export default function CenterNode({
         display: "flex",
         alignItems: "center",
         padding: 10,
-        border: "1px solid rgb(130, 121, 163)",
+        border: "1px solid rgb(242, 219, 255)",
         borderRadius: 8,
         maxWidth: 500,
         maxHeight: 200,
@@ -91,7 +91,9 @@ export default function CenterNode({
           marginRight: 12,
           objectFit: "cover",
           backgroundColor:
-            isImgHovered || !data.view.descImg ? "#a9adb0" : "transparent",
+            isImgHovered || !data.view.descImg
+              ? "rgb(242, 219, 255)"
+              : "transparent",
         }}
       />
       <div>
