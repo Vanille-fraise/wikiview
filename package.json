@@ -28,7 +28,7 @@
     "elkjs": "^0.10.0",
     "generative-ai": "^0.1.4",
     "lucide-react": "^0.516.0",
-    "next": "^15.3.3",
+    "next": "15.3.8",
     "pg": "^8.16.0",
     "postgres-array": "^3.0.4",
     "random": "^5.4.0",
