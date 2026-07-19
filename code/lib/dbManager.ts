@@ -1,165 +1,147 @@
-import { Pool } from "pg";
 import { View } from "@/code/types/view";
-import { EMBEDDINGS_DIMENSIONS } from "@/code/lib/extResourceManager";
-import arrayParser from "postgres-array";
+import { randomUUID } from "crypto";
 
-const DEFAULT_PORT = "12187";
+const MAX_LITERAL_BODY = 600000;
 
-const pool = new Pool({
-  user: process.env.POSTGRES_USER,
-  host: process.env.POSTGRES_HOST,
-  database: process.env.POSTGRES_DB,
-  password: process.env.POSTGRES_PASSWORD,
-  port: parseInt(process.env.POSTGRES_PORT || DEFAULT_PORT, 10),
-  ssl: {
-    rejectUnauthorized: false,
-  },
-});
+function getD1Url(): string {
+  return `https://api.cloudflare.com/client/v4/accounts/${process.env.CLOUDFLARE_ACCOUNT_ID}/d1/database/${process.env.CLOUDFLARE_DB_ID}/query`;
+}
+
+interface D1StatementResult {
+  results: Record<string, unknown>[];
+  success: boolean;
+  meta: Record<string, unknown>;
+}
+
+export async function d1Query(sql: string, params?: unknown[]): Promise<D1StatementResult[]> {
+  const body: Record<string, unknown> = { sql };
+  if (params && params.length > 0) body.params = params;
+  const resp = await fetch(getD1Url(), {
+    method: "POST",
+    headers: {
+      Authorization: `Bearer ${process.env.CLOUDFLARE_API_TOKEN}`,
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify(body),
+  });
+  const data = await resp.json();
+  if (!data.success) {
+    throw new Error(`D1 error: ${JSON.stringify(data.errors)}`);
+  }
+  return data.result as D1StatementResult[];
+}
+
+function sqlEscape(val: unknown): string {
+  if (val === null || val === undefined) return "NULL";
+  if (typeof val === "number") return String(val);
+  if (typeof val === "boolean") return val ? "1" : "0";
+  return "'" + String(val).replace(/'/g, "''") + "'";
+}
+
+function buildInsertSQL(table: string, rows: unknown[][]): string {
+  return rows
+    .map((r) => `INSERT OR REPLACE INTO ${table} VALUES (${r.map(sqlEscape).join(", ")});`)
+    .join(" ");
+}
+
+async function d1BatchLiteral(sql: string): Promise<void> {
+  if (sql.length <= MAX_LITERAL_BODY) {
+    await d1Query(sql);
+    return;
+  }
+  const stmts = sql.match(/INSERT[^;]+;/g) || [];
+  let chunk = "";
+  for (const stmt of stmts) {
+    if (chunk.length + stmt.length > MAX_LITERAL_BODY && chunk.length > 0) {
+      await d1Query(chunk);
+      chunk = "";
+    }
+    chunk += stmt + " ";
+  }
+  if (chunk.trim()) await d1Query(chunk);
+}
 
 export async function initDb() {
-  const client = await pool.connect();
-  console.log("Connected to PostgreSQL, initializing DB...");
-
-  try {
-    await client.query("BEGIN");
-    await client.query("CREATE EXTENSION IF NOT EXISTS vector;");
-
-    await client.query(`
-      DO $$ BEGIN
-        CREATE TYPE link_type AS ENUM ('hyper', 'breakDown', 'hybrid');
-      EXCEPTION
-        WHEN duplicate_object THEN null;
-      END $$;
-    `);
-
-    await client.query(`
-      CREATE TABLE IF NOT EXISTS views (
-        id TEXT PRIMARY KEY,
-        pageName TEXT NOT NULL UNIQUE,
-        summary TEXT,
-        descImg TEXT,
-        pageVect vector(${EMBEDDINGS_DIMENSIONS}),
-        audio TEXT
-      );
-    `);
-
-    await client.query(`
-      CREATE INDEX IF NOT EXISTS idx_lower_pagename ON views (lower(pagename));
-    `);
-
-    await client.query(`
-      CREATE TABLE IF NOT EXISTS links (
-        id TEXT PRIMARY KEY,
-        view_id TEXT NOT NULL REFERENCES views(id) ON DELETE CASCADE,
-        pageName TEXT NOT NULL
-      );
-    `);
-
-    await client.query(`
-      CREATE TABLE IF NOT EXISTS breakdowns (
-        id TEXT PRIMARY KEY,
-        view_id TEXT NOT NULL REFERENCES views(id) ON DELETE CASCADE,
-        sentence TEXT NOT NULL,
-        vect vector(${EMBEDDINGS_DIMENSIONS})
-      );
-    `);
-
-    await client.query(`
-      CREATE TABLE IF NOT EXISTS edges (
-        id TEXT PRIMARY KEY DEFAULT gen_random_uuid(), -- Edges don't have an ID in the interface, so we generate one.
-        view_id TEXT NOT NULL REFERENCES views(id) ON DELETE CASCADE,
-        originPageId TEXT NOT NULL,
-        destPageName TEXT NOT NULL,
-        relevance NUMERIC NOT NULL,
-        linkType link_type NOT NULL,
-        tags TEXT[]
-      );
-    `);
-
-    await client.query("COMMIT");
-    console.log("Database initialization complete.");
-  } catch (err) {
-    await client.query("ROLLBACK");
-    console.error("Error during DB initialization, rolling back.", err);
-    throw err;
-  } finally {
-    client.release();
-  }
+  console.log("Initializing D1 database...");
+  await d1Query(`
+    CREATE TABLE IF NOT EXISTS views (
+      id TEXT PRIMARY KEY,
+      pageName TEXT NOT NULL UNIQUE COLLATE NOCASE,
+      summary TEXT,
+      descImg TEXT,
+      pageVect TEXT,
+      audio TEXT
+    );
+    CREATE INDEX IF NOT EXISTS idx_views_pagename_ci ON views(pageName COLLATE NOCASE);
+    CREATE TABLE IF NOT EXISTS links (
+      id TEXT PRIMARY KEY,
+      view_id TEXT NOT NULL,
+      pageName TEXT NOT NULL
+    );
+    CREATE TABLE IF NOT EXISTS breakdowns (
+      id TEXT PRIMARY KEY,
+      view_id TEXT NOT NULL,
+      sentence TEXT NOT NULL,
+      vect TEXT
+    );
+    CREATE TABLE IF NOT EXISTS edges (
+      id TEXT PRIMARY KEY,
+      view_id TEXT NOT NULL,
+      originPageId TEXT NOT NULL,
+      destPageName TEXT NOT NULL,
+      relevance REAL NOT NULL,
+      linkType TEXT NOT NULL CHECK(linkType IN ('hyper','breakDown','hybrid')),
+      tags TEXT
+    );
+  `);
+  console.log("D1 database initialization complete.");
 }
 
-function parsePostgresArray(arrayString: string | null | undefined): string[] {
-  if (!arrayString || arrayString === "{}") {
-    return [];
-  }
-  if (Array.isArray(arrayString)) {
-    return arrayString;
-  } else if (typeof arrayString === "string") {
-    return arrayParser.parse(arrayString);
-  }
-  return [];
-}
-
-/**
- * Fetches a single View object from the database, assembling it from multiple tables.
- * @param pageName The unique pageName of the view to retrieve.
- * @returns The complete View object or null if not found.
- */
-export async function getViewByPageName(
-  pageName: string
-): Promise<View | null> {
-  const client = await pool.connect();
+export async function getViewByPageName(pageName: string): Promise<View | null> {
   try {
-    const viewRes = await client.query(
-      "SELECT id, pagename, summary, descimg, pagevect, audio FROM views WHERE lower(pageName) like lower($1)",
+    const viewRes = await d1Query(
+      "SELECT id, pageName, summary, descImg, pageVect, audio FROM views WHERE pageName = ? COLLATE NOCASE",
       [pageName]
     );
-    if (viewRes.rows.length === 0) {
+    if (!viewRes[0].results || viewRes[0].results.length === 0) {
       return null;
     }
-    const viewData = viewRes.rows[0];
-    const viewId = viewData.id;
+    const v = viewRes[0].results[0] as Record<string, string>;
+    const viewId = v.id as string;
 
-    // Fetch all related items in parallel
-    const [linksRes, breakDownsRes, edgesRes] = await Promise.all([
-      client.query(
-        "SELECT id, pagename AS destPageName FROM links WHERE view_id = $1",
-        [viewId]
-      ),
-      client.query(
-        "SELECT id, sentence, vect FROM breakdowns WHERE view_id = $1",
-        [viewId]
-      ),
-      client.query(
-        "SELECT originpageid, destpagename, relevance, linktype, tags FROM edges WHERE view_id = $1",
-        [viewId]
-      ),
-    ]);
+    const escapedId = sqlEscape(viewId);
+    const childRes = await d1Query(`
+      SELECT id, pageName FROM links WHERE view_id = ${escapedId};
+      SELECT id, sentence, vect FROM breakdowns WHERE view_id = ${escapedId};
+      SELECT originPageId, destPageName, relevance, linkType, tags FROM edges WHERE view_id = ${escapedId};
+    `);
 
-    // Assemble the final View object with runtime parsing
+    const linkRows = childRes[0].results as Record<string, string>[];
+    const bdRows = childRes[1].results as Record<string, string>[];
+    const edgeRows = childRes[2].results as Record<string, unknown>[];
+
     const fullView: View = {
-      id: viewData.id,
-      pageName: viewData.pagename,
-      summary: viewData.summary,
-      descImg: viewData.descimg,
-      // CORRECTED: Parse the vector string into a number array
-      pageVect: JSON.parse(viewData.pagevect || "[]"),
-      audio: viewData.audio,
-      links: linksRes.rows.map((r) => ({
-        id: r.id,
-        destPageName: r.destpagename,
+      id: viewId,
+      pageName: v.pageName as string,
+      summary: v.summary as string,
+      descImg: v.descImg as string,
+      pageVect: JSON.parse((v.pageVect as string) || "[]"),
+      audio: (v.audio as string) || null,
+      links: linkRows.map((r) => ({
+        id: r.id as string,
+        destPageName: r.pageName as string,
       })),
-      breakDowns: breakDownsRes.rows.map((r) => ({
-        id: r.id,
-        sentence: r.sentence,
-        // CORRECTED: Parse the vector string for each breakdown
-        vect: JSON.parse(r.vect || "[]"),
+      breakDowns: bdRows.map((r) => ({
+        id: r.id as string,
+        sentence: r.sentence as string,
+        vect: JSON.parse((r.vect as string) || "[]"),
       })),
-      edges: edgesRes.rows.map((r) => ({
-        originPageId: r.originpageid,
-        destPageName: r.destpagename,
-        relevance: r.relevance,
-        linkType: r.linktype,
-        tags: parsePostgresArray(r.tags),
+      edges: edgeRows.map((r) => ({
+        originPageId: r.originPageId as string,
+        destPageName: r.destPageName as string,
+        relevance: r.relevance as number,
+        linkType: r.linkType as "hyper" | "breakDown" | "hybrid",
+        tags: r.tags ? JSON.parse(r.tags as string) : [],
       })),
     };
 
@@ -167,9 +149,39 @@ export async function getViewByPageName(
   } catch (err) {
     console.error(`Error fetching view by name "${pageName}":`, err);
     throw err;
-  } finally {
-    client.release();
   }
+}
+
+let pageVectCache: { pageName: string; vect: number[] }[] | null = null;
+
+async function getAllPageVects(): Promise<{ pageName: string; vect: number[] }[]> {
+  if (pageVectCache) return pageVectCache;
+  const res = await d1Query(
+    "SELECT pageName, pageVect FROM views WHERE pageVect IS NOT NULL"
+  );
+  pageVectCache = (res[0].results as Record<string, string>[]).map((r) => ({
+    pageName: r.pageName as string,
+    vect: JSON.parse((r.pageVect as string) || "[]") as number[],
+  }));
+  return pageVectCache;
+}
+
+export function invalidatePageVectCache(): void {
+  pageVectCache = null;
+}
+
+function cosineDistance(a: number[], b: number[]): number {
+  let dot = 0;
+  let normA = 0;
+  let normB = 0;
+  for (let i = 0; i < a.length; i++) {
+    dot += a[i] * b[i];
+    normA += a[i] * a[i];
+    normB += b[i] * b[i];
+  }
+  const denom = Math.sqrt(normA) * Math.sqrt(normB);
+  if (denom === 0) return 1;
+  return 1 - dot / denom;
 }
 
 export async function getSimilarPageNames(
@@ -177,141 +189,76 @@ export async function getSimilarPageNames(
   limit: number,
   proximityThreshold: number = 0
 ): Promise<string[]> {
-  const client = await pool.connect();
   try {
-    const vectorString = `[${vect.join(",")}]`;
+    const allVects = await getAllPageVects();
     const distanceThreshold = 1 - proximityThreshold;
 
-    const similarPageNamesRes = await client.query(
-      `
-      SELECT pageName
-      FROM views
-      WHERE (pageVect <=> $1) <= $2
-      ORDER BY pageVect <=> $1 ASC
-      LIMIT $3
-    `,
-      [vectorString, distanceThreshold, limit]
-    );
-    return similarPageNamesRes.rows.filter((n) => n);
+    return allVects
+      .filter((entry) => entry.vect.length === vect.length)
+      .map((entry) => ({
+        pageName: entry.pageName,
+        dist: cosineDistance(vect, entry.vect),
+      }))
+      .filter((entry) => entry.dist <= distanceThreshold)
+      .sort((a, b) => a.dist - b.dist)
+      .slice(0, limit)
+      .map((entry) => entry.pageName)
+      .filter((n) => n);
   } catch (err) {
     console.error("Error getting similar views:", err);
     return [];
-  } finally {
-    client.release();
   }
 }
 
-/**
- * Adds a new view or updates an existing one based on the view.id.
- * This function operates within a transaction. It will:
- * 1. UPSERT the core view data into the 'views' table.
- * 2. Delete all existing associated data (links, breakdowns, edges) for that view.
- * 3. Insert the new associated data from the provided view object.
- * If any step fails, the entire transaction is rolled back.
- *
- * @param view The complete View object to be added or updated.
- */
 export async function addOrUpdateView(view: View): Promise<void> {
-  const client = await pool.connect();
   try {
-    await client.query("BEGIN");
+    const pageVectString =
+      view.pageVect && view.pageVect.length > 0
+        ? JSON.stringify(view.pageVect)
+        : null;
 
-    const upsertViewQuery = `
-      INSERT INTO views (id, pagename, summary, descimg, pagevect, audio)
-      VALUES ($1, $2, $3, $4, $5, $6)
-      ON CONFLICT (id) DO UPDATE SET
-        pagename = EXCLUDED.pagename,
-        summary = EXCLUDED.summary,
-        descimg = EXCLUDED.descimg,
-        pagevect = EXCLUDED.pagevect,
-        audio = EXCLUDED.audio;
-    `;
-    // pgvector expects vectors in the format '[1,2,3,...]'
-    const pageVectString = view.pageVect
-      ? `[${view.pageVect.join(",")}]`
-      : null;
-    await client.query(upsertViewQuery, [
-      view.id,
-      view.pageName,
-      view.summary,
-      view.descImg,
-      pageVectString,
-      view.audio,
-    ]);
+    await d1Query(
+      `INSERT OR REPLACE INTO views (id, pageName, summary, descImg, pageVect, audio) VALUES (${sqlEscape(view.id)}, ${sqlEscape(view.pageName)}, ${sqlEscape(view.summary)}, ${sqlEscape(view.descImg)}, ${sqlEscape(pageVectString)}, ${sqlEscape(view.audio)});`
+    );
 
-    // 3. Delete old child records to ensure a clean slate for the update
-    await Promise.all([
-      client.query("DELETE FROM links WHERE view_id = $1", [view.id]),
-      client.query("DELETE FROM breakdowns WHERE view_id = $1", [view.id]),
-      client.query("DELETE FROM edges WHERE view_id = $1", [view.id]),
-    ]);
+    const escapedViewId = sqlEscape(view.id);
+    await d1Query(`DELETE FROM links WHERE view_id = ${escapedViewId}; DELETE FROM breakdowns WHERE view_id = ${escapedViewId}; DELETE FROM edges WHERE view_id = ${escapedViewId};`);
 
-    // Insert Links
     if (view.links && view.links.length > 0) {
-      const linkValues: any[] = [];
-      const linkPlaceholders = view.links
-        .map((link, index) => {
-          const offset = index * 3;
-          linkValues.push(link.id, view.id, link.destPageName);
-          return `($${offset + 1}, $${offset + 2}, $${offset + 3})`;
-        })
-        .join(", ");
-      const insertLinksQuery = `INSERT INTO links (id, view_id, pagename) VALUES ${linkPlaceholders}`;
-      await client.query(insertLinksQuery, linkValues);
+      const linkRows = view.links.map((l) => [l.id, view.id, l.destPageName]);
+      await d1BatchLiteral(buildInsertSQL("links", linkRows));
     }
 
-    // Insert Breakdowns
     if (view.breakDowns && view.breakDowns.length > 0) {
-      const breakdownValues: any[] = [];
-      const breakdownPlaceholders = view.breakDowns
-        .map((bd, index) => {
-          const offset = index * 4;
-          const vectString = `[${bd.vect.join(",")}]`;
-          breakdownValues.push(bd.id, view.id, bd.sentence, vectString);
-          return `($${offset + 1}, $${offset + 2}, $${offset + 3}, $${
-            offset + 4
-          })`;
-        })
-        .join(", ");
-      const insertBreakdownsQuery = `INSERT INTO breakdowns (id, view_id, sentence, vect) VALUES ${breakdownPlaceholders}`;
-      await client.query(insertBreakdownsQuery, breakdownValues);
+      const bdRows = view.breakDowns.map((bd) => [
+        bd.id,
+        view.id,
+        bd.sentence,
+        bd.vect.length > 0 ? JSON.stringify(bd.vect) : null,
+      ]);
+      await d1BatchLiteral(buildInsertSQL("breakdowns", bdRows));
     }
 
-    // Insert Edges
     if (view.edges && view.edges.length > 0) {
-      const edgeValues: any[] = [];
-      const edgePlaceholders = view.edges
-        .map((edge, index) => {
-          const offset = index * 6;
-          edgeValues.push(
-            view.id,
-            edge.originPageId,
-            edge.destPageName,
-            edge.relevance,
-            edge.linkType,
-            edge.tags
-          );
-          return `($${offset + 1}, $${offset + 2}, $${offset + 3}, $${
-            offset + 4
-          }, $${offset + 5}, $${offset + 6})`;
-        })
-        .join(", ");
-      const insertEdgesQuery = `INSERT INTO edges (view_id, originpageid, destpagename, relevance, linktype, tags) VALUES ${edgePlaceholders}`;
-      await client.query(insertEdgesQuery, edgeValues);
+      const edgeRows = view.edges.map((edge) => [
+        randomUUID(),
+        view.id,
+        edge.originPageId,
+        edge.destPageName,
+        edge.relevance,
+        edge.linkType,
+        edge.tags && edge.tags.length > 0 ? JSON.stringify(edge.tags) : null,
+      ]);
+      await d1BatchLiteral(buildInsertSQL("edges", edgeRows));
     }
 
-    // 5. Commit the transaction
-    await client.query("COMMIT");
+    invalidatePageVectCache();
     console.log("Saved view " + view.pageName);
   } catch (err) {
-    // 6. If any error occurs, roll back the transaction
-    await client.query("ROLLBACK");
     console.error(
-      `Error in addOrUpdateView for page ${view.pageName} id "${view.id}", rolling back transaction.`,
+      `Error in addOrUpdateView for page ${view.pageName} id "${view.id}".`,
       err
     );
     throw err;
-  } finally {
-    client.release();
   }
 }

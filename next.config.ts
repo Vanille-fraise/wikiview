@@ -1,14 +1,13 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
   reactStrictMode: true,
   images: {
     remotePatterns: [
-      new URL("https://my-store-id.public.blob.vercel-storage.com/**"),
+      { protocol: "https", hostname: "pub-809c1c0b7f26455f946a52ad5e982715.r2.dev" },
+      { protocol: "https", hostname: "upload.wikimedia.org" },
     ],
   },
 };
 
-module.exports = nextConfig;
 export default nextConfig;

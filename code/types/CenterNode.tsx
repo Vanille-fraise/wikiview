@@ -1,10 +1,7 @@
-import React, { useState, useRef, useEffect } from "react";
+import React, { useState } from "react";
 import { Handle, Position } from "@xyflow/react";
 import { View } from "./view";
-import { SUMMARY_LENGTH } from "../lib/variables";
 import { cleanSummary } from "../lib/utils";
-
-const SMART_MIC = "/smart-mic-ico.png";
 
 export default function CenterNode({
   data,
@@ -14,48 +11,8 @@ export default function CenterNode({
   };
 }) {
   const [isImgHovered, setIsImgHovered] = useState(false);
-  const [audioSrc, setAudioSrc] = useState(
-    data.view.audio ? data.view.audio : undefined
-  );
-  const [isLoading, setIsLoading] = useState(false);
 
   const desc = cleanSummary(data.view.summary);
-
-  const getAndPlayAudio = async (v: View) => {
-    if (isLoading) {
-      return;
-    }
-    if (audioSrc) {
-      return await new Audio(audioSrc).play();
-    }
-    setIsLoading(true);
-    try {
-      const response = await fetch(`/api/tools/audio`, {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-        },
-        body: JSON.stringify({ view: v }),
-      });
-
-      if (!response.ok) {
-        const errorText = await response.text();
-        console.error(
-          new Error(
-            `Network response was not ok: ${response.status}. Server message: ${errorText}`
-          )
-        );
-        return;
-      }
-      const { url } = await response.json();
-      setAudioSrc(url);
-      return await new Audio(url).play();
-    } catch (error) {
-      console.error("Error fetching audio:", error);
-    } finally {
-      setIsLoading(false);
-    }
-  };
 
   return (
     <div
@@ -72,16 +29,12 @@ export default function CenterNode({
         width: 500,
         height: 200,
         backgroundColor: "rgb(35, 47, 55)",
-        cursor: "pointer",
-      }}
-      onClick={() => {
-        getAndPlayAudio(data.view);
       }}
       onMouseEnter={() => setIsImgHovered(true)}
       onMouseLeave={() => setIsImgHovered(false)}
     >
       <img
-        src={isImgHovered || !data.view.descImg ? SMART_MIC : data.view.descImg}
+        src={data.view.descImg || ""}
         alt=""
         style={{
           width: 60,
@@ -90,10 +43,8 @@ export default function CenterNode({
           borderRadius: "50%",
           marginRight: 12,
           objectFit: "cover",
-          backgroundColor:
-            isImgHovered || !data.view.descImg
-              ? "rgb(242, 219, 255)"
-              : "transparent",
+          backgroundColor: "transparent",
+          opacity: isImgHovered ? 0.8 : 1,
         }}
       />
       <div>
@@ -101,9 +52,6 @@ export default function CenterNode({
           {data.view.pageName}
         </div>
         <div style={{ fontSize: 16, overflowY: "auto" }}>{desc}</div>
-        {isLoading && (
-          <div style={{ fontSize: 14, color: "#a9adb0" }}>Loading audio...</div>
-        )}
       </div>
       <Handle type="source" position={Position.Bottom} />
       <Handle type="target" position={Position.Top} />

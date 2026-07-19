@@ -1,14 +1,11 @@
 import {
   GoogleGenAI,
   EmbedContentResponse,
-  Type,
-  GenerateContentParameters,
-  GenerateContentConfig,
 } from "@google/genai";
 
 export const EMBEDDINGS_DIMENSIONS = 768;
 
-interface GeminiTopic {
+interface Topic {
   sentence: string;
 }
 
@@ -27,13 +24,73 @@ interface WikiContent {
   links: string[];
 }
 
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-const GEMINI_EMBEDDING_MODEL = "text-embedding-004";
+const GEMINI_EMBEDDING_MODEL = "gemini-embedding-001";
 export const GEMINI_EMBEDDING_BATCH_LIMIT = 100;
-const GEMINI_TOPIC_MODEL = "gemini-2.0-flash";
-const GEMINIT_TTS_MODEL = "gemini-2.5-flash-preview-tts";
 
-const ai = new GoogleGenAI({ apiKey: GEMINI_API_KEY });
+const OPENCODE_CHAT_URL = "https://opencode.ai/zen/v1/chat/completions";
+
+let _ai: GoogleGenAI | null = null;
+function getAI(): GoogleGenAI {
+  if (!_ai) {
+    _ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
+  }
+  return _ai;
+}
+
+async function chatCompletion(
+  prompt: string,
+  options?: { maxTokens?: number; jsonMode?: boolean }
+): Promise<string | null> {
+  const apiKey = process.env.OPENCODE_API_KEY;
+  const model = process.env.OPENCODE_MODEL || "deepseek-v4-flash-free";
+  const maxTokens = options?.maxTokens ?? 16000;
+  try {
+    const body: Record<string, unknown> = {
+      model,
+      messages: [{ role: "user", content: prompt }],
+      max_tokens: maxTokens,
+      thinking: { type: "disabled" },
+    };
+    if (options?.jsonMode) {
+      body.response_format = { type: "json_object" };
+    }
+    const resp = await fetch(OPENCODE_CHAT_URL, {
+      method: "POST",
+      headers: {
+        Authorization: `Bearer ${apiKey}`,
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify(body),
+    });
+    const data = await resp.json();
+    if (!resp.ok) {
+      console.error(`OpenCode API error: ${JSON.stringify(data)}`);
+      return null;
+    }
+    const choice = data.choices?.[0];
+    const content = choice?.message?.content;
+    const finishReason = choice?.finish_reason;
+    if (!content) {
+      console.error(
+        `OpenCode API returned empty content (finish_reason: ${finishReason}, ` +
+        `reasoning_tokens: ${data.usage?.completion_tokens_details?.reasoning_tokens ?? "unknown"})`
+      );
+      return null;
+    }
+    return content;
+  } catch (error: any) {
+    console.error("OpenCode chat completion error:", error.message);
+    return null;
+  }
+}
+
+function cleanJsonResponse(text: string): string {
+  return text
+    .trim()
+    .replace(/^```json\n?/, "")
+    .replace(/\n?```$/, "")
+    .trim();
+}
 
 export async function makeEmbeddings(
   contents: string[]
@@ -43,7 +100,7 @@ export async function makeEmbeddings(
     return undefined;
   }
   try {
-    const result: EmbedContentResponse = await ai.models.embedContent({
+    const result: EmbedContentResponse = await getAI().models.embedContent({
       model: GEMINI_EMBEDDING_MODEL,
       contents,
       config: {
@@ -69,7 +126,8 @@ export async function makeEmbeddings(
 }
 
 export async function getWikiContent(
-  pageName: string
+  pageName: string,
+  _disambigDepth: number = 0
 ): Promise<WikiContent | null> {
   const baseParams = `action=query&format=json&explaintext=1&redirects=1&titles=${encodeURIComponent(
     pageName
@@ -115,9 +173,14 @@ export async function getWikiContent(
     }
 
     if (page.pageprops && "disambiguation" in page.pageprops) {
-      console.error(
-        `Error: '${pageName}' is ambiguous. Please try a more specific title.`
-      );
+      const firstLink = page.links?.[0]?.title;
+      if (firstLink && _disambigDepth < 3) {
+        console.log(
+          `'${pageName}' is ambiguous. Fetching first result: '${firstLink}'`
+        );
+        return getWikiContent(firstLink, _disambigDepth + 1);
+      }
+      console.error(`'${pageName}' is ambiguous with no usable links.`);
       return null;
     }
 
@@ -156,12 +219,12 @@ export async function getWikiContent(
 
 export async function geminiTopicsConverter(
   text: string
-): Promise<GeminiTopic[] | null> {
+): Promise<Topic[] | null> {
   const processedText = text.trim();
 
   if (!text || processedText === "") {
     console.log(
-      "  - WARNING: Text content is empty. Skipping Gemini analysis."
+      "  - WARNING: Text content is empty. Skipping analysis."
     );
     return null;
   }
@@ -188,21 +251,11 @@ export async function geminiTopicsConverter(
     `;
 
   try {
-    const result = await ai.models.generateContent({
-      model: GEMINI_TOPIC_MODEL,
-      contents: [{ text: prompt }],
-      config: {
-        responseMimeType: "application/json",
-        responseSchema: {
-          sentence: Type.STRING,
-        },
-      },
-    });
-
-    if (!result.text) {
+    const textResponse = await chatCompletion(prompt, { jsonMode: true });
+    if (!textResponse) {
       console.log(
         new Error(
-          "Gemini result text is empty for text:" +
+          "Chat result text is empty for text:" +
             text.substring(0, 60) +
             "[...]"
         )
@@ -210,22 +263,12 @@ export async function geminiTopicsConverter(
       return null;
     }
 
-    const textResponse: string = result.text;
-
-    const cleanedResponse = textResponse
-      .trim()
-      .replace(/^```json\n?/, "")
-      .replace(/\n?```$/, "");
-    return JSON.parse(cleanedResponse) as GeminiTopic[];
+    const cleanedResponse = cleanJsonResponse(textResponse);
+    return JSON.parse(cleanedResponse) as Topic[];
   } catch (e: any) {
     console.error(
-      `  - ERROR: Gemini topic analysis failed or returned invalid JSON. Reason: ${e.message}`
+      `  - ERROR: Topic analysis failed or returned invalid JSON. Reason: ${e.message}`
     );
-    if (e.response?.text) {
-      console.error(
-        `  - Gemini's raw response was: ${e.response.text.substring(0, 200)}...`
-      );
-    }
     return null;
   }
 }
@@ -234,66 +277,29 @@ export async function makeEdgeInfo(
   destPageNames: string[],
   wikiPageContent: string
 ): Promise<EdgeInfo[] | null> {
-  const prompt = `
-    <goal>
-    Build a helpful wikipedia helper by providings a list of connected articles for a given page and prioritizing they usefulness.
-    </goal>
+  const truncatedContent = wikiPageContent.slice(0, 6000);
+  const uniqueNames = [...new Set(destPageNames)].slice(0, 80);
+  const prompt = `You are analyzing a Wikipedia article to rank linked pages by importance.
 
-    <instructions>
-    Analyze the input Wikipedia article text and the list of linked wikipedia pages titles.
-    Your task is to identify the most important topics and key information, to provide a relevance score and a list of tags for each.
-    The tags must have sementical meenings based on the analized Wikipedia article, multiple linked pages should share common tags. Tags will be used to sort the linked pages for better visibility and context filtering.
+TASK: For each linked page that is genuinely related to the article topic, output:
+- "destPageName": exact page name from the list
+- "relevance": integer 0-100 (100 = essential to understanding the article, 50 = moderately important, 10 = tangentially related). Score based on actual topical connection, not just mention frequency.
+- "tags": 2-4 short lowercase tags describing the thematic relationship (e.g. ["physics", "quantum-theory", "nobel-prize"]). Tags must be shared across related pages.
 
-    For each topic you identify, provide the following informations:
-    1.  'destPageName': The page name you are providing informations for.
-    2.  'relevance': The interger which indicates how important is the destPageName relative to the wikipedia article. From 0 the most dispensable page to 100 the most crucial informations. 
-    3.  'tags': The list of tags which can be attributed to destPageName.
-    </instructions>
-    
-    <outputFormat>
-    Format your entire response as a single valid JSON array of objects. Do not include any text or formatting outside of this JSON array. Provide only the data for the most relevant pages, up to 80 pages.
+EXCLUDE pages with no real connection to the article. Return ONLY the top 20 most relevant.
 
-    Example format:
-    [
-      {"destPageName": "climat_change", "relevance": 72, "tags": ["human-origin", "urgent", "global"]},
-      {"destPageName": "albedo", "relevance": 8, "tags": ["physical-phenomenon", "global"]},
-    ]
-    </outputFormat>
+Linked pages: ${uniqueNames.join(", ")}
 
-    <input>
-      <wikipediaArticle>
-      ${wikiPageContent}
-      </wikipediaArticle>
+Article excerpt: ${truncatedContent}
 
-      <listOfDestPageNames>
-      ${[...new Set(destPageNames)]}
-      </listOfDestPageNames>
-    </input>
-    `;
+Output JSON array now:`;
 
   try {
-    const result = await ai.models.generateContent({
-      model: GEMINI_TOPIC_MODEL,
-      contents: [{ text: prompt }],
-      config: {
-        responseMimeType: "application/json",
-        responseSchema: {
-          destPageName: Type.STRING,
-          relevance: Type.NUMBER,
-          tags: {
-            type: Type.ARRAY,
-            items: {
-              type: Type.STRING,
-            },
-          },
-        },
-      },
-    });
-
-    if (!result.text) {
+    const textResponse = await chatCompletion(prompt, { jsonMode: true, maxTokens: 8000 });
+    if (!textResponse) {
       console.log(
         new Error(
-          "Gemini result text is empty when generating edges info for article: " +
+          "Chat result text is empty when generating edges info for article: " +
             wikiPageContent.substring(0, 60) +
             "[...]"
         )
@@ -301,45 +307,12 @@ export async function makeEdgeInfo(
       return null;
     }
 
-    const textResponse: string = result.text;
-
-    const cleanedResponse = textResponse
-      .trim()
-      .replace(/^```json\n?/, "")
-      .replace(/\n?```$/, "");
-
+    const cleanedResponse = cleanJsonResponse(textResponse);
     return JSON.parse(cleanedResponse) as EdgeInfo[];
   } catch (e: any) {
     console.error(
-      `  - ERROR: Gemini could not provide edgeInfos. Reason: ${e.message}.\n<prompt>${prompt}\n<prompt/>`
+      `  - ERROR: Could not provide edgeInfos. Reason: ${e.message}.\n<prompt>${prompt}\n<prompt/>`
     );
-    if (e.response?.text) {
-      console.error(
-        `  - Gemini's raw response was: ${e.response.text.substring(0, 200)}...`
-      );
-    }
     return null;
   }
-}
-
-export async function generateAudio(
-  text: string
-): Promise<Buffer<ArrayBufferLike> | null> {
-  const response = await ai.models.generateContent({
-    model: GEMINIT_TTS_MODEL,
-    contents: [{ parts: [{ text }] }],
-    config: {
-      responseModalities: ["AUDIO"],
-      speechConfig: {
-        voiceConfig: {
-          prebuiltVoiceConfig: { voiceName: "Kore" },
-        },
-      },
-    },
-  });
-  const data = response.candidates?.[0]?.content?.parts?.[0]?.inlineData?.data;
-  if (data) {
-    return Buffer.from(data, "base64");
-  }
-  return null;
 }
